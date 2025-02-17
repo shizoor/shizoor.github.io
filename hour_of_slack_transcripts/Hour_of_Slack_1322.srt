@@ -1,0 +1,4480 @@
+1
+00:00:00,000 --> 00:00:08,160
+This is Phil, Pete, and Dave of the Firesign Theater, and we're listening to The Hour of Slack!
+
+2
+00:00:08,940 --> 00:00:12,580
+Because we're subgeniuses, and we're slacking off.
+
+3
+00:00:13,560 --> 00:00:16,700
+Is this thing working? Is this thing working?
+
+4
+00:00:17,160 --> 00:00:25,740
+What do you think, as a radio broadcaster, Reverend Stang, of these new computerized devices that let you see how many people are listening?
+
+5
+00:00:26,580 --> 00:00:29,060
+Don't you find that somewhat intrusive?
+
+6
+00:00:29,060 --> 00:00:34,900
+Wouldn't you rather not know than look at that readout and see how many listeners there are?
+
+7
+00:00:35,480 --> 00:00:37,860
+Oh, you mean by internet?
+
+8
+00:00:38,260 --> 00:00:38,480
+Yeah.
+
+9
+00:00:39,200 --> 00:00:46,100
+Well, in the station that I work at, the top limit is 30 people.
+
+10
+00:00:46,480 --> 00:00:48,960
+And here's the sad thing.
+
+11
+00:00:49,220 --> 00:00:51,340
+We've never had that many.
+
+12
+00:00:51,580 --> 00:00:52,360
+It's unusual.
+
+13
+00:00:52,360 --> 00:00:53,420
+It's always about 27.
+
+14
+00:00:55,440 --> 00:00:55,640
+Even though...
+
+15
+00:00:55,640 --> 00:00:56,440
+Even that's not bad.
+
+16
+00:00:56,460 --> 00:01:00,900
+It's just enough for me to know that no one else is trying to listen.
+
+17
+00:01:01,080 --> 00:01:02,920
+That means a radio is on.
+
+18
+00:01:03,000 --> 00:01:05,100
+You don't know how many people might be listening.
+
+19
+00:01:05,220 --> 00:01:06,820
+No, those are computer connections.
+
+20
+00:01:07,060 --> 00:01:07,540
+Right.
+
+21
+00:01:07,580 --> 00:01:09,360
+It could be broadcast in China.
+
+22
+00:01:09,580 --> 00:01:09,900
+That's right.
+
+23
+00:01:10,000 --> 00:01:12,280
+And it's not really how many that are listening that matters.
+
+24
+00:01:12,320 --> 00:01:15,120
+It's how intently they are listening.
+
+25
+00:01:15,240 --> 00:01:20,100
+It's better to have one person really listening, listening the hell out of that broadcast,
+
+26
+00:01:20,440 --> 00:01:23,600
+than to just have a million people have it playing in the background.
+
+27
+00:01:23,920 --> 00:01:24,220
+Right.
+
+28
+00:01:24,600 --> 00:01:25,620
+And I can't imagine...
+
+29
+00:01:25,640 --> 00:01:28,820
+I can't imagine anything worse playing in the background than subgenius radio.
+
+30
+00:01:29,000 --> 00:01:32,960
+But some people like to perform certain activities with this in the background.
+
+31
+00:01:33,100 --> 00:01:40,540
+Generally, it's not a good idea to perform activities involving calculation, measurement, anything like that.
+
+32
+00:01:40,700 --> 00:01:46,740
+But on the other side of the brain, if you have some work for your idle hands to do,
+
+33
+00:01:46,860 --> 00:01:51,120
+it's an ideal background that can be a companionable form,
+
+34
+00:01:51,900 --> 00:01:55,620
+whose puny flaps and freaks the idling spirits of its...
+
+35
+00:01:55,640 --> 00:01:56,900
+...its own mood's interprets.
+
+36
+00:01:56,980 --> 00:02:01,240
+Like an old friend hanging around, constantly talking.
+
+37
+00:02:01,580 --> 00:02:03,760
+Or perhaps some sort of pleasurable activity...
+
+38
+00:02:03,760 --> 00:02:05,300
+Funny you should mention that, Dr. Al.
+
+39
+00:02:05,720 --> 00:02:07,160
+Well, it naturally occurs.
+
+40
+00:02:07,260 --> 00:02:10,720
+A little audio stimulation along with the other types of stimulation.
+
+41
+00:02:11,180 --> 00:02:20,680
+Yes, all our nerve endings are eventually to be put to use in the magna stimulation of the climax of X-Day.
+
+42
+00:02:21,680 --> 00:02:22,320
+Okay.
+
+43
+00:02:23,040 --> 00:02:23,680
+Okay.
+
+44
+00:02:24,880 --> 00:02:24,880
+
+
+45
+00:02:29,240 --> 00:02:38,640
+Our soundtrack for this hour of slack in the background music is Hans Salter's Son of Frankenstein.
+
+46
+00:02:38,780 --> 00:02:43,020
+The tragic tale of the son of Frankenstein.
+
+47
+00:02:43,020 --> 00:02:46,200
+Not to be confused with the son of Frankenstein's monster.
+
+48
+00:02:47,360 --> 00:02:51,780
+We don't know that the monster himself ever had an actual offspring.
+
+49
+00:02:52,920 --> 00:02:55,360
+Although we assume that he could reproduce...
+
+50
+00:02:55,640 --> 00:02:59,500
+...he certainly was eager to have a bride manufactured for him.
+
+51
+00:02:59,880 --> 00:03:01,100
+I don't blame him.
+
+52
+00:03:01,120 --> 00:03:05,920
+I felt the same way, and I went to the same extremes to make sure that that happened.
+
+53
+00:03:08,180 --> 00:03:10,200
+Actually, he couldn't reproduce.
+
+54
+00:03:13,280 --> 00:03:17,680
+We have a movie for the Baldotta auction.
+
+55
+00:03:18,140 --> 00:03:18,840
+That's right, folks.
+
+56
+00:03:19,340 --> 00:03:21,980
+It's related to my personal life.
+
+57
+00:03:22,020 --> 00:03:24,840
+It's called I Married a Monster from Outer Space.
+
+58
+00:03:25,260 --> 00:03:25,560
+Are you?
+
+59
+00:03:25,640 --> 00:03:26,320
+Are you claiming that one?
+
+60
+00:03:26,480 --> 00:03:27,660
+It's pretty good, actually.
+
+61
+00:03:27,660 --> 00:03:28,420
+No, no, we saw it.
+
+62
+00:03:28,420 --> 00:03:29,060
+I have a copy.
+
+63
+00:03:29,380 --> 00:03:32,320
+I actually married a princess from outer space.
+
+64
+00:03:34,580 --> 00:03:38,780
+You could almost say a monster married a princess from outer space.
+
+65
+00:03:39,260 --> 00:03:41,520
+Well, it's a variation on the theme.
+
+66
+00:03:43,140 --> 00:03:51,440
+Now, you know, if this were a real hour of slack, we would start off with about ten minutes of carefully edited collages.
+
+67
+00:03:51,960 --> 00:03:55,120
+Of course, those will be added later for the internet broadcast.
+
+68
+00:03:55,640 --> 00:03:58,200
+As will all sound effects and other things.
+
+69
+00:03:59,700 --> 00:04:03,840
+But we have to have the music in the background to inspire us.
+
+70
+00:04:05,460 --> 00:04:07,340
+Because, actually, let's face it.
+
+71
+00:04:07,360 --> 00:04:08,940
+Let's mention that right now.
+
+72
+00:04:09,520 --> 00:04:15,400
+Everything you see about academic music, classical music, symphonic music,
+
+73
+00:04:15,500 --> 00:04:20,560
+all this stuff is the circle jerking of a dying intelligentsia.
+
+74
+00:04:21,100 --> 00:04:25,620
+Because the real music that this era will be remembered for...
+
+75
+00:04:25,640 --> 00:04:28,160
+is the music composed for the movies.
+
+76
+00:04:28,360 --> 00:04:34,420
+And that's where our greatest composers have been hiding for the past hundred years.
+
+77
+00:04:40,220 --> 00:04:42,960
+Now, ladies and gentlemen, this is the Evolution Control Committee.
+
+78
+00:04:45,600 --> 00:04:46,420
+Please stand.
+
+79
+00:04:51,220 --> 00:04:55,040
+Ladies and gentlemen, I could really use your help, actually, here to start this out.
+
+80
+00:04:55,040 --> 00:05:00,220
+Because often in the past, we've done shows with the wheel of mashup.
+
+81
+00:05:00,320 --> 00:05:06,400
+And with the wheel of mashup, we've invited someone from the audience up to actually spin the wheel and decide some of the...
+
+82
+00:05:06,860 --> 00:05:08,160
+It's really two wheels.
+
+83
+00:05:08,300 --> 00:05:09,780
+Yeah, yeah. It's really...
+
+84
+00:05:09,780 --> 00:05:10,740
+One has music.
+
+85
+00:05:10,900 --> 00:05:12,460
+Yeah, and one has the lyrics.
+
+86
+00:05:12,500 --> 00:05:12,880
+And one has lyrics.
+
+87
+00:05:12,980 --> 00:05:15,340
+So, we're going to try to do this with you right now.
+
+88
+00:05:15,960 --> 00:05:17,400
+And we've got some music here.
+
+89
+00:05:17,580 --> 00:05:19,640
+And we need some vocal help.
+
+90
+00:05:19,760 --> 00:05:20,160
+Okay.
+
+91
+00:05:20,260 --> 00:05:21,660
+So, could you help me decide the lyrics?
+
+92
+00:05:22,280 --> 00:05:23,300
+We need a vote.
+
+93
+00:05:24,020 --> 00:05:24,460
+One.
+
+94
+00:05:24,460 --> 00:05:24,640
+One.
+
+95
+00:05:25,680 --> 00:05:29,080
+It's going to be between Lil Jon and Jackson 5, okay?
+
+96
+00:05:29,220 --> 00:05:30,460
+Okay, so we're going to do a vote.
+
+97
+00:05:30,700 --> 00:05:31,800
+So, let's vote.
+
+98
+00:05:31,800 --> 00:05:32,820
+We're going to choose the lyrics.
+
+99
+00:05:33,280 --> 00:05:35,140
+Number one, Lil Jon.
+
+100
+00:05:35,360 --> 00:05:35,800
+Lil Jon.
+
+101
+00:05:38,660 --> 00:05:41,100
+And number two, Jackson 5.
+
+102
+00:05:43,680 --> 00:05:44,880
+Your decision, Chloe.
+
+103
+00:05:44,980 --> 00:05:45,460
+Wow, it's pretty even.
+
+104
+00:05:45,540 --> 00:05:46,460
+Can we vote one more time?
+
+105
+00:05:46,600 --> 00:05:47,720
+Okay, Lil Jon.
+
+106
+00:05:51,660 --> 00:05:52,920
+Okay, Jackson 5.
+
+107
+00:05:52,920 --> 00:05:53,220
+Jackson 5.
+
+108
+00:05:53,240 --> 00:05:53,680
+Jackson 5.
+
+109
+00:05:54,000 --> 00:05:54,440
+Jackson 5.
+
+110
+00:05:54,440 --> 00:05:54,440
+
+
+111
+00:05:54,440 --> 00:05:54,440
+
+
+112
+00:05:54,440 --> 00:05:54,440
+
+
+113
+00:05:54,440 --> 00:05:54,440
+
+
+114
+00:05:54,440 --> 00:05:54,440
+
+
+115
+00:05:54,440 --> 00:05:54,440
+
+
+116
+00:05:54,440 --> 00:05:54,440
+
+
+117
+00:05:54,440 --> 00:05:54,440
+
+
+118
+00:05:54,440 --> 00:05:54,440
+
+
+119
+00:05:55,480 --> 00:05:56,920
+I think that would be it.
+
+120
+00:05:56,940 --> 00:05:57,800
+I think it's Jackson 5.
+
+121
+00:05:57,800 --> 00:05:58,180
+You think so?
+
+122
+00:05:58,480 --> 00:05:59,200
+Jackson 5?
+
+123
+00:05:59,460 --> 00:05:59,940
+I think so.
+
+124
+00:06:00,120 --> 00:06:01,420
+Jackson 5 it is.
+
+125
+00:06:01,440 --> 00:06:02,700
+To go with Frankenstein.
+
+126
+00:06:02,700 --> 00:06:04,460
+Here we go, now, it's the Evolution
+
+127
+00:06:04,460 --> 00:06:05,140
+Group Roll Committee.
+
+128
+00:06:08,760 --> 00:06:10,180
+Turn up this fucking music.
+
+129
+00:06:10,180 --> 00:06:10,380
+We need to hear the music.
+
+130
+00:06:20,760 --> 00:06:21,880
+Let's hear the music.
+
+131
+00:06:21,940 --> 00:06:23,600
+Alright, here we go.
+
+132
+00:06:36,460 --> 00:06:36,780
+Music.
+
+133
+00:06:40,000 --> 00:06:40,020
+Music.
+
+134
+00:06:40,040 --> 00:06:40,060
+Music.
+
+135
+00:06:40,080 --> 00:06:40,100
+Music.
+
+136
+00:06:40,120 --> 00:06:40,140
+Music.
+
+137
+00:06:40,180 --> 00:06:43,960
+Now I'm gonna teach you all about love, yeah
+
+138
+00:06:45,000 --> 00:06:46,680
+Friendship's a battle, take a seat
+
+139
+00:06:46,680 --> 00:06:49,080
+All you gotta do to be loved to me
+
+140
+00:06:49,080 --> 00:06:52,540
+A, B, C, easy as one, two, three
+
+141
+00:06:52,540 --> 00:06:54,360
+All simple, let's go, baby
+
+142
+00:06:54,360 --> 00:06:57,000
+A, B, C, one, two, three
+
+143
+00:06:57,000 --> 00:06:58,520
+Baby, you and me, girl
+
+144
+00:06:59,760 --> 00:07:01,540
+Easy as one, two, three
+
+145
+00:07:01,540 --> 00:07:03,460
+All simple, let's go, baby
+
+146
+00:07:03,460 --> 00:07:05,900
+A, B, C, one, two, three
+
+147
+00:07:05,900 --> 00:07:07,300
+Baby, you and me, girl
+
+148
+00:07:13,840 --> 00:07:16,100
+Come on, come on, come on, let me show you what's all about
+
+149
+00:07:16,100 --> 00:07:17,900
+We take a ride, we're with the team
+
+150
+00:07:17,900 --> 00:07:19,700
+All the branches of the line and dream
+
+151
+00:07:19,700 --> 00:07:22,860
+We're living with our friends, we're all in this with baby girl
+
+152
+00:07:22,860 --> 00:07:25,080
+Your education makes a big, big, big deal
+
+153
+00:07:25,080 --> 00:07:28,160
+Just wanna show you how to get an A
+
+154
+00:07:31,640 --> 00:07:33,640
+Let's go to the baby, the boys, you gotta do
+
+155
+00:07:33,640 --> 00:07:37,120
+A, B, C, easy as one, two, three
+
+156
+00:07:37,120 --> 00:07:38,900
+All simple, let's go, baby
+
+157
+00:07:39,340 --> 00:07:40,160
+A, B, C, one, two, three
+
+158
+00:07:40,180 --> 00:07:42,860
+Baby, you and me, girl
+
+159
+00:07:42,860 --> 00:07:46,140
+Easy, easy, easy as I got two, three
+
+160
+00:07:46,140 --> 00:07:48,340
+Sing a simple melody
+
+161
+00:07:48,340 --> 00:07:51,460
+So easy, love can be
+
+162
+00:07:51,460 --> 00:07:53,700
+So easy, love can be
+
+163
+00:07:53,700 --> 00:07:55,540
+Sing a simple melody
+
+164
+00:07:55,540 --> 00:07:58,180
+One, two, three, you and me
+
+165
+00:07:58,180 --> 00:07:59,120
+You hear that?
+
+166
+00:08:00,020 --> 00:08:00,780
+The music's a-banging
+
+167
+00:08:00,780 --> 00:08:02,000
+You hear it?
+
+168
+00:08:02,140 --> 00:08:03,240
+It's a-banging
+
+169
+00:08:04,020 --> 00:08:04,480
+It's a-banging
+
+170
+00:08:04,480 --> 00:08:05,600
+It's a-banging
+
+171
+00:08:05,600 --> 00:08:05,680
+It's a-banging
+
+172
+00:08:05,680 --> 00:08:07,000
+It's a-banging
+
+173
+00:08:07,000 --> 00:08:07,080
+It's a-banging
+
+174
+00:08:07,080 --> 00:08:07,680
+It's a-banging
+
+175
+00:08:07,680 --> 00:08:09,100
+It's a-banging
+
+176
+00:08:33,100 --> 00:08:37,920
+I assume everyone here has signed the liability waiver.
+
+177
+00:08:37,920 --> 00:08:41,000
+I don't think anyone's turned them in, though.
+
+178
+00:08:41,800 --> 00:08:44,460
+Apparently you're signing them and putting them in your pocket.
+
+179
+00:08:44,600 --> 00:08:45,980
+That doesn't do us any good.
+
+180
+00:08:47,200 --> 00:08:53,380
+Oh, and you'll find in your brochure this little thing called the Gorillas and Demons in your life.
+
+181
+00:08:53,600 --> 00:08:55,940
+This is your Gorillas and Demons form.
+
+182
+00:08:56,140 --> 00:08:57,600
+You're supposed to fill that out.
+
+183
+00:08:57,820 --> 00:09:01,860
+Yeah, you fill this out and then leave it up here at the table.
+
+184
+00:09:01,960 --> 00:09:05,260
+And Dr. Howell and I will read them at some point.
+
+185
+00:09:05,980 --> 00:09:07,840
+Because they usually are pretty funny.
+
+186
+00:09:08,700 --> 00:09:11,840
+Depending on what voice the Gorilla and the Demon use.
+
+187
+00:09:38,340 --> 00:09:40,200
+And this is my first X-Day.
+
+188
+00:09:43,320 --> 00:09:44,000
+Thank you.
+
+189
+00:09:44,060 --> 00:09:44,960
+I got somebody.
+
+190
+00:09:46,800 --> 00:09:51,280
+And I gotta tell you, this has been the most unique experience of my entire life.
+
+191
+00:09:52,760 --> 00:09:54,180
+But I am not afraid.
+
+192
+00:09:56,760 --> 00:09:58,260
+You guys still can't hear me?
+
+193
+00:10:02,720 --> 00:10:03,220
+Alright.
+
+194
+00:10:09,640 --> 00:10:11,780
+And I've been told I can't go home.
+
+195
+00:10:13,600 --> 00:10:15,220
+But I realized something.
+
+196
+00:10:16,820 --> 00:10:17,700
+I am home.
+
+197
+00:10:18,800 --> 00:10:19,720
+Freeze, boss!
+
+198
+00:10:23,440 --> 00:10:31,660
+I spent my life, my entire existence, in one of the pinkest states on the country.
+
+199
+00:10:32,080 --> 00:10:33,740
+And that is the state of Florida.
+
+200
+00:10:35,280 --> 00:10:37,780
+I've worked for every pink corporation you know.
+
+201
+00:10:38,740 --> 00:10:39,980
+I've worked for Disney.
+
+202
+00:10:41,620 --> 00:10:42,960
+I've worked for Universal.
+
+203
+00:10:43,940 --> 00:10:46,520
+And even now, I still have a con job.
+
+204
+00:10:51,400 --> 00:10:53,220
+But I realized something.
+
+205
+00:10:53,640 --> 00:10:57,120
+That entire time, I have been a salesman.
+
+206
+00:10:58,820 --> 00:11:00,360
+I'm not the best yet.
+
+207
+00:11:01,080 --> 00:11:02,760
+But I'm getting there, brothers.
+
+208
+00:11:03,600 --> 00:11:04,760
+I'm getting there.
+
+209
+00:11:06,100 --> 00:11:06,700
+I'm getting there.
+
+210
+00:11:06,700 --> 00:11:07,080
+I'm getting there.
+
+211
+00:11:07,300 --> 00:11:07,900
+I'm getting there.
+
+212
+00:11:07,900 --> 00:11:07,900
+
+
+213
+00:11:07,900 --> 00:11:07,900
+
+
+214
+00:11:07,900 --> 00:11:07,900
+
+
+215
+00:11:07,900 --> 00:11:07,900
+
+
+216
+00:11:10,280 --> 00:11:17,360
+Come here whoAKE ME BUR Oftом
+
+217
+00:11:17,360 --> 00:11:17,580
+Come or die or dieعد
+
+218
+00:11:17,580 --> 00:11:17,580
+
+
+219
+00:11:17,580 --> 00:11:17,580
+
+
+220
+00:11:17,580 --> 00:11:18,360
+You trying to catch somebody peppered like laser stray before it!!!
+
+221
+00:11:18,360 --> 00:11:23,800
+Am I dead or I'm alive
+
+222
+00:11:23,800 --> 00:11:23,800
+
+
+223
+00:11:23,800 --> 00:11:23,900
+It's alright I need on some round of aura
+
+224
+00:11:23,900 --> 00:11:23,900
+
+
+225
+00:11:23,900 --> 00:11:23,900
+
+
+226
+00:11:23,900 --> 00:11:34,580
+With the people no longer love me
+
+227
+00:11:34,580 --> 00:11:40,280
+written by Phineas Narco, or not a poem, it's a short rant written by Phineas Narco.
+
+228
+00:11:40,520 --> 00:11:43,660
+Who unfortunately was not able to be among us.
+
+229
+00:11:43,780 --> 00:11:47,220
+Yeah, he is normally one of the old time show guys.
+
+230
+00:11:47,720 --> 00:11:54,040
+He's on the Puzzling Evidence show and Over the Edge and Hour of Slack and everything else quite a bit.
+
+231
+00:11:54,540 --> 00:11:58,240
+Confidentially, it would take a major miracle to get him here.
+
+232
+00:11:58,380 --> 00:12:00,320
+He's afraid to go out of his house.
+
+233
+00:12:01,000 --> 00:12:06,880
+But he wrote this right after he got so angry about not being able to come.
+
+234
+00:12:07,120 --> 00:12:14,020
+He said, I was walking home just now and kind of looking down as I tend to do when I walk along.
+
+235
+00:12:14,300 --> 00:12:22,020
+On the sidewalk face up was one of those name tags people get that stick on and you write your name on it with a magic marker.
+
+236
+00:12:22,220 --> 00:12:22,840
+See, I've got mine.
+
+237
+00:12:23,400 --> 00:12:27,040
+And the name on the sticker said Bob on it.
+
+238
+00:12:27,100 --> 00:12:28,020
+Swear to God.
+
+239
+00:12:28,220 --> 00:12:30,240
+And I smiled and thought that's a sign.
+
+240
+00:12:30,320 --> 00:12:32,100
+It's going to be a good day today.
+
+241
+00:12:32,580 --> 00:12:40,320
+I get home and think to myself, you know, I like being a nice guy, even though nice guys finish last.
+
+242
+00:12:40,580 --> 00:12:47,020
+But, you know, there's a lot less pressure at the end of the race and you have a lot more time to enjoy it back there.
+
+243
+00:12:47,220 --> 00:12:51,640
+And hell, I didn't even give a shit about their prize in the first place.
+
+244
+00:12:51,840 --> 00:12:55,520
+It's a carrot on a stick, dear friends, being a success.
+
+245
+00:12:56,180 --> 00:12:59,600
+That's why we in the church kill time and burn money.
+
+246
+00:12:59,600 --> 00:13:03,600
+Because slack is neither in time or money.
+
+247
+00:13:03,720 --> 00:13:05,680
+It's in both at the same time.
+
+248
+00:13:06,140 --> 00:13:09,880
+Screw their mediocrity and low standards and praise Bob.
+
+249
+00:13:10,720 --> 00:13:13,380
+But I take that or kill me stuff seriously.
+
+250
+00:13:13,480 --> 00:13:20,760
+I paid my $30 not once, but accidentally twice, which is impossible to do intentionally, dear friends.
+
+251
+00:13:20,820 --> 00:13:28,700
+And I'm here to tell you that ever since my life has had an abundance of slack and has been populated by blessed holy mistakes.
+
+252
+00:13:28,700 --> 00:13:33,620
+Good mistakes, which only had to be recognized as being such.
+
+253
+00:13:33,900 --> 00:13:36,280
+Or as we call it, involuntary slack.
+
+254
+00:13:36,600 --> 00:13:41,440
+I've followed the path of least resistance and it fucking works.
+
+255
+00:13:42,080 --> 00:13:52,240
+When faced with any decision in life, I always judge where to go by what gives me the most slack, the least amount of stress and hassle, and the most time and money.
+
+256
+00:13:52,400 --> 00:13:55,720
+And sure, nice guys finish last, but so what?
+
+257
+00:13:55,800 --> 00:13:58,680
+At least they have the luxury of being nice.
+
+258
+00:13:58,700 --> 00:13:59,040
+Nice!
+
+259
+00:13:59,120 --> 00:14:02,820
+And that's the prize from which all blessings flow.
+
+260
+00:14:03,060 --> 00:14:04,900
+It's nice to be nice.
+
+261
+00:14:05,120 --> 00:14:06,160
+Praise Bob.
+
+262
+00:14:06,640 --> 00:14:07,500
+Praise Bob.
+
+263
+00:14:07,520 --> 00:14:12,680
+Now I can no more imagine Dr. Legume saying that than Adolf Hitler.
+
+264
+00:14:12,960 --> 00:14:16,420
+However, if you know Phineas Narco, it's a quite honest thing.
+
+265
+00:14:16,600 --> 00:14:17,240
+Phineas is a real nice guy.
+
+266
+00:14:17,240 --> 00:14:18,580
+Oh, he's honest, all right.
+
+267
+00:14:18,680 --> 00:14:22,780
+He'll tell you about every thought he's ever had about himself.
+
+268
+00:14:24,100 --> 00:14:28,560
+You know, and honestly, yes, he'll share until you...
+
+269
+00:14:28,700 --> 00:14:33,320
+...want to terminate the sharing session.
+
+270
+00:14:34,240 --> 00:14:35,780
+But it's interesting.
+
+271
+00:14:35,960 --> 00:14:41,660
+He also is a learned fellow who has come up with many intriguing concepts.
+
+272
+00:14:42,360 --> 00:14:47,660
+Have you ever considered what a modest contribution $30 is to the only true religion?
+
+273
+00:14:47,860 --> 00:14:52,180
+All the fake religions, they all want 10% of everything you earn.
+
+274
+00:14:52,580 --> 00:14:56,920
+Well, I think it should be $33, and I've said so for many years.
+
+275
+00:14:57,020 --> 00:14:58,280
+And I think the next...
+
+276
+00:14:58,700 --> 00:15:00,380
+...instrumental rise will take it to $33.
+
+277
+00:15:00,560 --> 00:15:07,380
+It's difficult, of course, to deal with in a monetary way, mathematically.
+
+278
+00:15:07,640 --> 00:15:14,900
+But you have the golden mean, so I don't see why you shouldn't send in 33 pieces of silver to become a subgenius.
+
+279
+00:15:14,940 --> 00:15:18,580
+You know, I don't remember you ever mentioning that, although I don't doubt that you did.
+
+280
+00:15:18,900 --> 00:15:19,640
+I have mentioned it.
+
+281
+00:15:19,640 --> 00:15:28,200
+I have been thinking, friends, you know our prices, the church of the subgenius, the most supposedly the cult of the super salesman.
+
+282
+00:15:28,700 --> 00:15:31,560
+Our prices haven't changed since 1995.
+
+283
+00:15:32,500 --> 00:15:34,940
+They've actually gone down if you adjust for inflation.
+
+284
+00:15:35,060 --> 00:15:36,320
+Oh, yeah, yeah, quite a bit.
+
+285
+00:15:36,820 --> 00:15:40,840
+So I think our next...
+
+286
+00:15:40,840 --> 00:15:44,820
+We will probably charge $35 for next X day.
+
+287
+00:15:44,880 --> 00:15:49,740
+And eternal salvation will go up to $35.
+
+288
+00:15:50,000 --> 00:15:50,500
+$35.
+
+289
+00:15:50,500 --> 00:15:55,280
+Which means that triple your money back will be harder to calculate for me.
+
+290
+00:15:55,280 --> 00:15:58,620
+This, of course, is all baloney because we know there isn't going to be a next X.
+
+291
+00:15:58,700 --> 00:16:02,140
+This is all theological tinker toy talking.
+
+292
+00:16:02,360 --> 00:16:03,840
+The real inside information is...
+
+293
+00:16:03,840 --> 00:16:06,400
+We're just building airy castles in the air.
+
+294
+00:16:06,440 --> 00:16:08,460
+Nonetheless, there are reasons it should be 33.
+
+295
+00:16:08,640 --> 00:16:16,580
+The 33rd parallel on which President John F. Kennedy, President 35, was assassinated.
+
+296
+00:16:16,580 --> 00:16:23,720
+The golden mean, one third, the 33 vertebra in the human body, etc., etc.
+
+297
+00:16:24,280 --> 00:16:25,560
+On and on it goes.
+
+298
+00:16:25,820 --> 00:16:28,260
+And if you want to vault.
+
+299
+00:16:28,700 --> 00:16:31,560
+So 35 after that, who can stop you?
+
+300
+00:16:31,600 --> 00:16:34,720
+But at least your 35 will contain the significant 33.
+
+301
+00:16:35,140 --> 00:16:37,860
+And that's only if it's not on X day.
+
+302
+00:16:37,900 --> 00:16:41,580
+On X day, the price goes up exponentially as the 7 o'clock approaches.
+
+303
+00:16:41,840 --> 00:16:45,220
+By 659, it can cost you $3,000.
+
+304
+00:16:45,600 --> 00:16:47,400
+A thousand? Hell, millions.
+
+305
+00:16:47,440 --> 00:16:50,640
+The guy standing by the saucer saying, how much have you got?
+
+306
+00:16:51,580 --> 00:16:55,640
+There's some friends for whom the money won't work.
+
+307
+00:16:55,680 --> 00:16:57,320
+No matter how much they pay.
+
+308
+00:16:57,900 --> 00:17:02,540
+Because they, at one point in their life, they denied Bob.
+
+309
+00:17:03,960 --> 00:17:06,020
+Or they insulted me.
+
+310
+00:17:06,420 --> 00:17:07,420
+One or the other.
+
+311
+00:17:07,880 --> 00:17:09,780
+That'll also keep you off the saucer.
+
+312
+00:17:09,840 --> 00:17:11,160
+That's when they encounter the invisible.
+
+313
+00:17:11,160 --> 00:17:12,800
+Because I'm the one who controls them.
+
+314
+00:17:12,880 --> 00:17:19,280
+I have the, in fact, I have a little computer hooked up down here that has the book of life.
+
+315
+00:17:19,380 --> 00:17:22,280
+It has the list of everyone who will be saved.
+
+316
+00:17:22,840 --> 00:17:25,800
+And we don't need a list of those who will not be saved.
+
+317
+00:17:25,840 --> 00:17:27,040
+Because that would, that's...
+
+318
+00:17:27,320 --> 00:17:27,800
+Billions.
+
+319
+00:17:27,800 --> 00:17:28,800
+And who cares?
+
+320
+00:17:28,960 --> 00:17:30,120
+And it's a waste of paper.
+
+321
+00:17:42,180 --> 00:17:44,160
+I've got a tape.
+
+322
+00:17:46,560 --> 00:17:49,660
+I keep it with my secrets.
+
+323
+00:17:52,640 --> 00:17:54,820
+My lips are sealed.
+
+324
+00:17:57,320 --> 00:18:00,620
+And there's no whiskey that will set them free.
+
+325
+00:18:03,440 --> 00:18:10,660
+But I will tell my tale for thirty pieces of silver.
+
+326
+00:18:13,840 --> 00:18:15,960
+I've got some friends.
+
+327
+00:18:18,260 --> 00:18:21,240
+They're weighing down in my pocket.
+
+328
+00:18:24,640 --> 00:18:26,360
+It's buttoned shut.
+
+329
+00:18:28,100 --> 00:18:32,600
+They mean as much as all the world to me.
+
+330
+00:18:34,600 --> 00:18:42,400
+But you can't have my friends for thirty pieces of silver.
+
+331
+00:18:46,020 --> 00:18:48,260
+Come on, step over here.
+
+332
+00:18:48,580 --> 00:18:50,960
+I'm gonna make you a deal.
+
+333
+00:18:51,880 --> 00:18:56,100
+I'm not gonna trade, pay, borrow or steal.
+
+334
+00:18:56,320 --> 00:18:57,300
+I'm gonna keep you safe.
+
+335
+00:18:57,300 --> 00:18:57,300
+
+
+336
+00:18:57,300 --> 00:18:57,300
+
+
+337
+00:18:57,300 --> 00:18:57,300
+
+
+338
+00:18:57,300 --> 00:18:57,300
+
+
+339
+00:18:57,300 --> 00:19:06,820
+I'm gonna do you a favor, there's no way you can lose. Just make me the offer that I can't refuse.
+
+340
+00:19:17,320 --> 00:19:24,640
+I've got a soul, I keep it in the mirror.
+
+341
+00:19:27,660 --> 00:19:35,660
+I left it there, it's everything that it's cracked up to be.
+
+342
+00:19:37,600 --> 00:19:45,960
+But you can have my soul for thirty pieces of silver.
+
+343
+00:20:20,860 --> 00:20:36,780
+I left it there, it's everything that it's cracked up to be.
+
+344
+00:20:56,340 --> 00:21:06,800
+I left it there, it's everything that it's cracked up to be.
+
+345
+00:21:06,820 --> 00:21:13,540
+There's no way you can lose. Just make me the offer that I can't refuse.
+
+346
+00:21:24,120 --> 00:21:31,380
+I've got a dream, it's way up in the attic.
+
+347
+00:21:34,620 --> 00:21:36,720
+And more than dust.
+
+348
+00:21:38,220 --> 00:21:43,740
+Can't get beyond my special lock and key.
+
+349
+00:21:45,360 --> 00:21:53,120
+But you can have my dream for thirty pieces of silver.
+
+350
+00:21:55,040 --> 00:21:55,300
+Oh!
+
+351
+00:21:58,000 --> 00:22:04,200
+Little Jack Melody did that piece called Thirty Pieces of Silver.
+
+352
+00:22:04,400 --> 00:22:06,740
+And now, back to the hour.
+
+353
+00:22:06,820 --> 00:22:07,200
+I'm in the floor of schlack.
+
+354
+00:22:07,680 --> 00:22:12,080
+That little special module they have at the door of the saucers,
+
+355
+00:22:12,100 --> 00:22:16,820
+it's actually a sonic emulator that puts out a sort of force field.
+
+356
+00:22:16,960 --> 00:22:20,100
+The same concept they use to drive away mosquitoes now.
+
+357
+00:22:20,160 --> 00:22:23,560
+You may have seen these commercials where it puts a little bubble over the first...
+
+358
+00:22:23,560 --> 00:22:24,940
+But those things never work.
+
+359
+00:22:25,200 --> 00:22:29,380
+Yes, well, this is the actual Exus technology, though, it works.
+
+360
+00:22:29,680 --> 00:22:31,500
+They can get all the way up to the chute.
+
+361
+00:22:31,560 --> 00:22:34,000
+They can pay their membership fee.
+
+362
+00:22:34,180 --> 00:22:36,800
+They can be entering the door, but they can't get in here.
+
+363
+00:22:36,800 --> 00:22:38,760
+You can't quite make it through the door.
+
+364
+00:22:38,840 --> 00:22:40,620
+The bubble is pushing them out.
+
+365
+00:22:41,600 --> 00:22:45,200
+And, of course, the rest of the subgeniuses just kind of push them to the side
+
+366
+00:22:45,200 --> 00:22:47,420
+as they go through without any resistance whatsoever.
+
+367
+00:22:47,900 --> 00:22:52,120
+You know, of course, my most common nightmare is that I'm one of the ones being pushed out.
+
+368
+00:22:52,320 --> 00:22:53,140
+Well, that's a real...
+
+369
+00:22:53,140 --> 00:22:56,520
+That you worked too hard for Bob, Reverend Stang.
+
+370
+00:22:57,280 --> 00:22:58,940
+Here, play back the tapes.
+
+371
+00:22:59,140 --> 00:23:00,560
+This is the judgment.
+
+372
+00:23:01,380 --> 00:23:04,420
+You preached slack, but yet you worked hard.
+
+373
+00:23:04,420 --> 00:23:07,400
+But, Lord, I'm an emergentile.
+
+374
+00:23:07,500 --> 00:23:08,780
+That is my slack.
+
+375
+00:23:08,860 --> 00:23:10,880
+Working too hard, that's how I get slack.
+
+376
+00:23:11,520 --> 00:23:13,640
+No, you've misunderstood everything.
+
+377
+00:23:14,360 --> 00:23:18,560
+Slack is drinking beer and watching TV all day, like the conspiracy said.
+
+378
+00:23:18,940 --> 00:23:21,160
+We banish him to subgenius hell.
+
+379
+00:23:21,860 --> 00:23:23,460
+Oh, no, not subgenius hell.
+
+380
+00:23:23,520 --> 00:23:24,360
+Oh, we did that one yesterday.
+
+381
+00:23:24,520 --> 00:23:26,020
+It happened to Moses, you know.
+
+382
+00:23:26,180 --> 00:23:32,560
+And we've squeezed out every last little module and calorie of potential work that you can do for the church.
+
+383
+00:23:32,620 --> 00:23:34,120
+So now we can't use.
+
+384
+00:23:34,420 --> 00:23:35,000
+We can't use you anymore.
+
+385
+00:23:35,380 --> 00:23:41,620
+Moses was God's man, but because he angered Jehovah in the last decade of his life,
+
+386
+00:23:41,700 --> 00:23:45,060
+he was not allowed to pass into the promised land.
+
+387
+00:23:46,020 --> 00:23:51,440
+And he could only view the paradise from afar.
+
+388
+00:23:51,680 --> 00:23:54,100
+I have seen the saucers, my children.
+
+389
+00:23:54,420 --> 00:23:59,560
+I may not get on them with you, but I have seen the saucers.
+
+390
+00:23:59,920 --> 00:24:00,960
+Praise Bob.
+
+391
+00:24:01,200 --> 00:24:01,920
+Praise Bob.
+
+392
+00:24:02,140 --> 00:24:02,740
+Praise Bob.
+
+393
+00:24:03,280 --> 00:24:03,920
+Praise Bob.
+
+394
+00:24:03,920 --> 00:24:03,960
+Praise Bob.
+
+395
+00:24:03,960 --> 00:24:04,160
+Praise Bob.
+
+396
+00:24:04,160 --> 00:24:04,280
+Praise Bob.
+
+397
+00:24:04,400 --> 00:24:04,400
+
+
+398
+00:24:04,400 --> 00:24:04,400
+
+
+399
+00:24:04,400 --> 00:24:04,400
+
+
+400
+00:24:04,400 --> 00:24:04,400
+
+
+401
+00:24:04,400 --> 00:24:04,400
+
+
+402
+00:24:04,400 --> 00:24:04,400
+
+
+403
+00:24:05,180 --> 00:24:06,040
+Praise Bob.
+
+404
+00:24:06,040 --> 00:24:06,040
+
+
+405
+00:24:06,040 --> 00:24:06,040
+
+
+406
+00:24:06,040 --> 00:24:06,040
+
+
+407
+00:24:06,040 --> 00:24:06,040
+
+
+408
+00:24:06,040 --> 00:24:08,020
+Well, you will be remembered, Reverend Stang.
+
+409
+00:24:08,120 --> 00:24:08,920
+That's the good news.
+
+410
+00:24:09,080 --> 00:24:12,040
+Well, think what the pinks will do to me if I'm left behind.
+
+411
+00:24:13,060 --> 00:24:16,000
+They'll only have a few minutes to do that, though.
+
+412
+00:24:16,060 --> 00:24:16,660
+That's true.
+
+413
+00:24:20,620 --> 00:24:26,800
+So the great Reverend Susie the Flucy is on the land.
+
+414
+00:24:26,980 --> 00:24:29,640
+However, she is resting.
+
+415
+00:24:30,200 --> 00:24:33,740
+So I think she drove by herself all the way here from.
+
+416
+00:24:35,720 --> 00:24:38,160
+Hellwater, Kentucky or wherever she's from.
+
+417
+00:24:38,380 --> 00:24:39,200
+What's that place?
+
+418
+00:24:39,320 --> 00:24:41,660
+God's Wrath, Georgia or something like that.
+
+419
+00:24:42,320 --> 00:24:46,620
+It's a place where everybody else in the town is a celibate blacksmith.
+
+420
+00:24:49,920 --> 00:24:56,240
+Atlanta, home of beautiful WREK, the station which plays us.
+
+421
+00:24:57,200 --> 00:25:00,780
+Although I don't think it's paid us in quite a long time.
+
+422
+00:25:02,240 --> 00:25:06,600
+Well, the important thing is that their spirit was in the right space.
+
+423
+00:25:07,100 --> 00:25:12,960
+The idea of rewards and of Moses, the lawgiver, still intrigues me a little bit.
+
+424
+00:25:13,160 --> 00:25:21,500
+You know, Moses did get one supreme blessing from the Lord for being such a good servant of Jehovah.
+
+425
+00:25:21,660 --> 00:25:24,580
+And that blessing took a peculiar form.
+
+426
+00:25:24,940 --> 00:25:27,640
+And it's there in the Bible.
+
+427
+00:25:27,960 --> 00:25:30,760
+Moses was allowed, unlike any other...
+
+428
+00:25:30,780 --> 00:25:33,800
+...any other man who ever lived, to view God's ass.
+
+429
+00:25:34,680 --> 00:25:43,000
+How this came about was that Moses requested that he see God after serving him all this time.
+
+430
+00:25:43,100 --> 00:25:45,120
+And God said, no, Moses, that wouldn't do.
+
+431
+00:25:45,320 --> 00:25:49,460
+Because, you see, it's a lot of technical stuff here.
+
+432
+00:25:49,540 --> 00:25:56,260
+His effulgence, his emanation would utterly blast Moses into smithereens.
+
+433
+00:25:56,320 --> 00:26:00,680
+Just as flaming Jupiter did to hapless Semele in the pagan...
+
+434
+00:26:00,780 --> 00:26:01,180
+...world.
+
+435
+00:26:01,360 --> 00:26:08,760
+But, if when God passed by and then Moses turned around and looked, he could see his back parts.
+
+436
+00:26:09,560 --> 00:26:12,340
+His grand fesses or buttocks.
+
+437
+00:26:12,440 --> 00:26:15,100
+And so Moses did this.
+
+438
+00:26:15,180 --> 00:26:18,800
+He saw Jehovah pass by with his peripheral vision.
+
+439
+00:26:18,940 --> 00:26:25,780
+And then he quickly turned and saw the right side, which is to say the posterior side of the Lord.
+
+440
+00:26:25,940 --> 00:26:30,040
+And thus was neither turned into a pillar of salt, like Lot's wife...
+
+441
+00:26:30,780 --> 00:26:34,640
+...nor was he blasted into atoms from the sheer glory of it all.
+
+442
+00:26:34,880 --> 00:26:36,480
+He also passed some gas there.
+
+443
+00:26:36,660 --> 00:26:39,840
+So he got a little divine little church air of sorts.
+
+444
+00:26:40,120 --> 00:26:41,080
+It was called an afflatus.
+
+445
+00:26:41,080 --> 00:26:43,380
+And notice with subgeniuses it's just the opposite.
+
+446
+00:26:43,760 --> 00:26:48,700
+We all get to meet Bob, but he gets our ass.
+
+447
+00:26:49,860 --> 00:26:55,760
+Some people wonder if our church air is also from Bob's posterior orifice.
+
+448
+00:26:56,540 --> 00:26:58,420
+Well, certainly, in a way.
+
+449
+00:26:58,480 --> 00:27:00,760
+We are the excretion of Bob.
+
+450
+00:27:00,760 --> 00:27:00,760
+
+
+451
+00:27:00,760 --> 00:27:05,420
+We're the result of his wisdom coming out.
+
+452
+00:27:05,640 --> 00:27:07,200
+I just fail to see how this helps anything.
+
+453
+00:27:07,200 --> 00:27:16,440
+Since he can't really open his mouth, because that pipe grown in between the two teeth, upper and lower, he has to speak through his rear.
+
+454
+00:27:17,540 --> 00:27:19,760
+Actually, that's brand new doctrine.
+
+455
+00:27:19,960 --> 00:27:21,880
+I just made that up off the top of my head.
+
+456
+00:27:21,980 --> 00:27:23,860
+So don't go by that.
+
+457
+00:27:24,160 --> 00:27:29,720
+Although technically, anything it says in pamphlet number one, anything any subgenius says,
+
+458
+00:27:29,720 --> 00:27:31,580
+automatically becomes doctrine.
+
+459
+00:27:32,880 --> 00:27:37,480
+Which some certain idiots have tried to take literally,
+
+460
+00:27:37,700 --> 00:27:42,280
+forgetting that every other subgenius can then say,
+
+461
+00:27:42,460 --> 00:27:44,480
+No, you aren't.
+
+462
+00:27:46,720 --> 00:27:50,460
+You say this doctrine is superseded in most cases.
+
+463
+00:27:50,660 --> 00:27:57,060
+And with this great principle has come the formation of other churches and denominations also,
+
+464
+00:27:57,220 --> 00:27:58,680
+fathering forth.
+
+465
+00:27:58,680 --> 00:28:01,840
+And branching out like a great tree.
+
+466
+00:28:03,960 --> 00:28:07,640
+So his idea is that we say praise Bob and fuck Bob.
+
+467
+00:28:07,840 --> 00:28:09,080
+So we'll start with praise Bob.
+
+468
+00:28:09,240 --> 00:28:11,240
+So one, two, three.
+
+469
+00:28:12,000 --> 00:28:12,960
+Praise Bob.
+
+470
+00:28:14,340 --> 00:28:15,100
+All right.
+
+471
+00:28:15,580 --> 00:28:17,100
+Now we're going to do fuck Bob.
+
+472
+00:28:17,220 --> 00:28:17,660
+Are you ready?
+
+473
+00:28:17,780 --> 00:28:18,520
+Is everybody ready?
+
+474
+00:28:18,680 --> 00:28:19,100
+Okay.
+
+475
+00:28:19,640 --> 00:28:21,320
+One, two, three.
+
+476
+00:28:21,660 --> 00:28:22,940
+Fuck Bob.
+
+477
+00:28:23,860 --> 00:28:24,340
+Good.
+
+478
+00:28:24,520 --> 00:28:24,820
+Good.
+
+479
+00:28:24,880 --> 00:28:25,960
+We're playing along so far.
+
+480
+00:28:27,540 --> 00:28:28,660
+Let's try it a little harder.
+
+481
+00:28:28,660 --> 00:28:30,420
+Let's try it a little, a little more complicated.
+
+482
+00:28:31,000 --> 00:28:31,480
+Okay.
+
+483
+00:28:33,660 --> 00:28:34,140
+Slap.
+
+484
+00:28:35,760 --> 00:28:36,240
+Slap.
+
+485
+00:28:40,340 --> 00:28:41,300
+The subgenius.
+
+486
+00:28:43,160 --> 00:28:44,380
+Must have slap.
+
+487
+00:28:44,760 --> 00:28:46,620
+The subgenius.
+
+488
+00:28:47,960 --> 00:28:49,460
+Must have slap.
+
+489
+00:28:50,000 --> 00:28:50,460
+Must have slap.
+
+490
+00:28:50,460 --> 00:28:51,540
+Must have slap.
+
+491
+00:28:52,220 --> 00:28:54,180
+Okay, we blew that the first time.
+
+492
+00:28:54,260 --> 00:28:56,100
+So we're trying to get it to see if this is coming.
+
+493
+00:28:56,240 --> 00:28:57,620
+We're trying to do Bob and praise him.
+
+494
+00:28:58,660 --> 00:29:02,540
+So at least half of you are still in your Bobby stage, including that gentleman back
+
+495
+00:29:02,540 --> 00:29:03,920
+there with the long gray hair.
+
+496
+00:29:04,340 --> 00:29:08,160
+I believe he's probably the biggest Bobby in this church.
+
+497
+00:29:08,460 --> 00:29:09,800
+So let's try this again.
+
+498
+00:29:10,300 --> 00:29:12,280
+The subgenius.
+
+499
+00:29:12,720 --> 00:29:14,780
+The subgenius.
+
+500
+00:29:15,500 --> 00:29:17,280
+Must have slap.
+
+501
+00:29:17,760 --> 00:29:19,580
+Must have slap.
+
+502
+00:29:20,380 --> 00:29:21,580
+You're getting better.
+
+503
+00:29:23,500 --> 00:29:25,240
+I'm not going to sing this one.
+
+504
+00:29:26,060 --> 00:29:27,020
+Well, okay.
+
+505
+00:29:27,480 --> 00:29:28,140
+Slap.
+
+506
+00:29:28,140 --> 00:29:28,640
+Slap.
+
+507
+00:29:28,640 --> 00:29:28,640
+
+
+508
+00:29:28,640 --> 00:29:28,640
+
+
+509
+00:29:28,640 --> 00:29:28,640
+
+
+510
+00:29:28,640 --> 00:29:28,640
+
+
+511
+00:29:28,640 --> 00:29:28,640
+
+
+512
+00:29:28,640 --> 00:29:28,640
+
+
+513
+00:29:28,640 --> 00:29:28,640
+
+
+514
+00:29:28,640 --> 00:29:28,640
+
+
+515
+00:29:28,640 --> 00:29:28,640
+
+
+516
+00:29:28,640 --> 00:29:28,640
+
+
+517
+00:29:28,640 --> 00:29:28,640
+
+
+518
+00:29:28,640 --> 00:29:28,640
+
+
+519
+00:29:28,640 --> 00:29:28,640
+
+
+520
+00:29:28,640 --> 00:29:28,640
+
+
+521
+00:29:28,640 --> 00:29:28,640
+
+
+522
+00:29:28,640 --> 00:29:28,640
+
+
+523
+00:29:28,640 --> 00:29:28,640
+
+
+524
+00:29:32,880 --> 00:29:35,080
+I'm not going to sing this one.
+
+525
+00:29:35,180 --> 00:29:36,100
+I'm going to sing this one.
+
+526
+00:29:36,240 --> 00:29:36,800
+Slap.
+
+527
+00:29:38,240 --> 00:29:39,440
+Slap.
+
+528
+00:29:40,060 --> 00:29:40,300
+Slap.
+
+529
+00:29:40,300 --> 00:29:41,280
+Slap.
+
+530
+00:29:41,940 --> 00:29:42,580
+Slap.
+
+531
+00:29:43,320 --> 00:29:44,160
+Slap.
+
+532
+00:29:58,980 --> 00:29:59,580
+Slap.
+
+533
+00:29:59,580 --> 00:29:59,920
+Slap.
+
+534
+00:30:00,120 --> 00:30:00,420
+Slap.
+
+535
+00:30:00,420 --> 00:30:00,600
+Slap.
+
+536
+00:30:00,600 --> 00:30:00,960
+All right.
+
+537
+00:30:01,700 --> 00:30:03,880
+So we've got music going on.
+
+538
+00:30:03,960 --> 00:30:07,900
+And I would like somebody to join this beautiful idea over here.
+
+539
+00:30:08,220 --> 00:30:12,520
+And let's have a backup singer and we'll sing about what we just learned.
+
+540
+00:30:12,960 --> 00:30:13,860
+Come on out.
+
+541
+00:30:13,860 --> 00:30:21,840
+You must have slaps.
+
+542
+00:30:44,640 --> 00:30:47,040
+You must have slaps.
+
+543
+00:30:47,300 --> 00:30:50,740
+You must have slaps.
+
+544
+00:30:50,740 --> 00:30:52,720
+I see you in the audience singing as well.
+
+545
+00:30:53,240 --> 00:30:54,820
+You must have slaps.
+
+546
+00:30:57,020 --> 00:30:57,700
+Slaps.
+
+547
+00:31:00,000 --> 00:31:00,680
+Slaps.
+
+548
+00:31:02,260 --> 00:31:02,940
+Slaps.
+
+549
+00:31:13,860 --> 00:31:14,200
+Slaps.
+
+550
+00:31:14,200 --> 00:31:14,520
+Slaps.
+
+551
+00:31:14,800 --> 00:31:15,520
+Slaps.
+
+552
+00:31:15,520 --> 00:31:16,120
+Slaps.
+
+553
+00:31:16,860 --> 00:31:17,580
+Slaps.
+
+554
+00:31:17,580 --> 00:31:17,960
+Slaps.
+
+555
+00:31:40,620 --> 00:31:42,060
+Think this.
+
+556
+00:31:42,260 --> 00:31:43,500
+Come your way.
+
+557
+00:31:43,860 --> 00:31:46,420
+The Python King has become your wayman.
+
+558
+00:31:46,660 --> 00:31:48,780
+He will devour you whole.
+
+559
+00:31:49,880 --> 00:31:51,980
+He will devour you whole, my friends.
+
+560
+00:31:52,060 --> 00:31:52,640
+Yes, indeed.
+
+561
+00:31:53,000 --> 00:31:55,360
+He will cut you apart.
+
+562
+00:31:56,160 --> 00:31:57,180
+On the edge.
+
+563
+00:31:59,400 --> 00:32:00,680
+It's slack time.
+
+564
+00:32:03,520 --> 00:32:06,440
+Slack, jack, hammer, and attack.
+
+565
+00:32:06,620 --> 00:32:09,000
+From the slack to the slack.
+
+566
+00:32:28,460 --> 00:32:36,860
+Slack, jack, hammer, and attack.
+
+567
+00:32:51,080 --> 00:33:00,020
+He must have slack Oh yeah slack
+
+568
+00:33:00,020 --> 00:33:00,560
+Slack!
+
+569
+00:33:01,640 --> 00:33:05,060
+You must have our slack.
+
+570
+00:33:05,180 --> 00:33:08,500
+If you don't have slack, you're gonna be whacked.
+
+571
+00:33:08,580 --> 00:33:09,840
+If you must have slack.
+
+572
+00:33:10,180 --> 00:33:11,840
+You don't know why.
+
+573
+00:33:13,040 --> 00:33:16,040
+Be slack or be whacked.
+
+574
+00:33:16,120 --> 00:33:16,900
+What's a slack?
+
+575
+00:33:17,040 --> 00:33:19,100
+Slack, slack, slack, slack.
+
+576
+00:33:25,120 --> 00:33:25,200
+Slack.
+
+577
+00:33:26,140 --> 00:33:29,400
+Slack, slack, slack, slack, slack, slack.
+
+578
+00:33:29,400 --> 00:33:29,720
+Slack!
+
+579
+00:33:30,120 --> 00:33:32,040
+There's slack, there's slack.
+
+580
+00:33:39,600 --> 00:33:41,200
+tieneustark pół
+
+581
+00:33:59,640 --> 00:34:00,760
+It hurts.
+
+582
+00:34:06,100 --> 00:34:07,340
+Ah, yes.
+
+583
+00:34:07,800 --> 00:34:12,060
+Yes, invariably we have to come back to talking on topics
+
+584
+00:34:12,060 --> 00:34:14,380
+which one might even think we would try to avoid,
+
+585
+00:34:14,580 --> 00:34:18,580
+but like the magnetic or gravitational pull of a star,
+
+586
+00:34:18,680 --> 00:34:21,440
+we are drawn into an inward vortex.
+
+587
+00:34:21,820 --> 00:34:23,920
+Instead, let's talk about our fans.
+
+588
+00:34:24,320 --> 00:34:27,320
+If you'll notice, right over there is our one fan.
+
+589
+00:34:28,600 --> 00:34:30,580
+Next to the stage.
+
+590
+00:34:30,920 --> 00:34:33,180
+And I suppose we could turn it on,
+
+591
+00:34:33,260 --> 00:34:36,760
+but it would then blow our words back at us.
+
+592
+00:34:36,800 --> 00:34:38,900
+That's always the most reliable thing we have.
+
+593
+00:34:38,920 --> 00:34:40,220
+Create a gale of wind if you want.
+
+594
+00:34:43,120 --> 00:34:45,000
+Unleash the bag of eelists.
+
+595
+00:34:45,040 --> 00:34:47,080
+It's not like the radio station fan.
+
+596
+00:34:47,360 --> 00:34:50,460
+If we turn it on, then it makes a horrible noise.
+
+597
+00:34:50,580 --> 00:34:52,980
+We could plug that in and point it at us.
+
+598
+00:34:53,360 --> 00:34:55,560
+So it makes a horrible noise, you know.
+
+599
+00:34:55,920 --> 00:34:57,160
+What's so bad about that?
+
+600
+00:34:57,320 --> 00:35:00,360
+Aren't we supposed to have minions with red bracelets
+
+601
+00:35:00,360 --> 00:35:02,140
+that rush up here to do that?
+
+602
+00:35:02,320 --> 00:35:05,160
+I mean, Father Joe Mama is having to...
+
+603
+00:35:05,160 --> 00:35:08,920
+He's showing humility by doing it himself.
+
+604
+00:35:09,180 --> 00:35:11,660
+He's humble. He's right with Bob.
+
+605
+00:35:11,900 --> 00:35:13,540
+How many can say the same?
+
+606
+00:35:13,900 --> 00:35:16,200
+Now, remember last year I showed my humility
+
+607
+00:35:16,200 --> 00:35:21,020
+by constantly asking my fellow panelists if they wanted coffee,
+
+608
+00:35:21,260 --> 00:35:23,240
+and I would go and bring coffee.
+
+609
+00:35:23,580 --> 00:35:27,300
+Say that as if I weren't the sacred scribe of the church.
+
+610
+00:35:27,320 --> 00:35:30,480
+Actually, I am just a mere reverend.
+
+611
+00:35:30,480 --> 00:35:34,020
+I never claimed to be a pope or even a bishop.
+
+612
+00:35:34,560 --> 00:35:38,820
+You may have noticed, those of you who've been with the church for a while,
+
+613
+00:35:39,000 --> 00:35:43,420
+that oddly enough, the ones who claim the title of pope
+
+614
+00:35:43,420 --> 00:35:48,480
+are often the biggest assholes of all the church.
+
+615
+00:35:48,700 --> 00:35:50,780
+Now, that's not always true.
+
+616
+00:35:50,900 --> 00:35:53,540
+Yes, not always, but very many...
+
+617
+00:35:53,540 --> 00:35:55,920
+It seems there's a tendency among the ones
+
+618
+00:35:55,920 --> 00:35:57,300
+who just automatically declare themselves a pope.
+
+619
+00:35:57,320 --> 00:35:58,580
+Yes, there's a tendency among the ones who just automatically declare themselves popes
+
+620
+00:35:58,580 --> 00:36:01,780
+to believe their own bullshit.
+
+621
+00:36:03,200 --> 00:36:04,820
+And that's dangerous.
+
+622
+00:36:05,220 --> 00:36:07,480
+Now, some would say why that's the key to life.
+
+623
+00:36:07,900 --> 00:36:11,980
+In fact, one of the stupidest jerks in the whole world said that to me.
+
+624
+00:36:12,120 --> 00:36:14,740
+A fellow named Bob Dean said,
+
+625
+00:36:14,820 --> 00:36:17,120
+believing your own bullshit, that's the key to life, Doug.
+
+626
+00:36:17,820 --> 00:36:19,220
+He's the false Bob.
+
+627
+00:36:19,220 --> 00:36:25,100
+But in fact, the key to life is believing Bob's bullshit.
+
+628
+00:36:25,220 --> 00:36:27,100
+J.R. Bob Dobbs.
+
+629
+00:36:27,320 --> 00:36:28,420
+Not Bob Dean.
+
+630
+00:36:28,660 --> 00:36:31,120
+Not any Canadian imitations or...
+
+631
+00:36:31,740 --> 00:36:33,640
+Marshall McLuhan or...
+
+632
+00:36:33,640 --> 00:36:34,940
+Or any of those millions.
+
+633
+00:36:35,040 --> 00:36:41,100
+God, I got on Facebook just to see how many Bob Dobbs there were.
+
+634
+00:36:41,440 --> 00:36:41,920
+Too many.
+
+635
+00:36:42,120 --> 00:36:43,120
+I couldn't...
+
+636
+00:36:43,120 --> 00:36:46,020
+My finger, tired of scrolling,
+
+637
+00:36:47,440 --> 00:36:49,180
+it went on for so many pages.
+
+638
+00:36:49,540 --> 00:36:54,780
+And 90% of them had a trademark owned by yours truly,
+
+639
+00:36:55,040 --> 00:36:57,240
+used as their personal photo.
+
+640
+00:36:57,320 --> 00:36:58,920
+That just makes me sick.
+
+641
+00:36:59,100 --> 00:36:59,900
+As we said before,
+
+642
+00:37:00,060 --> 00:37:02,180
+the greatest threat to the Church of the Subgenius
+
+643
+00:37:02,180 --> 00:37:03,100
+is not from without,
+
+644
+00:37:03,360 --> 00:37:05,180
+it's from those who are burying from within.
+
+645
+00:37:05,640 --> 00:37:06,960
+That's absolutely true.
+
+646
+00:37:07,300 --> 00:37:10,780
+The pinks aren't smart enough to do us any damage.
+
+647
+00:37:10,820 --> 00:37:13,860
+It's the subgeniuses that we have to worry about.
+
+648
+00:37:15,180 --> 00:37:18,420
+Subgeniuses, their specialty is sabotaging themselves.
+
+649
+00:37:18,880 --> 00:37:22,140
+And unfortunately, that goes for the Church Foundation as well.
+
+650
+00:37:23,500 --> 00:37:26,900
+Friends, that kick me sign on your back
+
+651
+00:37:26,900 --> 00:37:27,300
+is the...
+
+652
+00:37:27,320 --> 00:37:29,200
+It is written in your own handwriting.
+
+653
+00:37:30,900 --> 00:37:31,420
+And...
+
+654
+00:37:31,940 --> 00:37:32,640
+That's why it's backwards.
+
+655
+00:37:33,220 --> 00:37:33,440
+Yeah.
+
+656
+00:37:34,500 --> 00:37:36,280
+That explains a lot.
+
+657
+00:37:36,700 --> 00:37:37,220
+So...
+
+658
+00:37:40,580 --> 00:37:43,400
+So all you have to do is change...
+
+659
+00:37:43,400 --> 00:37:46,240
+Pull the sign off your back with a claw hammer,
+
+660
+00:37:47,080 --> 00:37:49,380
+since it's nailed in using telephone poles,
+
+661
+00:37:50,080 --> 00:37:52,700
+and change it to say,
+
+662
+00:37:52,760 --> 00:37:54,620
+pay me instead of kick me.
+
+663
+00:37:55,640 --> 00:37:56,720
+That's what we did.
+
+664
+00:37:56,720 --> 00:37:58,540
+And look at us.
+
+665
+00:37:58,780 --> 00:38:02,080
+That way you don't even have to pay real money for the membership.
+
+666
+00:38:02,180 --> 00:38:02,900
+You paid yourself.
+
+667
+00:38:03,140 --> 00:38:04,300
+That's paid your own membership.
+
+668
+00:38:04,840 --> 00:38:05,320
+$30.
+
+669
+00:38:05,380 --> 00:38:06,760
+When you stop and think about it,
+
+670
+00:38:06,840 --> 00:38:08,720
+that's an anti-contribution.
+
+671
+00:38:08,980 --> 00:38:09,960
+That's a nothing contribution.
+
+672
+00:38:09,960 --> 00:38:11,580
+It's a bag of groceries, you know.
+
+673
+00:38:11,620 --> 00:38:13,740
+It's half of the electric bill.
+
+674
+00:38:13,940 --> 00:38:16,020
+It's a meager bag of towels.
+
+675
+00:38:16,140 --> 00:38:18,540
+Yeah, you couldn't buy a matchbox of frop with $30.
+
+676
+00:38:18,780 --> 00:38:20,920
+The only reason they even did the contribution
+
+677
+00:38:20,920 --> 00:38:22,720
+was because people kept thinking
+
+678
+00:38:22,720 --> 00:38:24,340
+that they weren't actually in the church
+
+679
+00:38:24,340 --> 00:38:25,680
+unless they made the contribution.
+
+680
+00:38:25,900 --> 00:38:26,380
+So...
+
+681
+00:38:26,380 --> 00:38:26,700
+So...
+
+682
+00:38:26,700 --> 00:38:28,680
+They had to give them something that they could do.
+
+683
+00:38:28,680 --> 00:38:30,120
+They had to give us something
+
+684
+00:38:30,120 --> 00:38:33,400
+because there's nothing more valuable than money.
+
+685
+00:38:33,520 --> 00:38:36,160
+Because money has no real value,
+
+686
+00:38:36,200 --> 00:38:38,160
+but all symbolic value.
+
+687
+00:38:38,400 --> 00:38:39,940
+Which is why they're not giving us anything.
+
+688
+00:38:40,120 --> 00:38:41,260
+They're just giving us money,
+
+689
+00:38:41,360 --> 00:38:43,160
+but we're giving them eternal salvation
+
+690
+00:38:43,160 --> 00:38:44,820
+and triple that worthless money.
+
+691
+00:38:44,820 --> 00:38:48,240
+But they're giving what they ascribe value to.
+
+692
+00:38:48,440 --> 00:38:48,620
+Right.
+
+693
+00:38:48,660 --> 00:38:49,700
+Bob doesn't need money.
+
+694
+00:38:49,720 --> 00:38:51,080
+He's the richest man in the world.
+
+695
+00:38:51,220 --> 00:38:52,980
+He uses that for his toilet paper, though.
+
+696
+00:38:53,040 --> 00:38:54,360
+He needs proof of your faith.
+
+697
+00:38:54,780 --> 00:38:56,520
+As it is long ago,
+
+698
+00:38:56,700 --> 00:38:56,860
+written,
+
+699
+00:38:56,960 --> 00:38:58,440
+they may be pink,
+
+700
+00:38:58,600 --> 00:39:00,160
+but their money is green.
+
+701
+00:39:01,160 --> 00:39:01,860
+Praise Bob.
+
+702
+00:39:02,700 --> 00:39:05,380
+Actually, I think L. Ron Hubbard said that to Bob.
+
+703
+00:39:06,440 --> 00:39:07,380
+He'd be the one.
+
+704
+00:39:08,340 --> 00:39:09,880
+But that's why also Bob prefers to get pink.
+
+705
+00:39:10,380 --> 00:39:12,740
+Didn't we already go through this yesterday?
+
+706
+00:39:13,160 --> 00:39:14,780
+We went through it many times.
+
+707
+00:39:14,840 --> 00:39:15,660
+That's the problem.
+
+708
+00:39:15,660 --> 00:39:16,780
+Many times over and over
+
+709
+00:39:16,780 --> 00:39:19,780
+through epicycles and lustrums of cosmic time.
+
+710
+00:39:19,900 --> 00:39:21,600
+I remember we were in L.A.
+
+711
+00:39:21,620 --> 00:39:23,740
+standing outside Scientology headquarters
+
+712
+00:39:23,740 --> 00:39:25,600
+when you were raving about how come
+
+713
+00:39:25,600 --> 00:39:26,680
+he gets a ticket.
+
+714
+00:39:26,680 --> 00:39:26,680
+
+
+715
+00:39:26,680 --> 00:39:26,680
+
+
+716
+00:39:26,700 --> 00:39:28,740
+It's such a cool thing and you don't.
+
+717
+00:39:28,740 --> 00:39:29,980
+And that's again,
+
+718
+00:39:30,180 --> 00:39:33,600
+that identical conversational stream came up
+
+719
+00:39:33,600 --> 00:39:35,280
+and then subsided.
+
+720
+00:39:35,380 --> 00:39:35,900
+It's a mantra.
+
+721
+00:39:36,040 --> 00:39:37,860
+It has to be repeated over and over again
+
+722
+00:39:37,860 --> 00:39:40,000
+in order to have any real spiritual significance.
+
+723
+00:39:41,200 --> 00:39:43,020
+And over and over again.
+
+724
+00:39:43,240 --> 00:39:45,000
+Because history repeats itself.
+
+725
+00:39:45,220 --> 00:39:46,520
+Yes, repeats itself.
+
+726
+00:39:46,840 --> 00:39:48,140
+Eternal recurrence.
+
+727
+00:39:48,480 --> 00:39:49,360
+Repeats itself.
+
+728
+00:39:49,720 --> 00:39:50,480
+Again and again.
+
+729
+00:39:51,000 --> 00:39:53,260
+Like the tide coming in and out
+
+730
+00:39:53,260 --> 00:39:55,640
+with tremulous cadence slow.
+
+731
+00:39:55,940 --> 00:39:56,680
+Or like a song.
+
+732
+00:39:56,680 --> 00:39:58,140
+Or like a subgenius with echolalia.
+
+733
+00:39:58,400 --> 00:39:59,360
+The bigger question is...
+
+734
+00:39:59,360 --> 00:40:01,300
+Who drives you crazy until you realize
+
+735
+00:40:02,060 --> 00:40:04,820
+it's a condition he has no control over.
+
+736
+00:40:04,900 --> 00:40:06,180
+Following you around,
+
+737
+00:40:06,340 --> 00:40:09,700
+repeating maxims, nothrums and so on
+
+738
+00:40:09,700 --> 00:40:11,880
+that you've heard a thousand times over.
+
+739
+00:40:12,680 --> 00:40:16,220
+But expecting to achieve brownie points for doing so.
+
+740
+00:40:16,440 --> 00:40:17,780
+One can't help but wonder
+
+741
+00:40:17,780 --> 00:40:19,360
+what happens after X day
+
+742
+00:40:19,360 --> 00:40:20,880
+when we go to the promised land
+
+743
+00:40:20,880 --> 00:40:23,740
+and reach that great heavenly destination.
+
+744
+00:40:24,680 --> 00:40:26,320
+What happens in the distant future there?
+
+745
+00:40:26,320 --> 00:40:27,660
+Will it always be paradise?
+
+746
+00:40:27,840 --> 00:40:29,220
+Or will sometime...
+
+747
+00:40:29,220 --> 00:40:30,160
+There's work to do.
+
+748
+00:40:30,160 --> 00:40:31,840
+It becomes a hell of boredom.
+
+749
+00:40:32,340 --> 00:40:35,640
+It's like, I've read every comic book ever made.
+
+750
+00:40:35,780 --> 00:40:38,320
+I've seen every movie I ever liked five times.
+
+751
+00:40:38,520 --> 00:40:39,320
+I've had more...
+
+752
+00:40:39,320 --> 00:40:40,800
+I'm tired of sex.
+
+753
+00:40:42,260 --> 00:40:44,740
+LSD doesn't hold a thrill for me.
+
+754
+00:40:44,980 --> 00:40:46,180
+I've had it.
+
+755
+00:40:46,620 --> 00:40:47,720
+There's a journey.
+
+756
+00:40:47,920 --> 00:40:48,820
+No, that's actually...
+
+757
+00:40:48,820 --> 00:40:51,700
+That is the Christian heaven you're mixed up with.
+
+758
+00:40:51,840 --> 00:40:55,040
+Where you can actually get bored with happiness there.
+
+759
+00:40:55,040 --> 00:40:58,220
+You get straightened out in the Port Authority terminal building
+
+760
+00:40:58,220 --> 00:40:59,660
+and you go on the journey.
+
+761
+00:40:59,740 --> 00:41:02,280
+You go to Asgard and you go beyond, you know.
+
+762
+00:41:02,360 --> 00:41:05,360
+You go through many sub-heavens and all that.
+
+763
+00:41:05,580 --> 00:41:08,040
+Or perhaps Bob brings a divine version of Alzheimer's
+
+764
+00:41:08,580 --> 00:41:10,440
+where we just forget what we did the day before
+
+765
+00:41:10,440 --> 00:41:12,760
+so we're able to relive that thrill every day
+
+766
+00:41:12,760 --> 00:41:14,140
+over and over again.
+
+767
+00:41:15,120 --> 00:41:16,900
+This is new. This is different.
+
+768
+00:41:17,120 --> 00:41:19,680
+Revelation X, Afterlife Diagram.
+
+769
+00:41:20,860 --> 00:41:21,340
+Um...
+
+770
+00:41:21,840 --> 00:41:23,600
+I can only say, um...
+
+771
+00:41:23,600 --> 00:41:24,820
+Go to the air.
+
+772
+00:41:25,040 --> 00:41:27,160
+I have a question for the audience.
+
+773
+00:41:28,040 --> 00:41:30,660
+Can you hear all three of us equally well?
+
+774
+00:41:32,440 --> 00:41:34,360
+Okay, because I can't.
+
+775
+00:41:34,380 --> 00:41:36,520
+That doesn't mean much.
+
+776
+00:41:36,780 --> 00:41:37,360
+But, uh...
+
+777
+00:41:37,360 --> 00:41:40,700
+Too long standing in front of those giant amplifiers.
+
+778
+00:41:41,400 --> 00:41:45,720
+You really must amplify when in Thang's vicinity.
+
+779
+00:41:46,120 --> 00:41:50,580
+Rule number one of subgenius preaching is never to listen to what any other preacher is saying.
+
+780
+00:41:50,920 --> 00:41:51,820
+I try.
+
+781
+00:41:52,320 --> 00:41:54,220
+I try. I just, uh...
+
+782
+00:41:54,220 --> 00:41:55,880
+If there's no monitor, you know.
+
+783
+00:41:55,940 --> 00:41:58,840
+I'm used to doing it all in headphones turned up all the way.
+
+784
+00:41:58,840 --> 00:42:00,640
+That's why I can't hear anything without the headphones.
+
+785
+00:42:00,640 --> 00:42:03,840
+A real preacher never listens to what they're telling anyone else either.
+
+786
+00:42:04,020 --> 00:42:06,600
+I mean, it's do as I say, not as I do.
+
+787
+00:42:06,780 --> 00:42:08,880
+That would be anti-religion.
+
+788
+00:42:08,880 --> 00:42:11,080
+You can't follow your own...
+
+789
+00:42:11,580 --> 00:42:12,060
+That's...
+
+790
+00:42:12,060 --> 00:42:14,320
+That would almost be almost anti-Holy.
+
+791
+00:42:14,320 --> 00:42:16,120
+Right. I don't practice what I preach
+
+792
+00:42:16,120 --> 00:42:18,600
+because I'm not the kind of person I'm preaching to.
+
+793
+00:42:19,000 --> 00:42:19,480
+Exactly.
+
+794
+00:42:19,480 --> 00:42:24,080
+Well, subgenius is Lutheran in that we don't believe that, uh...
+
+795
+00:42:24,080 --> 00:42:27,160
+a mentor or a priest is really necessary.
+
+796
+00:42:27,240 --> 00:42:31,480
+Your relation with Bob is between you and Bob.
+
+797
+00:42:31,700 --> 00:42:38,240
+But, of course, it wouldn't hurt to pay attention to others who might make it easier for you
+
+798
+00:42:38,240 --> 00:42:41,100
+to form that perfect attachment.
+
+799
+00:42:41,240 --> 00:42:43,460
+Yes. In fact, I would strongly suggest
+
+800
+00:42:44,080 --> 00:42:51,040
+that you think about bribing certain hierarchy... subgenius hierarchites.
+
+801
+00:42:51,300 --> 00:42:52,440
+It never hurts.
+
+802
+00:42:52,440 --> 00:42:53,400
+Actually, to tell the truth,
+
+803
+00:42:53,400 --> 00:42:56,760
+you know that hierarchy that people claim to be part of?
+
+804
+00:42:56,960 --> 00:42:57,940
+No, I wondered who those guys are.
+
+805
+00:42:57,940 --> 00:42:59,660
+That's how you know they're not part of it.
+
+806
+00:42:59,900 --> 00:43:05,300
+Because I personally couldn't tell you who's in the hierarchy and who's not.
+
+807
+00:43:05,300 --> 00:43:06,800
+I always thought that meant they were just high.
+
+808
+00:43:06,920 --> 00:43:08,340
+I didn't get the other part.
+
+809
+00:43:08,480 --> 00:43:11,000
+They usually are high in that sense.
+
+810
+00:43:11,520 --> 00:43:16,240
+Um, but I would strongly recommend bribing Priestess Pisces.
+
+811
+00:43:17,000 --> 00:43:18,760
+Any chance you get.
+
+812
+00:43:19,080 --> 00:43:23,320
+Dr. Legume is a very important person to bribe.
+
+813
+00:43:24,400 --> 00:43:27,940
+In some ways it's more extortion, but...
+
+814
+00:43:30,020 --> 00:43:32,640
+Or protection, rather. You're paying protection money.
+
+815
+00:43:32,820 --> 00:43:35,320
+Well, other people are bribing them. You just don't know it.
+
+816
+00:43:35,360 --> 00:43:38,200
+That's why you're not supposed to compare notes in the subgenius church.
+
+817
+00:43:38,300 --> 00:43:42,300
+Find out the deal that someone else has worked out with one of the other preachers.
+
+818
+00:43:42,360 --> 00:43:43,480
+Or with Bob himself.
+
+819
+00:43:44,000 --> 00:43:46,860
+Then it's like going on vacation and asking the guy next to you,
+
+820
+00:43:46,920 --> 00:43:48,060
+what did you pay for this ticket?
+
+821
+00:43:48,140 --> 00:43:51,780
+It's just going to ruin your day if you know what a good deal they got.
+
+822
+00:43:52,020 --> 00:43:53,300
+So the trick is to make sure that you know what you're paying for.
+
+823
+00:43:53,320 --> 00:43:56,680
+You can make your own deal, but don't tell anyone else about it.
+
+824
+00:43:56,740 --> 00:44:00,660
+Come on, the time you spend recording ten million things
+
+825
+00:44:00,660 --> 00:44:04,260
+will never be equaled by the time it would take to watch any of them.
+
+826
+00:44:04,500 --> 00:44:09,320
+You'll have them stored up in piles, but the ones you see will be few.
+
+827
+00:44:09,880 --> 00:44:11,540
+You have to make the effort.
+
+828
+00:44:11,640 --> 00:44:16,200
+Because there is a barrier, there are those forces in the universe
+
+829
+00:44:16,200 --> 00:44:20,320
+that don't want you to have slack of watching all the things you record,
+
+830
+00:44:20,320 --> 00:44:24,220
+only the anti-slack intention of trying to record them.
+
+831
+00:44:24,420 --> 00:44:27,900
+Well, the hour slack is always easier on the ears than it is on the eyes,
+
+832
+00:44:28,000 --> 00:44:30,380
+and if that's not a terrifying thought, I don't know what is.
+
+833
+00:44:30,660 --> 00:44:35,040
+Well, it allows us to create pictures, but simply by describing them,
+
+834
+00:44:35,040 --> 00:44:37,000
+in the age-old fashion of radio.
+
+835
+00:44:37,000 --> 00:44:38,140
+There's a female voice.
+
+836
+00:44:38,860 --> 00:44:42,060
+Pantiara, do you want to get on and help us out up here?
+
+837
+00:44:42,800 --> 00:44:43,780
+An announcement?
+
+838
+00:44:45,020 --> 00:44:49,320
+Well, please do. We have an announcement from Pantiara Ivakovich.
+
+839
+00:44:50,880 --> 00:44:52,860
+She's going to get on mic. You can have mine.
+
+840
+00:44:56,360 --> 00:45:00,220
+I just wanted to say that at the Bulldada auction,
+
+841
+00:45:00,360 --> 00:45:04,260
+I'm going to have a hard copy of the story that I wrote,
+
+842
+00:45:05,300 --> 00:45:07,360
+Stick and Pantiara's Big Park Adventure.
+
+843
+00:45:07,900 --> 00:45:14,340
+It's signed by me, Bishop Stick, and if you guys want to sign it too,
+
+844
+00:45:14,400 --> 00:45:15,240
+then I'll make it even more.
+
+845
+00:45:16,040 --> 00:45:16,540
+Oh, sure.
+
+846
+00:45:17,380 --> 00:45:20,300
+So it'll be up for auction whenever the Bulldada auction happens.
+
+847
+00:45:20,320 --> 00:45:21,580
+The auction is, if you're interested.
+
+848
+00:45:21,580 --> 00:45:22,700
+The audio book coming soon.
+
+849
+00:45:23,000 --> 00:45:27,100
+Friends, if you've, well, I guess only the people who are brave enough
+
+850
+00:45:27,100 --> 00:45:31,600
+to read Scrub Genius News Group would ever have read this,
+
+851
+00:45:31,700 --> 00:45:33,260
+but I printed it out.
+
+852
+00:45:33,420 --> 00:45:36,500
+You sent me a copy of it, the whole thing, at once.
+
+853
+00:45:37,160 --> 00:45:38,400
+Oh, okay, go ahead.
+
+854
+00:45:38,540 --> 00:45:46,640
+It is, for a story that doesn't have Bob in it, it's great.
+
+855
+00:45:47,180 --> 00:45:48,640
+It is really great.
+
+856
+00:45:48,640 --> 00:45:52,360
+And if you happen to be a person who has had a lot of experience
+
+857
+00:45:52,360 --> 00:45:55,620
+at state parks and national parks, it's even better.
+
+858
+00:45:57,600 --> 00:46:01,320
+Princess Wee and I happened to read this after a vacation
+
+859
+00:46:01,320 --> 00:46:05,960
+that we'd spent in the great national parks of our land.
+
+860
+00:46:06,360 --> 00:46:09,160
+Well, the best stories about Bob don't have Bob in them.
+
+861
+00:46:10,040 --> 00:46:11,560
+That's why they're so great.
+
+862
+00:46:12,140 --> 00:46:13,760
+Yeah, that's why they sell so well.
+
+863
+00:46:13,940 --> 00:46:15,220
+Those are all the ones in the airport.
+
+864
+00:46:15,520 --> 00:46:17,020
+He's hiding in between the lines.
+
+865
+00:46:17,020 --> 00:46:21,840
+Yeah, Stephen King has made a fortune not saying anything about Bob Dobbs.
+
+866
+00:46:21,860 --> 00:46:27,140
+If you take out a microscope and examine each and every eye in one of his novels,
+
+867
+00:46:27,220 --> 00:46:32,420
+you may discover the one eye that has the micro Bob's head above it.
+
+868
+00:46:33,040 --> 00:46:38,380
+Now this special copy not only bears the signatures of Popus Panteara
+
+869
+00:46:38,380 --> 00:46:45,020
+and of Reverend Stick, but also of Dr. Howland Owl and Reverend Ivan Stang.
+
+870
+00:46:45,740 --> 00:46:47,000
+Indeed, it lasts forever.
+
+871
+00:46:47,000 --> 00:46:52,240
+It lacks only the stinky paw print of Man Bear Pig to be complete.
+
+872
+00:46:54,840 --> 00:46:58,500
+And my signature even has a mistake on it.
+
+873
+00:46:58,580 --> 00:47:00,100
+A divine mistake.
+
+874
+00:47:00,520 --> 00:47:03,800
+I started to write June and then I realized it's July.
+
+875
+00:47:04,340 --> 00:47:06,140
+Because only Bob is perfect.
+
+876
+00:47:06,540 --> 00:47:08,440
+It's July now?
+
+877
+00:47:08,600 --> 00:47:12,520
+Bob is perfect? I thought that his secret was he was perfectly imperfect.
+
+878
+00:47:12,900 --> 00:47:15,320
+Well, that is the only perfection that counts, is it not?
+
+879
+00:47:15,320 --> 00:47:16,980
+Yep, July 1. That means we've got...
+
+880
+00:47:17,000 --> 00:47:18,000
+Right, we've crossed over.
+
+881
+00:47:18,420 --> 00:47:23,160
+I'm not very good at math, but it means we have only a few days left of this...
+
+882
+00:47:23,160 --> 00:47:25,900
+Yes, quite a few. I didn't realize that.
+
+883
+00:47:26,240 --> 00:47:28,240
+The countdown clock is counting.
+
+884
+00:47:29,440 --> 00:47:30,340
+Oh, we have...
+
+885
+00:47:30,340 --> 00:47:31,180
+Very well.
+
+886
+00:47:31,240 --> 00:47:31,840
+We have two fans.
+
+887
+00:47:33,400 --> 00:47:36,460
+Some of our biggest fans are getting set up here.
+
+888
+00:47:36,600 --> 00:47:36,620
+I feel famous now.
+
+889
+00:47:36,820 --> 00:47:40,960
+I was always hoping we'd eventually work up to two fans in the Church of the Subgenius.
+
+890
+00:47:41,100 --> 00:47:41,980
+Well, there they are.
+
+891
+00:47:42,520 --> 00:47:44,900
+You've often wondered about our two fans.
+
+892
+00:47:44,900 --> 00:47:46,940
+There's one on one side and one on the other side.
+
+893
+00:47:47,060 --> 00:47:48,860
+The Nelson ratings will explode now.
+
+894
+00:47:49,580 --> 00:47:50,800
+They'll double overnight.
+
+895
+00:47:50,940 --> 00:47:55,300
+Okay, we now have two fans blowing up here at Tarzan's radio station.
+
+896
+00:47:55,760 --> 00:47:56,460
+You know, speaking of...
+
+897
+00:47:56,460 --> 00:48:00,920
+All we need is a chem toilet, actually, right now.
+
+898
+00:48:01,180 --> 00:48:04,720
+Right back here. A small little porta-potty.
+
+899
+00:48:05,080 --> 00:48:05,800
+You know...
+
+900
+00:48:05,800 --> 00:48:07,700
+I could really use one right now.
+
+901
+00:48:09,540 --> 00:48:10,220
+Praise Bob!
+
+902
+00:48:10,320 --> 00:48:10,780
+Yes!
+
+903
+00:48:11,020 --> 00:48:11,500
+Yes!
+
+904
+00:48:11,580 --> 00:48:12,060
+Yes!
+
+905
+00:48:12,060 --> 00:48:17,880
+I'm concerned that the last maintenance record on the porta-potty was from 615.
+
+906
+00:48:19,480 --> 00:48:24,160
+Should you be concerned that the last maintenance record on the porta-potty was from 615?
+
+907
+00:48:24,260 --> 00:48:25,800
+No, you should not!
+
+908
+00:48:25,940 --> 00:48:28,000
+No, it ages like a fine wine!
+
+909
+00:48:28,460 --> 00:48:34,480
+Because we have a special signage that explains that those porta-potties are indeed Chico Poppy Jagers.
+
+910
+00:48:35,940 --> 00:48:42,040
+And that porta-potty that you chose seems to be one of the designated port-potties.
+
+911
+00:48:42,040 --> 00:48:45,240
+Chico Poppy Jagers, where they are not to be flushed.
+
+912
+00:48:45,320 --> 00:48:45,880
+That's my six!
+
+913
+00:48:48,080 --> 00:48:52,400
+Why does it hurt when I pee?
+
+914
+00:48:54,340 --> 00:48:59,480
+Did you catch it from the toilet seat?
+
+915
+00:48:59,580 --> 00:49:04,740
+Oh, why does it hurt when I pee?
+
+916
+00:49:07,360 --> 00:49:08,540
+Oh, no, there's a...
+
+917
+00:49:08,540 --> 00:49:11,880
+Did you catch it from the toilet seat?
+
+918
+00:49:12,720 --> 00:49:15,680
+I think it might be VD.
+
+919
+00:49:18,980 --> 00:49:23,460
+Oh, why does it hurt when I pee?
+
+920
+00:49:24,200 --> 00:49:25,780
+Get on stage, come on!
+
+921
+00:49:26,500 --> 00:49:28,680
+No, but I don't have anything else to say!
+
+922
+00:49:30,300 --> 00:49:31,740
+She wants to know!
+
+923
+00:49:34,120 --> 00:49:35,820
+Why do you never go on stage?
+
+924
+00:49:36,580 --> 00:49:37,260
+Why not?
+
+925
+00:49:37,660 --> 00:49:38,460
+Why not?
+
+926
+00:49:38,720 --> 00:49:39,320
+Why not?
+
+927
+00:49:39,520 --> 00:49:39,580
+Why not?
+
+928
+00:49:39,700 --> 00:49:40,420
+Why not?
+
+929
+00:49:40,420 --> 00:49:42,260
+What is she strip of a
+
+930
+00:49:42,260 --> 00:49:44,440
+nights of
+
+931
+00:49:44,440 --> 00:49:58,060
+Ah, what wisdom drops from the mouth of God!
+
+932
+00:49:58,200 --> 00:50:05,700
+Oh, no, she's shorten now, that's why she must know!
+
+933
+00:50:05,700 --> 00:50:07,240
+Oh, that's fate!
+
+934
+00:50:07,460 --> 00:50:09,960
+Oh, no, she said daddy is an perdal.
+
+935
+00:50:10,000 --> 00:50:10,000
+
+
+936
+00:50:10,000 --> 00:50:10,000
+
+
+937
+00:50:10,000 --> 00:50:10,000
+
+
+938
+00:50:10,000 --> 00:50:10,000
+
+
+939
+00:50:10,000 --> 00:50:10,000
+
+
+940
+00:50:10,000 --> 00:50:10,360
+Who won't throw up his Mexico ante the day as he sees that eliminated 엄마 did just
+
+941
+00:50:10,360 --> 00:50:10,360
+
+
+942
+00:50:10,360 --> 00:50:20,260
+And the quantity of vodka in my belly makes you wonder how I'm standing.
+
+943
+00:50:22,260 --> 00:50:23,140
+That's impressive.
+
+944
+00:50:24,380 --> 00:50:30,160
+The people I was just talking to thought they wondered where I've gone.
+
+945
+00:50:31,840 --> 00:50:37,980
+It was to, it was to, to the porta potty.
+
+946
+00:50:40,780 --> 00:50:48,920
+And I saw that sign that said it hadn't been serviced since 615.
+
+947
+00:50:50,780 --> 00:50:52,720
+It is what, 630 now?
+
+948
+00:50:54,220 --> 00:50:56,920
+630 or is it, is it July 1st already?
+
+949
+00:50:58,760 --> 00:50:59,440
+Motherfucker.
+
+950
+00:51:01,120 --> 00:51:05,260
+Why does it hurt when I pee?
+
+951
+00:51:10,360 --> 00:51:12,660
+Catch it from the porta potty.
+
+952
+00:51:12,660 --> 00:51:15,200
+I don't know my BBD.
+
+953
+00:51:17,200 --> 00:51:18,620
+Why does it hurt?
+
+954
+00:51:19,700 --> 00:51:22,460
+I just realized I stole this song from someone else.
+
+955
+00:51:26,580 --> 00:51:28,540
+Please don't publish this anywhere.
+
+956
+00:51:28,540 --> 00:51:32,780
+I might get sued by some hippie in Cleveland.
+
+957
+00:51:33,660 --> 00:51:35,280
+This is totally fair use.
+
+958
+00:51:36,200 --> 00:51:37,160
+Okay, that's fine.
+
+959
+00:51:37,400 --> 00:51:38,100
+Here we go.
+
+960
+00:51:38,340 --> 00:51:39,620
+Do I have an exit strategy?
+
+961
+00:51:40,620 --> 00:51:42,980
+Dear God, I don't have an exit strategy.
+
+962
+00:51:43,140 --> 00:51:43,840
+What do I do?
+
+963
+00:51:44,140 --> 00:51:45,500
+Sing your, sing your way out of it.
+
+964
+00:51:50,540 --> 00:51:52,160
+Sing your way out of it.
+
+965
+00:51:52,260 --> 00:51:53,740
+That's the only thing you can do.
+
+966
+00:51:54,180 --> 00:51:55,040
+I can steal another song.
+
+967
+00:51:55,620 --> 00:51:56,960
+Sing your way out of it.
+
+968
+00:51:57,000 --> 00:51:57,940
+Should I steal another song?
+
+969
+00:51:58,400 --> 00:51:59,300
+If you must.
+
+970
+00:52:00,300 --> 00:52:01,660
+Sing your way out of it.
+
+971
+00:52:01,700 --> 00:52:02,080
+Okay.
+
+972
+00:52:03,280 --> 00:52:04,380
+Why the fuck not?
+
+973
+00:52:04,940 --> 00:52:06,160
+Sing your way out of it.
+
+974
+00:52:06,240 --> 00:52:07,200
+I've had a lot of vodka.
+
+975
+00:52:09,460 --> 00:52:10,120
+Trouble night.
+
+976
+00:52:10,120 --> 00:52:10,340
+Trouble night.
+
+977
+00:52:10,360 --> 00:52:10,400
+Trouble night.
+
+978
+00:52:10,820 --> 00:52:12,180
+Lord, I'm blue.
+
+979
+00:52:13,340 --> 00:52:17,120
+And now I won't be blue always.
+
+980
+00:52:18,440 --> 00:52:20,780
+Cause I'm gonna come, my Lord,
+
+981
+00:52:21,160 --> 00:52:23,320
+come in at my back door someday.
+
+982
+00:52:26,980 --> 00:52:29,980
+Gonna lay, lay my head
+
+983
+00:52:31,120 --> 00:52:34,140
+on that old well of mine.
+
+984
+00:52:36,240 --> 00:52:37,960
+I don't remember the rest of the words.
+
+985
+00:52:38,520 --> 00:52:39,600
+Make them up.
+
+986
+00:52:40,360 --> 00:52:41,220
+It's time to go to sleep.
+
+987
+00:52:42,400 --> 00:52:43,900
+Is it time for you to sleep?
+
+988
+00:52:43,940 --> 00:52:45,220
+It's really time for you to sleep.
+
+989
+00:52:45,980 --> 00:52:48,380
+Is it the vodka you can save?
+
+990
+00:52:48,700 --> 00:52:50,400
+It must have been the vodka.
+
+991
+00:52:50,600 --> 00:52:53,920
+Was it the smell from the port-a-potty?
+
+992
+00:52:53,940 --> 00:52:55,720
+It must have been the smell.
+
+993
+00:52:56,820 --> 00:52:58,020
+Must have been the smell.
+
+994
+00:52:58,160 --> 00:53:00,820
+Did it weaken your constitution?
+
+995
+00:53:01,740 --> 00:53:04,780
+My constitution, I do decree.
+
+996
+00:53:05,800 --> 00:53:07,780
+It stinks in the port-a-potty.
+
+997
+00:53:08,240 --> 00:53:09,040
+It stinks in the port-a-potty.
+
+998
+00:53:09,280 --> 00:53:10,020
+It stinks.
+
+999
+00:53:11,800 --> 00:53:13,480
+And the end note.
+
+1000
+00:53:13,700 --> 00:53:13,960
+Yay!
+
+1001
+00:53:15,900 --> 00:53:20,040
+Somewhat of a sort of a kind of an answer for you.
+
+1002
+00:53:21,520 --> 00:53:25,640
+Evidently the people that kept the records
+
+1003
+00:53:25,640 --> 00:53:27,380
+in their port-a-sands,
+
+1004
+00:53:28,380 --> 00:53:32,700
+they messed up and it has been serviced
+
+1005
+00:53:32,700 --> 00:53:34,960
+since you've been there.
+
+1006
+00:53:35,340 --> 00:53:39,360
+But you just didn't see the markings.
+
+1007
+00:53:39,360 --> 00:53:43,740
+So don't you fear the port-a-sand is there.
+
+1008
+00:53:43,880 --> 00:53:46,020
+And it's clear for you.
+
+1009
+00:53:46,120 --> 00:53:48,100
+It really, really is.
+
+1010
+00:53:49,260 --> 00:53:51,200
+Then why is it her?
+
+1011
+00:53:52,020 --> 00:53:53,260
+When I pee?
+
+1012
+00:53:58,300 --> 00:54:02,340
+I guess it must, it must be V-D.
+
+1013
+00:54:03,400 --> 00:54:06,120
+Not from the port-a-potty.
+
+1014
+00:54:06,120 --> 00:54:08,460
+Not from the port-a-potty.
+
+1015
+00:54:08,460 --> 00:54:09,340
+I guess it must, it must be V-D.
+
+1016
+00:54:09,340 --> 00:54:09,340
+
+
+1017
+00:54:09,340 --> 00:54:09,340
+
+
+1018
+00:54:09,340 --> 00:54:09,340
+
+
+1019
+00:54:09,340 --> 00:54:13,680
+As I must not try to pursue a political career now
+
+1020
+00:54:15,340 --> 00:54:18,880
+It's all over, but someone's probably feeling it right now
+
+1021
+00:54:18,880 --> 00:54:28,560
+And it's quite entertaining to listen to your boys and them singing
+
+1022
+00:54:30,340 --> 00:54:36,640
+I had no idea that you had such low pipes
+
+1023
+00:54:39,340 --> 00:54:45,900
+I would be happy to have you on the stage every open jam night
+
+1024
+00:54:45,900 --> 00:54:47,160
+I love you, Annie
+
+1025
+00:54:47,160 --> 00:54:49,280
+I love you, too!
+
+1026
+00:54:49,920 --> 00:54:51,620
+You are so beautiful!
+
+1027
+00:54:52,080 --> 00:54:53,740
+You are so lovely!
+
+1028
+00:54:54,240 --> 00:54:56,220
+You are so fishy!
+
+1029
+00:54:56,580 --> 00:54:58,600
+But you're such a flattery!
+
+1030
+00:55:00,800 --> 00:55:05,040
+And flattery will get you lots of places
+
+1031
+00:55:05,040 --> 00:55:06,600
+After all,
+
+1032
+00:55:08,300 --> 00:55:09,040
+You're a real flower!
+
+1033
+00:55:09,040 --> 00:55:10,120
+You wanna untie my shoelaces?
+
+1034
+00:55:13,440 --> 00:55:15,000
+You're a real flower!
+
+1035
+00:55:15,020 --> 00:55:18,200
+You're a real flower!
+
+1036
+00:55:18,220 --> 00:55:22,540
+You're a real flower!
+
+1037
+00:55:23,220 --> 00:55:24,240
+You're a real flower!
+
+1038
+00:55:24,240 --> 00:55:24,280
+You're a real flower!
+
+1039
+00:55:24,640 --> 00:55:25,200
+You're a real flower!
+
+1040
+00:55:25,200 --> 00:55:25,200
+
+
+1041
+00:55:25,200 --> 00:55:30,440
+I've noticed that each, this is the third for me, I've been here, this is my third day
+
+1042
+00:55:31,320 --> 00:55:35,620
+And I'm getting a little more ragged and worn out each day
+
+1043
+00:55:35,620 --> 00:55:39,120
+I'm assuming that by the time the saucers get here I'll be almost dead
+
+1044
+00:55:39,120 --> 00:55:42,620
+My voice worn out, but who cares?
+
+1045
+00:55:42,940 --> 00:55:46,560
+Well, it's a very significant day, the third day, I know it was my third day
+
+1046
+00:55:46,560 --> 00:55:49,380
+Because it was the first time I used the extra meditation chambers
+
+1047
+00:55:49,380 --> 00:55:52,160
+I figured this must have holy significance
+
+1048
+00:55:53,020 --> 00:55:58,760
+Oh, those, those, uh, Kim, those, oh, those are sweat lodges, those are sacred sweat lodges
+
+1049
+00:55:58,760 --> 00:56:00,140
+May I ask a question about that?
+
+1050
+00:56:00,240 --> 00:56:02,620
+Uh, the one near me is peculiar
+
+1051
+00:56:02,620 --> 00:56:05,600
+You feel like a kid because your feet don't touch the floor
+
+1052
+00:56:05,620 --> 00:56:09,440
+You don't touch the ground, you know, why are the seats so high up in the air?
+
+1053
+00:56:09,640 --> 00:56:17,400
+Is this just a peculiarity of the one near me or are they all designed to make you feel like a kid sitting on the potty?
+
+1054
+00:56:17,440 --> 00:56:21,100
+I thought I, I always feel like I'm a king sitting on a throne when I'm high above
+
+1055
+00:56:21,100 --> 00:56:24,240
+So your legs are long enough to reach the ground?
+
+1056
+00:56:24,500 --> 00:56:24,800
+No
+
+1057
+00:56:25,620 --> 00:56:25,840
+They're not?
+
+1058
+00:56:26,140 --> 00:56:29,480
+No, no, no, you want to be high up there so that your, your feet are dangling
+
+1059
+00:56:29,480 --> 00:56:31,440
+Like you feel like you're in Santa Claus's lap
+
+1060
+00:56:31,440 --> 00:56:33,840
+I feel like dragging a cinder block in here
+
+1061
+00:56:33,840 --> 00:56:34,740
+But you're going to leave him a present
+
+1062
+00:56:34,740 --> 00:56:36,840
+It smells like you're in Santa Claus's lap too
+
+1063
+00:56:36,840 --> 00:56:40,560
+You are, you're in Santa's lap and you want to make sure you leave him a present here
+
+1064
+00:56:40,560 --> 00:56:41,840
+Pilo do Crescius
+
+1065
+00:56:42,960 --> 00:56:51,480
+What I find especially intriguing about these particular little sweat lodges is that the women usually are the ones who take a flashlight in with them
+
+1066
+00:56:51,480 --> 00:56:55,380
+And at night you get this wonderful silhouette show
+
+1067
+00:56:57,520 --> 00:57:03,300
+Well I just, uh, said with men if you're just using the urinal part of it you don't need light
+
+1068
+00:57:03,300 --> 00:57:08,580
+You just can tell by the, you wave it around a little bit and when you hear a certain sound you know you're hitting the right spot
+
+1069
+00:57:08,580 --> 00:57:10,500
+You're going for that, that certain timbre
+
+1070
+00:57:10,500 --> 00:57:16,180
+Yeah, with the, it has a drumming sound if you're missing the little, uh, urinal area
+
+1071
+00:57:16,180 --> 00:57:18,840
+And that's the same with the potty, you know, you kind of get the
+
+1072
+00:57:18,840 --> 00:57:19,500
+Yeah
+
+1073
+00:57:20,060 --> 00:57:21,040
+If it's right
+
+1074
+00:57:21,040 --> 00:57:21,580
+The rim shot
+
+1075
+00:57:22,180 --> 00:57:23,260
+Yeah, that came up
+
+1076
+00:57:23,260 --> 00:57:24,980
+Otherwise you're on the wrong side of the rim
+
+1077
+00:57:24,980 --> 00:57:25,860
+Wrong side of the rim
+
+1078
+00:57:25,860 --> 00:57:26,740
+Wrong side of the rim
+
+1079
+00:57:26,740 --> 00:57:27,600
+Wrong side of the rim
+
+1080
+00:57:27,600 --> 00:57:28,400
+Wrong side of the rim
+
+1081
+00:57:28,400 --> 00:57:32,660
+I have to say that Wakers for Bob endorses those activities
+
+1082
+00:57:33,300 --> 00:57:36,460
+Well, Wakers for Bob, that's a Harley pursuit
+
+1083
+00:57:37,300 --> 00:57:38,980
+But is that all you're gonna do?
+
+1084
+00:57:39,080 --> 00:57:42,180
+Is that you're gonna try to better the chips for Bob?
+
+1085
+00:57:42,480 --> 00:57:45,700
+Are you gonna try to wake with all your might?
+
+1086
+00:57:46,460 --> 00:57:50,000
+Are you gonna drown the world with your subgenius seed?
+
+1087
+00:57:52,460 --> 00:57:53,320
+You're serious?
+
+1088
+00:57:53,440 --> 00:57:54,700
+That doesn't fucking matter!
+
+1089
+00:57:55,160 --> 00:57:59,080
+You can still drown the world with your subgenius seed
+
+1090
+00:57:59,080 --> 00:58:03,280
+You can kill the pigs with your subgenius seed
+
+1091
+00:58:03,300 --> 00:58:03,980
+You can kill the pigs with your subgenius spunk
+
+1092
+00:58:03,980 --> 00:58:08,200
+Ladies, with your subgenius female ejaculate
+
+1093
+00:58:08,200 --> 00:58:12,480
+You can drown the world and kill people because that shit is corrosive
+
+1094
+00:58:13,300 --> 00:58:15,060
+It'll kill people right there
+
+1095
+00:58:15,060 --> 00:58:18,880
+And if you're not flirting with them, probably you're with the wrong guy
+
+1096
+00:58:25,800 --> 00:58:28,220
+Because the truth of it is, like I said
+
+1097
+00:58:29,200 --> 00:58:31,480
+What are you gonna do after you pay your $30?
+
+1098
+00:58:31,480 --> 00:58:33,640
+Are you just gonna lay in your ass?
+
+1099
+00:58:33,740 --> 00:58:36,380
+If you lay in your ass, that is a holy pursuit!
+
+1100
+00:58:36,800 --> 00:58:40,500
+Then you can decide, I wanna do something else
+
+1101
+00:58:40,500 --> 00:58:44,880
+I don't think Bob's really... I'm gonna get to catch your Bob yet
+
+1102
+00:58:44,880 --> 00:58:46,520
+But what are you gonna do?
+
+1103
+00:58:46,760 --> 00:58:50,380
+Are you gonna run down to City Hall and dance naked and say
+
+1104
+00:58:50,380 --> 00:58:52,100
+You guys are full of shit!
+
+1105
+00:58:56,660 --> 00:59:00,320
+Are you gonna praise yourself?
+
+1106
+00:59:00,320 --> 00:59:01,840
+Like, what are you gonna do?
+
+1107
+00:59:02,940 --> 00:59:05,500
+You're gonna say, you know what? I'm a subgenius!
+
+1108
+00:59:05,600 --> 00:59:07,120
+I can do whatever the fuck I want!
+
+1109
+00:59:09,040 --> 00:59:13,260
+Are you gonna take your ideas from the book and change them to be an original idea?
+
+1110
+00:59:13,380 --> 00:59:14,560
+What the fuck are you gonna do?
+
+1111
+00:59:33,740 --> 00:59:36,160
+Just do as my cock says!
+
+1112
+00:59:36,820 --> 00:59:39,560
+You're gonna take my ideas and show them the opposite way.
+
+1113
+00:59:39,580 --> 00:59:40,620
+I'm not gonna be like Y campsite
+
+1114
+00:59:40,620 --> 00:59:42,780
+You're gonna do whatever the fuck I want!
+
+1115
+00:59:43,560 --> 00:59:43,680
+Sing a whole song
+
+1116
+00:59:43,680 --> 00:59:43,680
+
+
+1117
+00:59:43,680 --> 00:59:45,440
+Those betterin' ain't the other way around
+
+1118
+00:59:45,440 --> 00:59:46,940
+Y Day
+
+1119
+00:59:49,460 --> 00:59:59,320
+Self- specified
+
+1120
+00:59:59,320 --> 01:00:01,000
+Subgenius.com
+

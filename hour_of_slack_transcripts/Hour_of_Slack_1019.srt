@@ -1,0 +1,3608 @@
+1
+00:00:01,780 --> 00:00:03,400
+Okay, I'm gonna get your money for you.
+
+2
+00:00:04,140 --> 00:00:07,780
+But if you don't get the President of the United States on that phone, you know what's gonna happen to you?
+
+3
+00:00:07,960 --> 00:00:08,140
+What?
+
+4
+00:00:08,880 --> 00:00:10,340
+You're gonna have to answer to the...
+
+5
+00:00:11,580 --> 00:00:13,840
+Subgenius Power of Science.
+
+6
+00:00:14,500 --> 00:00:14,900
+Bob?
+
+7
+00:00:15,020 --> 00:00:17,520
+We just turn our hearts to you.
+
+8
+00:00:18,580 --> 00:00:20,240
+And we say right now...
+
+9
+00:00:59,880 --> 00:00:59,980
+Subgenius Power of Science
+
+10
+00:01:28,580 --> 00:01:29,980
+Subgenius Power of Science
+
+11
+00:01:42,680 --> 00:01:44,080
+Subgenius Power of Science
+
+12
+00:01:44,080 --> 00:01:44,080
+
+
+13
+00:01:44,080 --> 00:01:45,900
+Subgenius Power of Science
+
+14
+00:01:45,900 --> 00:01:51,360
+Subgenius Power of Science
+
+15
+00:01:56,820 --> 00:01:59,340
+Subgenius Power of Science
+
+16
+00:02:00,000 --> 00:02:02,980
+And prettiness and all
+
+17
+00:02:02,980 --> 00:02:06,520
+So they stretched and they dressed and they made up
+
+18
+00:02:06,520 --> 00:02:09,420
+And put mirrors on every wall
+
+19
+00:02:09,980 --> 00:02:13,160
+Till they all went blind from ice cream
+
+20
+00:02:13,160 --> 00:02:15,960
+From the thing they wanted most
+
+21
+00:02:15,960 --> 00:02:19,120
+Now everybody's so isolated
+
+22
+00:02:19,720 --> 00:02:22,900
+A good-looking bunch of ghosts
+
+23
+00:02:23,880 --> 00:02:27,640
+And the rainmaker came to town
+
+24
+00:02:27,640 --> 00:02:31,060
+And the people got what they wanted
+
+25
+00:02:31,060 --> 00:02:34,260
+The rainmaker came to town
+
+26
+00:02:34,260 --> 00:02:37,360
+And everybody got what they need
+
+27
+00:02:37,360 --> 00:02:40,860
+The rain came falling down
+
+28
+00:02:41,720 --> 00:02:44,240
+Cats and dogs and buckets
+
+29
+00:02:44,240 --> 00:02:47,120
+And the rainmaker sailed away
+
+30
+00:02:47,120 --> 00:02:49,020
+On a flood of relief
+
+31
+00:02:50,640 --> 00:02:52,080
+Hey, hey, hey
+
+32
+00:02:53,960 --> 00:02:57,500
+Well, the women just wanted their food too
+
+33
+00:02:57,500 --> 00:03:01,160
+Instant potatoes and rubber meat
+
+34
+00:03:01,160 --> 00:03:04,180
+The kids just wanted to watch TV
+
+35
+00:03:04,180 --> 00:03:08,020
+Now the girls can't spell and the boys can't read
+
+36
+00:03:08,020 --> 00:03:11,020
+The men just wanted a steady job
+
+37
+00:03:11,020 --> 00:03:14,580
+Now they got to pay the union mob
+
+38
+00:03:14,580 --> 00:03:17,660
+And everybody wanted to be free
+
+39
+00:03:17,660 --> 00:03:21,140
+Laws and rules should keep it that way
+
+40
+00:03:21,980 --> 00:03:23,300
+Hey, hey, hey
+
+41
+00:03:23,300 --> 00:03:26,700
+Hey, hey, hey
+
+42
+00:03:28,420 --> 00:03:31,760
+Well, everybody wants to be happy
+
+43
+00:03:31,760 --> 00:03:35,000
+Everybody wants to be warm
+
+44
+00:03:35,560 --> 00:03:38,760
+And be loved and liked and wanted
+
+45
+00:03:38,760 --> 00:03:41,820
+And have some kind of home
+
+46
+00:03:42,400 --> 00:03:45,240
+But getting it is work
+
+47
+00:03:45,860 --> 00:03:48,420
+And keeping it is tough
+
+48
+00:03:48,420 --> 00:03:52,420
+But destroying it's the easy bit
+
+49
+00:03:52,420 --> 00:03:55,000
+We all got the magic touch
+
+50
+00:03:56,520 --> 00:03:57,480
+And the rainmaker came to town
+
+51
+00:03:59,900 --> 00:04:03,300
+And the people got what they wanted
+
+52
+00:04:03,300 --> 00:04:06,460
+The rainmaker came to town
+
+53
+00:04:06,460 --> 00:04:09,600
+And everybody got what they need
+
+54
+00:04:09,600 --> 00:04:13,180
+The rain came falling down
+
+55
+00:04:14,080 --> 00:04:16,460
+Cats and dogs and buckets
+
+56
+00:04:16,460 --> 00:04:19,420
+And the rainmaker sailed away
+
+57
+00:04:19,420 --> 00:04:21,300
+On a flood of relief
+
+58
+00:04:22,500 --> 00:04:24,480
+A flood of relief
+
+59
+00:04:25,680 --> 00:04:27,480
+Now sail away on a flood of relief
+
+60
+00:04:27,500 --> 00:04:31,160
+Sail away, sail away
+
+61
+00:04:34,120 --> 00:04:38,940
+And the rainmaker came to town
+
+62
+00:04:39,460 --> 00:04:40,000
+And the rainmaker came to town
+
+63
+00:04:40,000 --> 00:04:42,140
+And the rainmaker came to town
+
+64
+00:04:43,360 --> 00:04:49,720
+Webmaster Nigel Perry says the goal is to present a Palestinian perspective he believes is missing in mainstream media coverage.
+
+65
+00:04:50,200 --> 00:04:54,580
+That's the kind of thing that really disturbs you when you live there and you want to tell people about it
+
+66
+00:04:54,580 --> 00:04:57,340
+because what you're reading, the other people reading it said,
+
+67
+00:04:57,340 --> 00:05:00,840
+the country isn't even coming close to uncovering those realities.
+
+68
+00:05:01,300 --> 00:05:06,200
+Perry's page includes an in-depth look at the casualty figures for both Israelis and Palestinians.
+
+69
+00:05:06,880 --> 00:05:11,020
+Then there's another category of news sites that take aim at the media establishment,
+
+70
+00:05:11,380 --> 00:05:13,140
+using satire as their weapon.
+
+71
+00:05:13,420 --> 00:05:18,240
+From PR news in Washington, I'm struggling to find William Renquist on the island of Sumatra.
+
+72
+00:05:19,180 --> 00:05:23,980
+The hour of slack from the church of the subgenius regularly plays spoof newscasts,
+
+73
+00:05:23,980 --> 00:05:26,600
+like this fractured reworking of an NPR broadcast.
+
+74
+00:05:27,020 --> 00:05:27,320
+Thank you.
+
+75
+00:05:27,340 --> 00:05:34,100
+An Indonesian jetliner has launched a nationwide fundraising campaign to assist the people affected by PR news in Washington.
+
+76
+00:05:36,480 --> 00:05:42,440
+Another satirical institution formerly based in Wisconsin lampoons the world's events with its own material.
+
+77
+00:05:43,240 --> 00:05:46,420
+Al-Qaeda vows to win the war on tourism.
+
+78
+00:05:46,660 --> 00:05:49,860
+It's the Onion Radio News. This is Doyle Redland reporting.
+
+79
+00:05:50,460 --> 00:05:53,740
+From PR news in Washington, I'm dangerously polluted.
+
+80
+00:05:53,740 --> 00:05:57,600
+The EPA has found high levels of toxic poisonous sewage.
+
+81
+00:05:58,380 --> 00:06:05,940
+Delta Airlines detonated a minivan near a crowd of day laborers, killing about half a million workers in the apparel and hospitality industry.
+
+82
+00:06:06,520 --> 00:06:12,200
+On Wall Street, 410-52912, President Bush is menacing North Carolina.
+
+83
+00:06:15,320 --> 00:06:23,280
+Meanwhile, the Senate Homeland Security Committee is considering ways to improve the nation's emergency complaints about the response to PR news in Washington.
+
+84
+00:06:23,740 --> 00:06:41,080
+That was Lee Murr doing PR news, and before that, NPR doing Lee Murr in a Wisconsin Public Radio report on the hour of slack, of which this is episode number 1019.
+
+85
+00:06:42,400 --> 00:06:47,480
+Exploring the conspiracy's weaknesses and avoiding our own.
+
+86
+00:06:47,940 --> 00:06:49,500
+Yes, dear friends.
+
+87
+00:06:49,600 --> 00:06:53,720
+The song that started this out was The Rain.
+
+88
+00:06:53,740 --> 00:07:02,000
+The Rainmakers doing the song The Rainmakers, a great song about the roots of the con, which is what we're on about tonight,
+
+89
+00:07:02,240 --> 00:07:10,140
+as demonstrated in upcoming clips by Reverend Norrell Preff, along with Fernand and Andy, and Joe.
+
+90
+00:07:10,680 --> 00:07:15,460
+The music in the background is Magi Cyclops.
+
+91
+00:07:15,620 --> 00:07:16,780
+Praise Bob.
+
+92
+00:07:18,460 --> 00:07:19,740
+Let me be real honest.
+
+93
+00:07:19,820 --> 00:07:23,720
+I'm the kind of guy, when I go to a buffet, I hate to admit it.
+
+94
+00:07:23,740 --> 00:07:25,460
+I'm really being a pig.
+
+95
+00:07:25,700 --> 00:07:26,580
+Let me be real honest.
+
+96
+00:07:26,660 --> 00:07:28,160
+Around the buffet table.
+
+97
+00:07:28,300 --> 00:07:29,580
+I wonder if I'm the only one.
+
+98
+00:07:29,700 --> 00:07:32,500
+Yesterday, when I saw the buffet table.
+
+99
+00:07:32,640 --> 00:07:33,440
+Let me be real honest.
+
+100
+00:07:33,540 --> 00:07:37,720
+My first thought was, I'm the kind of scumbag always complaining.
+
+101
+00:07:38,100 --> 00:07:38,880
+Let me be real honest.
+
+102
+00:07:39,020 --> 00:07:41,760
+You know, it took me about a year to start hating talk radio.
+
+103
+00:07:41,920 --> 00:07:42,860
+Took me about a year.
+
+104
+00:07:43,080 --> 00:07:43,940
+You know, it's really sad.
+
+105
+00:07:44,120 --> 00:07:45,120
+I could hate victims.
+
+106
+00:07:45,400 --> 00:07:47,000
+I'm the only one that feels this way.
+
+107
+00:07:47,120 --> 00:07:52,880
+We're hearing 9-11 suckers.
+
+108
+00:07:52,880 --> 00:07:54,340
+Oh, shut up.
+
+109
+00:07:54,440 --> 00:07:55,200
+I mean, you know.
+
+110
+00:07:55,220 --> 00:07:56,360
+Let me be real honest.
+
+111
+00:07:58,360 --> 00:07:59,840
+Worst person in the world.
+
+112
+00:07:59,880 --> 00:08:00,660
+Dope smoking.
+
+113
+00:08:00,800 --> 00:08:01,660
+Rush Limbaugh.
+
+114
+00:08:02,160 --> 00:08:05,240
+I guess the painkillers wipe out your memory along with your ethics.
+
+115
+00:08:05,500 --> 00:08:06,560
+Rush Limbaugh.
+
+116
+00:08:07,020 --> 00:08:10,060
+Today's, today's worst person in the world.
+
+117
+00:08:10,860 --> 00:08:11,520
+Hey Rush.
+
+118
+00:08:11,700 --> 00:08:12,160
+Hey Rush.
+
+119
+00:08:12,320 --> 00:08:12,980
+Hey Rush.
+
+120
+00:08:13,180 --> 00:08:13,740
+Hey Rush.
+
+121
+00:08:13,840 --> 00:08:14,580
+Exploiting death.
+
+122
+00:08:14,860 --> 00:08:15,180
+Yeah.
+
+123
+00:08:15,680 --> 00:08:16,440
+Exploiting death.
+
+124
+00:08:17,220 --> 00:08:20,460
+And, and, you know, and, and, you know, dribble, dribble, dribble, dribble.
+
+125
+00:08:20,600 --> 00:08:21,380
+Exploiting death.
+
+126
+00:08:21,560 --> 00:08:22,660
+Oh, that's, that's.
+
+127
+00:08:22,880 --> 00:08:24,780
+Oh, that's, that's, that's.
+
+128
+00:08:27,260 --> 00:08:31,620
+So as well as being a hysterical, paranoid ideologist,
+
+129
+00:08:31,660 --> 00:08:33,920
+or at least being manipulated by people who are,
+
+130
+00:08:34,020 --> 00:08:36,680
+turn this into camp fruit bat, camp not bag.
+
+131
+00:08:37,320 --> 00:08:39,160
+Fruit bat, camp not bag.
+
+132
+00:08:40,480 --> 00:08:44,260
+A person who was the victim of a personal tragedy
+
+133
+00:08:44,260 --> 00:08:46,480
+and who had gone over the bend as a result.
+
+134
+00:08:47,160 --> 00:08:48,800
+There's nothing about it that's real.
+
+135
+00:08:49,660 --> 00:08:51,300
+There's nothing about it that's real.
+
+136
+00:08:51,440 --> 00:08:52,240
+Not real.
+
+137
+00:08:52,300 --> 00:08:52,860
+Not real.
+
+138
+00:09:19,920 --> 00:09:22,720
+Just real.
+
+139
+00:09:22,740 --> 00:09:22,860
+It's...it's...
+
+140
+00:09:22,880 --> 00:09:25,340
+Poopoo this, poopoo, poopoo, poopoo, poopoo,
+
+141
+00:09:25,340 --> 00:09:27,880
+Y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y-y,
+
+142
+00:09:27,880 --> 00:09:30,520
+He was ugly! He was ugly! Ugly! Ugly! Ugly! Ugly!
+
+143
+00:09:32,820 --> 00:09:34,860
+HA! HA-HA-HA-HA-HA-HA!
+
+144
+00:09:34,860 --> 00:09:37,200
+Fat-ass drug addict, Rush doesn't know squat,
+
+145
+00:09:37,380 --> 00:09:40,160
+Fat-ass drug addict, that fat-ass drug addict,
+
+146
+00:09:41,920 --> 00:09:43,160
+Rush doesn't know squat.
+
+147
+00:09:43,460 --> 00:09:48,360
+From PR News in Washington, I'm carrying knives, razor blades, and scissors aboard planes,
+
+148
+00:09:48,360 --> 00:09:52,160
+making final preparations while clearing security checkpoints.
+
+149
+00:09:52,580 --> 00:09:56,180
+Several proposals are expected to become PR news later today.
+
+150
+00:09:56,440 --> 00:09:58,280
+Uh, uh, uh, but...
+
+151
+00:09:58,280 --> 00:10:00,580
+The United Serious Dog Agency tension.
+
+152
+00:10:01,240 --> 00:10:06,200
+Iraq's president says he is making Sunni Arabs accept PR news in Washington.
+
+153
+00:10:06,720 --> 00:10:08,660
+...very tension is fun.
+
+154
+00:10:11,940 --> 00:10:15,180
+Just you wait till our daddy hears about this!
+
+155
+00:10:15,400 --> 00:10:17,420
+He'll come and he'll blow up the whole castle!
+
+156
+00:10:18,280 --> 00:10:20,860
+Take them away! To the tower!
+
+157
+00:10:21,140 --> 00:10:21,900
+Enter the tower!
+
+158
+00:10:23,320 --> 00:10:25,120
+Nasty! Horribilig!
+
+159
+00:10:25,320 --> 00:10:26,700
+And very ugly!
+
+160
+00:10:27,980 --> 00:10:30,060
+Oh, she's going! She's going!
+
+161
+00:10:48,820 --> 00:10:50,420
+As we know, there are known knowns.
+
+162
+00:10:51,140 --> 00:10:52,080
+There are things we know we know.
+
+163
+00:10:52,460 --> 00:10:53,960
+We also know there are known unknowns.
+
+164
+00:10:54,120 --> 00:10:56,000
+That is to say, we know there are some things we do not know.
+
+165
+00:10:56,440 --> 00:10:58,100
+But there are also unknown unknowns.
+
+166
+00:10:58,300 --> 00:10:59,700
+The ones we don't know, we don't know.
+
+167
+00:10:59,860 --> 00:11:02,240
+And if one looks throughout the history of our country and other free countries,
+
+168
+00:11:02,340 --> 00:11:04,800
+it is the latter category that tend to be the difficult ones.
+
+169
+00:11:05,500 --> 00:11:05,840
+...
+
+170
+00:11:06,840 --> 00:11:07,180
+...
+
+171
+00:11:10,340 --> 00:11:10,680
+...
+
+172
+00:11:11,920 --> 00:11:12,260
+...
+
+173
+00:11:15,160 --> 00:11:16,480
+Every name, every life,
+
+174
+00:11:16,480 --> 00:11:18,080
+is a loss to our military,
+
+175
+00:11:18,560 --> 00:11:19,500
+to our nation,
+
+176
+00:11:20,160 --> 00:11:21,640
+and to the loved ones who grieve.
+
+177
+00:11:23,100 --> 00:11:24,740
+There's no homecoming for these families.
+
+178
+00:11:26,380 --> 00:11:28,300
+Yet we pray in God's time,
+
+179
+00:11:29,400 --> 00:11:30,640
+their reunion will come.
+
+180
+00:11:32,640 --> 00:11:33,080
+...
+
+181
+00:11:35,320 --> 00:11:35,760
+...
+
+182
+00:11:35,760 --> 00:11:35,800
+...
+
+183
+00:11:35,800 --> 00:11:35,880
+...
+
+184
+00:11:35,880 --> 00:11:36,920
+...
+
+185
+00:11:36,920 --> 00:11:38,360
+...
+
+186
+00:11:44,360 --> 00:11:45,760
+...
+
+187
+00:11:48,120 --> 00:11:49,520
+...
+
+188
+00:11:49,520 --> 00:11:49,880
+...
+
+189
+00:11:49,880 --> 00:11:50,060
+...
+
+190
+00:11:53,700 --> 00:11:55,100
+...
+
+191
+00:11:55,100 --> 00:11:55,200
+...
+
+192
+00:12:13,280 --> 00:12:16,220
+You were born under the shadow of the bomb.
+
+193
+00:12:20,660 --> 00:12:23,580
+You were born under the shadow of the bomb.
+
+194
+00:12:28,060 --> 00:12:31,000
+You were born under the shadow of the bomb.
+
+195
+00:12:35,240 --> 00:12:38,360
+You were born under the shadow of the bomb.
+
+196
+00:12:43,100 --> 00:12:47,180
+Wings of Hell.
+
+197
+00:12:50,600 --> 00:12:53,320
+Wings of Hell.
+
+198
+00:12:55,200 --> 00:12:57,760
+You were born under the shadow of the bomb.
+
+199
+00:12:58,020 --> 00:13:01,440
+Wings of Hell.
+
+200
+00:13:05,660 --> 00:13:08,320
+Wings of Hell.
+
+201
+00:13:12,320 --> 00:13:15,620
+You are the first generation in the history of man
+
+202
+00:13:15,620 --> 00:13:17,780
+born under the shadow of the bomb.
+
+203
+00:13:19,800 --> 00:13:23,020
+You are the first generation in the history of man
+
+204
+00:13:23,020 --> 00:13:25,180
+to carry DDT in your face.
+
+205
+00:13:25,200 --> 00:13:27,620
+born under the shadow of the bomb.
+
+206
+00:13:27,740 --> 00:13:30,640
+Wings of Hell.
+
+207
+00:13:41,640 --> 00:13:45,800
+To touch and instill your confidence
+
+208
+00:13:45,800 --> 00:13:48,640
+sabe what those made for us.
+
+209
+00:13:48,640 --> 00:13:48,740
+Oh, 달려도는 ꇠ고 공通.
+
+210
+00:13:48,740 --> 00:13:50,380
+Which means living and knowing everything.
+
+211
+00:13:50,380 --> 00:13:50,380
+
+
+212
+00:13:50,380 --> 00:13:51,600
+There is no estabanthis kalnya m�으로
+
+213
+00:13:51,600 --> 00:13:53,540
+That'd be some
+
+214
+00:13:53,540 --> 00:13:54,220
+Painting doll.
+
+215
+00:13:54,220 --> 00:13:58,080
+knowledge generates into an instrument of the classroom.
+
+216
+00:14:11,100 --> 00:14:15,860
+Your body will record in time the full effects
+
+217
+00:14:15,860 --> 00:14:19,120
+of the environmental destruction on mankind.
+
+218
+00:14:48,120 --> 00:14:50,500
+The elements of the environment are the
+
+219
+00:14:50,500 --> 00:14:50,500
+
+
+220
+00:14:50,500 --> 00:14:50,500
+
+
+221
+00:14:50,500 --> 00:14:50,500
+
+
+222
+00:14:50,500 --> 00:14:52,480
+We are turning meadows into parking lots
+
+223
+00:14:52,480 --> 00:14:54,060
+and woods into houses.
+
+224
+00:14:54,060 --> 00:14:54,440
+We are building housing projects
+
+225
+00:14:54,440 --> 00:14:57,100
+at the rate of 3,000 acres a day.
+
+226
+00:14:57,260 --> 00:14:59,940
+There is only so much land to destroy
+
+227
+00:14:59,940 --> 00:15:03,280
+just as there is only so much air to pollute.
+
+228
+00:15:28,620 --> 00:15:30,020
+reasonable
+
+229
+00:15:54,060 --> 00:15:59,020
+Dial Us did that song by Devo, A Race of Doom.
+
+230
+00:15:59,280 --> 00:16:10,460
+And before that, before Dial Us, a Rumsfeld and Bush mix by Joe, who also did this.
+
+231
+00:16:20,380 --> 00:16:22,220
+We're not telling you the truth.
+
+232
+00:16:22,300 --> 00:16:23,560
+We're not telling you the truth.
+
+233
+00:16:23,560 --> 00:16:25,220
+We're not telling you the truth.
+
+234
+00:16:29,700 --> 00:16:30,660
+Jack off.
+
+235
+00:16:32,320 --> 00:16:33,280
+Jack off.
+
+236
+00:16:37,060 --> 00:16:38,260
+Disagree, disagree, disagree.
+
+237
+00:16:38,480 --> 00:16:39,820
+Bottom line, mass confusion.
+
+238
+00:16:40,200 --> 00:16:41,020
+Mass confusion.
+
+239
+00:16:41,400 --> 00:16:42,080
+Mass confusion.
+
+240
+00:16:42,460 --> 00:16:43,760
+We're not telling you the truth.
+
+241
+00:16:43,940 --> 00:16:45,280
+We're not telling you the truth.
+
+242
+00:16:45,520 --> 00:16:46,640
+We're not telling you the truth.
+
+243
+00:16:46,640 --> 00:16:46,780
+Bye.
+
+244
+00:16:46,800 --> 00:16:47,100
+Bye.
+
+245
+00:16:47,320 --> 00:16:47,580
+Bye.
+
+246
+00:16:48,080 --> 00:16:48,880
+Jack off.
+
+247
+00:16:49,000 --> 00:16:49,540
+Jack off.
+
+248
+00:16:51,420 --> 00:16:52,320
+Can you agree?
+
+249
+00:16:52,680 --> 00:16:53,340
+Jack off.
+
+250
+00:16:53,560 --> 00:16:55,980
+Intelligence. Intelligence. Intelligence.
+
+251
+00:16:57,560 --> 00:17:00,540
+You mean, what does Jesus think about what's going on right now?
+
+252
+00:17:00,800 --> 00:17:03,620
+Well, it depends on what kind of Jesus you would like to imagine.
+
+253
+00:17:05,020 --> 00:17:09,420
+I think if you think of Jesus as a guy who probably had some good ideas,
+
+254
+00:17:09,460 --> 00:17:12,640
+who died a few thousand years ago, he isn't thinking about anything.
+
+255
+00:17:13,160 --> 00:17:18,180
+But if, on the other hand, you think of this all-powerful figure
+
+256
+00:17:18,180 --> 00:17:21,380
+who squats on a cloud above your head and is waiting for you to be dead
+
+257
+00:17:21,380 --> 00:17:22,900
+so you can come up there and sit next to him,
+
+258
+00:17:22,900 --> 00:17:27,160
+I think that a guy like that obviously has a very perverse sense of humor
+
+259
+00:17:27,160 --> 00:17:30,040
+because if he made everything, heaven and hell and all business,
+
+260
+00:17:30,280 --> 00:17:32,560
+he also made the situation in the Persian Gulf.
+
+261
+00:17:33,220 --> 00:17:38,460
+He made that guy who works for Claiborne Pell hear the backwards word in Bush's speech.
+
+262
+00:17:38,540 --> 00:17:41,480
+This guy has got a hell of a sense of humor, but he's dangerous.
+
+263
+00:17:43,460 --> 00:17:45,940
+Seems like the thing that he gets the most enjoyment out of
+
+264
+00:17:45,940 --> 00:17:47,620
+is seeing people being mutilated,
+
+265
+00:17:47,820 --> 00:17:52,880
+which appears to be most of what is going on.
+
+266
+00:17:52,900 --> 00:17:53,860
+What's going on today in the world?
+
+267
+00:17:56,400 --> 00:17:58,760
+Most of the world is in danger today.
+
+268
+00:17:58,940 --> 00:18:01,720
+There's only certain places where people have comfortable lives,
+
+269
+00:18:01,820 --> 00:18:05,380
+and every place else is nothing but imminent danger
+
+270
+00:18:05,380 --> 00:18:10,160
+and death and destruction and pestilence and just horrible stuff going on.
+
+271
+00:18:11,220 --> 00:18:12,960
+Well, who can we blame for that?
+
+272
+00:18:14,540 --> 00:18:17,200
+Because if you blame the devil, then you have to think that the devil
+
+273
+00:18:17,200 --> 00:18:19,020
+is more powerful than that guy on the cloud.
+
+274
+00:18:19,360 --> 00:18:21,940
+If the guy in the cloud is the boss, he's the boss.
+
+275
+00:18:21,960 --> 00:18:22,880
+He's making it happen.
+
+276
+00:18:22,900 --> 00:18:24,860
+So what does he think?
+
+277
+00:18:24,940 --> 00:18:25,380
+I don't know.
+
+278
+00:18:25,480 --> 00:18:29,500
+If he likes what he has created, as it said at one point,
+
+279
+00:18:29,600 --> 00:18:32,520
+he's satisfied with what he built, and I'm sure he's...
+
+280
+00:18:33,280 --> 00:18:34,040
+He's delighted.
+
+281
+00:18:34,100 --> 00:18:34,660
+He's delighted.
+
+282
+00:18:35,560 --> 00:18:37,740
+He's probably doing a little breakdancing up there.
+
+283
+00:18:38,040 --> 00:18:38,280
+Yeah.
+
+284
+00:18:38,980 --> 00:18:42,520
+And he can do it to tunes written about him, the Medivai who?
+
+285
+00:18:42,600 --> 00:18:42,980
+Of course.
+
+286
+00:18:44,360 --> 00:18:46,480
+I just want to know what the hell is going on, Bob.
+
+287
+00:18:47,780 --> 00:18:49,300
+You don't even know who I am.
+
+288
+00:18:50,480 --> 00:18:50,880
+Okay.
+
+289
+00:18:51,040 --> 00:18:51,280
+Okay.
+
+290
+00:18:52,900 --> 00:18:54,780
+I don't see where I'm going.
+
+291
+00:18:54,980 --> 00:18:56,160
+Pod's not a nice thing.
+
+292
+00:18:56,160 --> 00:18:57,240
+And do you think you can idiot me?
+
+293
+00:18:58,520 --> 00:18:59,000
+Chief?
+
+294
+00:18:59,700 --> 00:18:59,700
+
+
+295
+00:18:59,700 --> 00:19:01,200
+Do you know how stifling this whole medicalono who's food?
+
+296
+00:19:01,320 --> 00:19:01,400
+An35 y.
+
+297
+00:19:01,500 --> 00:19:05,620
+We're conceptualized as a universal society.
+
+298
+00:19:05,620 --> 00:19:05,920
+Since we started this illegal officers,
+
+299
+00:19:05,920 --> 00:19:10,600
+we have both sides of the Rhine Ede kommen aus.
+
+300
+00:19:11,680 --> 00:19:14,200
+He saw what he was doing wrong, though.
+
+301
+00:19:14,200 --> 00:19:15,400
+So when recently a pienion that Rey radiores back to him,
+
+302
+00:19:15,400 --> 00:19:16,980
+said,
+
+303
+00:19:16,980 --> 00:19:21,600
+Now my job is to make sure the other side keeps on fighting.
+
+304
+00:19:22,960 --> 00:19:27,160
+Whatever side. I mean, whatever side we're officially not on this year.
+
+305
+00:19:28,440 --> 00:19:30,380
+That's our tax dollars, how they work.
+
+306
+00:19:33,980 --> 00:19:35,980
+You know, good always triumphs over evil.
+
+307
+00:19:38,640 --> 00:19:40,620
+Folks, it's time to evolve ideas.
+
+308
+00:19:41,040 --> 00:19:44,840
+You know, evolution did not end with us growing thumbs. You do know that, right?
+
+309
+00:19:46,200 --> 00:19:47,100
+Didn't end there.
+
+310
+00:19:48,100 --> 00:19:51,340
+We're at the point now where we're going to have to evolve ideas.
+
+311
+00:19:51,420 --> 00:19:53,740
+The reason the world's so fucked up is we're undergoing evolution.
+
+312
+00:19:54,280 --> 00:19:59,460
+And the reason our institutions, our traditional religions are all crumbling
+
+313
+00:19:59,460 --> 00:20:01,980
+is because they're no longer relevant.
+
+314
+00:20:05,420 --> 00:20:07,140
+They're no longer relevant.
+
+315
+00:20:07,340 --> 00:20:13,140
+So it's time for us to create a new philosophy and perhaps even a new religion, you see.
+
+316
+00:20:13,240 --> 00:20:14,820
+And that's okay, because that's our right.
+
+317
+00:20:14,840 --> 00:20:18,700
+Because we are free children of God with minds who can imagine anything.
+
+318
+00:20:19,000 --> 00:20:20,200
+And that's kind of our role.
+
+319
+00:20:23,320 --> 00:20:26,200
+How do you evolve ideas? I'll give you an example right here.
+
+320
+00:20:26,440 --> 00:20:29,400
+Why is the drug czar of this country...
+
+321
+00:20:29,400 --> 00:20:32,380
+Well, let's go back. Why do we have a drug czar in this country?
+
+322
+00:20:32,580 --> 00:20:33,020
+A.
+
+323
+00:20:33,800 --> 00:20:35,580
+B. Why is he a cop?
+
+324
+00:20:36,500 --> 00:20:41,700
+Why isn't he a guy in recovery who's had an alcohol and or drug addiction and overcome it?
+
+325
+00:20:41,780 --> 00:20:44,200
+And why doesn't he help people with the same problem?
+
+326
+00:20:47,440 --> 00:20:50,460
+Why doesn't he help people who are on drugs?
+
+327
+00:20:50,740 --> 00:20:51,320
+Why doesn't he help people who are on drugs?
+
+328
+00:20:51,320 --> 00:20:51,320
+
+
+329
+00:20:51,320 --> 00:20:54,240
+In jail, they're sick. They're not criminals.
+
+330
+00:20:54,580 --> 00:20:56,560
+Sick people don't get healed in jail.
+
+331
+00:20:56,740 --> 00:20:58,440
+See, it makes no sense.
+
+332
+00:20:59,360 --> 00:21:02,880
+And if we evolve the idea, you see,
+
+333
+00:21:03,040 --> 00:21:08,420
+the planet might be more compassionate and something like heaven might dawn.
+
+334
+00:21:09,820 --> 00:21:14,600
+I want everyone here to take the five dried grams I taped under your all chairs.
+
+335
+00:21:14,840 --> 00:21:15,100
+right now.
+
+336
+00:21:16,000 --> 00:21:16,920
+Under your chairs.
+
+337
+00:21:16,920 --> 00:21:17,460
+Check them out.
+
+338
+00:21:19,020 --> 00:21:19,700
+Check them out.
+
+339
+00:21:19,740 --> 00:21:20,240
+Under your chair.
+
+340
+00:21:20,280 --> 00:21:21,000
+Let's go, man.
+
+341
+00:21:21,120 --> 00:21:22,220
+The fucking UFOs
+
+342
+00:21:22,220 --> 00:21:22,580
+are waiting
+
+343
+00:21:22,580 --> 00:21:23,440
+in the fifth dimension.
+
+344
+00:21:23,700 --> 00:21:24,060
+Let's go!
+
+345
+00:21:55,680 --> 00:21:58,480
+Let's go!
+
+346
+00:22:23,860 --> 00:22:26,520
+Let's go!
+
+347
+00:23:02,700 --> 00:23:04,420
+Let's go!
+
+348
+00:23:04,420 --> 00:23:04,520
+Let's go!
+
+349
+00:23:04,720 --> 00:23:06,060
+Let's go!
+
+350
+00:23:19,660 --> 00:23:21,180
+Let's go!
+
+351
+00:23:22,740 --> 00:23:23,500
+Eslactica
+
+352
+00:23:23,500 --> 00:23:25,800
+by DaBinchi.
+
+353
+00:23:26,580 --> 00:23:27,360
+A new person.
+
+354
+00:23:27,520 --> 00:23:28,100
+DaBinchi.
+
+355
+00:23:28,300 --> 00:23:28,920
+Amazing.
+
+356
+00:23:29,280 --> 00:23:30,340
+There were sure
+
+357
+00:23:30,340 --> 00:23:31,840
+a lot of new doctors
+
+358
+00:23:31,840 --> 00:23:32,640
+popping up
+
+359
+00:23:32,640 --> 00:23:33,340
+like mushrooms
+
+360
+00:23:33,340 --> 00:23:34,280
+this month.
+
+361
+00:23:34,420 --> 00:23:40,680
+lately. Anyway, before that, we heard the late, great Bill Hicks, and before that, a
+
+362
+00:23:40,680 --> 00:23:45,940
+puzzling evidence cut up. And before that, or sometime around that time, Frank Zappa
+
+363
+00:23:45,940 --> 00:23:55,260
+on God. But now, another great mix by Steve McQuillan. Remember that Katrina collage that
+
+364
+00:23:55,260 --> 00:24:02,060
+was so good? Well, this is that same artiste, Steve McQuillan, with You Can't Protest.
+
+365
+00:24:07,880 --> 00:24:13,180
+I just lost it. What happened? Well, the police have been chasing and shooting at people
+
+366
+00:24:13,180 --> 00:24:19,080
+for the last two hours, probably. The young folks and the workers were just standing there
+
+367
+00:24:19,080 --> 00:24:24,320
+looking at them, and they basically, with their shock equipment and shock weapons and
+
+368
+00:24:24,320 --> 00:24:29,480
+bullets and beanbags, basically attacked the crowd, in my opinion. That's what I saw.
+
+369
+00:24:29,620 --> 00:24:34,280
+My tenure in the Marine Corps, I'm a platoon sergeant from Desert Storm. That's what
+
+370
+00:24:34,280 --> 00:24:34,400
+I saw.
+
+371
+00:24:34,420 --> 00:24:35,720
+My eyewitness. That's what I saw.
+
+372
+00:24:35,880 --> 00:24:41,260
+Unarmed people, with their hands on their heads, not doing anything. Being water-cannoned,
+
+373
+00:24:41,260 --> 00:24:48,540
+rubber-bulleted, and, you know, pushed and pushed and pushed with ten deep, black-footed,
+
+374
+00:24:49,360 --> 00:24:56,220
+thug-like police. That, to me, is terrifying. Terrifying. That is my worst nightmare, really.
+
+375
+00:25:16,240 --> 00:25:17,480
+Not very. Tied to three.
+
+376
+00:25:17,480 --> 00:25:18,100
+Yeah!
+
+377
+00:25:20,320 --> 00:25:21,040
+Probably.
+
+378
+00:25:21,040 --> 00:25:21,780
+But, where was the peine?
+
+379
+00:25:21,780 --> 00:25:26,220
+What the fuck was the penitentiary actually?
+
+380
+00:25:26,240 --> 00:25:26,280
+And we're the two!
+
+381
+00:25:26,300 --> 00:25:26,300
+
+
+382
+00:25:26,360 --> 00:25:28,780
+I'm on a Brownie.
+
+383
+00:25:28,780 --> 00:25:28,900
+Wait!
+
+384
+00:25:29,240 --> 00:25:29,240
+
+
+385
+00:25:30,060 --> 00:25:31,540
+Uh, as I've said, it's on that.
+
+386
+00:25:31,540 --> 00:25:31,540
+
+
+387
+00:25:31,540 --> 00:25:31,560
+Yeah.
+
+388
+00:25:31,560 --> 00:25:31,560
+
+
+389
+00:25:31,560 --> 00:25:31,560
+
+
+390
+00:25:31,560 --> 00:25:31,560
+
+
+391
+00:25:31,560 --> 00:25:31,560
+
+
+392
+00:25:31,560 --> 00:25:31,560
+
+
+393
+00:25:31,560 --> 00:25:31,560
+
+
+394
+00:25:31,560 --> 00:25:31,560
+
+
+395
+00:25:31,560 --> 00:25:31,560
+
+
+396
+00:25:31,560 --> 00:25:31,560
+
+
+397
+00:25:31,560 --> 00:25:31,560
+
+
+398
+00:25:31,560 --> 00:25:31,560
+
+
+399
+00:25:31,560 --> 00:25:31,560
+
+
+400
+00:25:31,560 --> 00:25:31,560
+
+
+401
+00:25:31,560 --> 00:25:31,560
+
+
+402
+00:25:31,560 --> 00:25:31,560
+
+
+403
+00:25:31,560 --> 00:25:31,560
+
+
+404
+00:25:31,560 --> 00:25:31,560
+
+
+405
+00:25:31,720 --> 00:25:32,440
+Goodbye now, everybody!
+
+406
+00:25:33,320 --> 00:25:34,040
+Goodbye now!
+
+407
+00:25:34,040 --> 00:25:34,040
+
+
+408
+00:25:34,040 --> 00:25:34,040
+
+
+409
+00:25:34,040 --> 00:25:34,040
+
+
+410
+00:25:44,860 --> 00:25:51,360
+There are thousands of union members, protesters, as the FTA ministerial meeting continues today.
+
+411
+00:25:56,680 --> 00:25:59,300
+It has been a rough and violent day today.
+
+412
+00:26:05,280 --> 00:26:07,580
+The police have attacked protesters.
+
+413
+00:26:13,340 --> 00:26:18,080
+They're using tasers, electric shock devices, against the protesters.
+
+414
+00:26:18,260 --> 00:26:21,240
+They've been firing concussion grenades and tear gas at people.
+
+415
+00:26:21,420 --> 00:26:24,400
+They also are carrying guns loaded with rubber bullets.
+
+416
+00:26:24,420 --> 00:26:26,860
+And tear gas has been fired on a number of occasions.
+
+417
+00:26:26,860 --> 00:26:31,860
+And in several locations around the city, there are protesters that are pinned in by the police.
+
+418
+00:26:34,820 --> 00:26:37,000
+Well, he just shot a journalist in front of me.
+
+419
+00:26:38,100 --> 00:26:39,900
+They're definitely shooting a journalist.
+
+420
+00:26:40,860 --> 00:26:41,960
+I just got shot.
+
+421
+00:26:42,180 --> 00:26:43,340
+You're shooting the press!
+
+422
+00:26:43,760 --> 00:26:44,800
+Where do you want me to go?
+
+423
+00:26:45,500 --> 00:26:47,140
+Weird, man. You're hurting me.
+
+424
+00:26:48,940 --> 00:26:51,340
+Help! Help!
+
+425
+00:26:52,120 --> 00:26:52,700
+I'm going!
+
+426
+00:26:53,700 --> 00:26:55,340
+I can't believe they shot me.
+
+427
+00:26:55,360 --> 00:26:57,580
+They stole my 1290 WJN on microphones.
+
+428
+00:26:57,840 --> 00:26:58,760
+They stole my press pass.
+
+429
+00:26:59,040 --> 00:27:00,000
+They shot me twice.
+
+430
+00:27:00,120 --> 00:27:02,840
+They shot me in the hand, and I can't move my hand anymore.
+
+431
+00:27:02,900 --> 00:27:03,560
+And they shot me.
+
+432
+00:27:03,580 --> 00:27:04,020
+And they shot me.
+
+433
+00:27:04,020 --> 00:27:04,020
+
+
+434
+00:27:04,040 --> 00:27:04,520
+And they shot me in the breast.
+
+435
+00:27:04,620 --> 00:27:05,340
+Oh my gosh.
+
+436
+00:27:05,360 --> 00:27:08,100
+I don't know where it begins all over again.
+
+437
+00:27:08,300 --> 00:27:09,140
+And it's on.
+
+438
+00:27:09,660 --> 00:27:10,580
+It's on.
+
+439
+00:27:11,000 --> 00:27:15,440
+And if you think you're free, then you better believe that it's on.
+
+440
+00:27:15,840 --> 00:27:17,040
+And it's on.
+
+441
+00:27:17,660 --> 00:27:19,000
+We'll forget everything.
+
+442
+00:27:19,280 --> 00:27:20,820
+Every band's in a strong.
+
+443
+00:27:20,940 --> 00:27:21,800
+Cause it's on.
+
+444
+00:27:22,120 --> 00:27:23,160
+And it's on.
+
+445
+00:27:24,120 --> 00:27:27,060
+And the crap, all the cream, they gotta fuck with me.
+
+446
+00:27:27,100 --> 00:27:28,160
+Cause it's on.
+
+447
+00:27:28,440 --> 00:27:29,680
+And it's on.
+
+448
+00:27:30,440 --> 00:27:32,220
+And we ain't gonna pop out.
+
+449
+00:27:32,240 --> 00:27:33,300
+Cause fuck you.
+
+450
+00:27:33,360 --> 00:27:34,020
+Cause it's on.
+
+451
+00:27:34,040 --> 00:27:35,720
+And it's on.
+
+452
+00:27:36,740 --> 00:27:37,760
+And you're gonna cut me.
+
+453
+00:27:37,860 --> 00:27:39,580
+You're not gonna take a kill.
+
+454
+00:27:39,760 --> 00:27:40,860
+Cause it's on.
+
+455
+00:27:41,500 --> 00:27:42,420
+And it's on.
+
+456
+00:27:42,920 --> 00:27:44,220
+Here we go.
+
+457
+00:27:44,220 --> 00:27:44,840
+Here we go.
+
+458
+00:27:45,060 --> 00:27:46,220
+North North Planet.
+
+459
+00:27:46,540 --> 00:27:48,500
+We are the place in the map.
+
+460
+00:27:48,500 --> 00:27:50,240
+We're gonna sign our riots.
+
+461
+00:27:50,880 --> 00:27:52,780
+We'll get the bull out my ass.
+
+462
+00:27:53,980 --> 00:27:56,600
+We're gonna sign our riots.
+
+463
+00:27:58,580 --> 00:28:01,100
+We are the place in the map.
+
+464
+00:28:01,100 --> 00:28:02,960
+We're gonna sign our riots.
+
+465
+00:28:07,020 --> 00:28:09,200
+We're gonna sign our riots.
+
+466
+00:28:29,240 --> 00:28:33,860
+We're gonna sign our riots.
+
+467
+00:28:34,040 --> 00:28:35,320
+They had paint bullets.
+
+468
+00:28:35,540 --> 00:28:36,420
+You name it.
+
+469
+00:28:36,440 --> 00:28:38,000
+There was no escaping from them.
+
+470
+00:28:39,360 --> 00:28:40,760
+Why did they do that?
+
+471
+00:28:41,040 --> 00:28:44,100
+We've got the news reporting that there's anarchists here.
+
+472
+00:28:44,220 --> 00:28:45,600
+And that's all they're talking about.
+
+473
+00:28:45,760 --> 00:28:50,940
+They're not talking about us people from North Dakota that are here to be the voice of people in North Dakota.
+
+474
+00:28:51,100 --> 00:28:54,520
+We represent family farmers, communication workers.
+
+475
+00:28:54,780 --> 00:28:55,740
+We've got neighbors involved.
+
+476
+00:28:56,200 --> 00:28:57,920
+We're all about grass roots.
+
+477
+00:28:58,200 --> 00:28:59,440
+That's all they're talking about.
+
+478
+00:28:59,560 --> 00:29:00,980
+That there's anarchists here.
+
+479
+00:29:04,040 --> 00:29:05,800
+We're gonna start a riot
+
+480
+00:29:07,980 --> 00:29:09,640
+We're starting might
+
+481
+00:29:09,640 --> 00:29:12,100
+We're gonna start a riot
+
+482
+00:29:14,460 --> 00:29:16,460
+You got all of that in there
+
+483
+00:29:16,460 --> 00:29:18,520
+We're gonna start a riot
+
+484
+00:29:20,520 --> 00:29:22,440
+We're starting might
+
+485
+00:29:22,440 --> 00:29:24,740
+We're gonna start a riot
+
+486
+00:29:26,580 --> 00:29:29,180
+You got all of that in there
+
+487
+00:29:29,180 --> 00:29:31,020
+We're gonna start a riot
+
+488
+00:29:46,440 --> 00:29:55,220
+Yesterday, everything came together.
+
+489
+00:29:55,260 --> 00:29:59,460
+Actually, it was a very successful day for the city of Miami and the Miami Police Department.
+
+490
+00:30:01,520 --> 00:30:03,720
+The police people are firing on people.
+
+491
+00:30:03,980 --> 00:30:05,440
+There's gas everywhere.
+
+492
+00:30:05,840 --> 00:30:08,640
+This lady right here has been hit with something.
+
+493
+00:30:08,840 --> 00:30:09,640
+She's crying.
+
+494
+00:30:10,080 --> 00:30:11,940
+Nothing happened that we didn't expect.
+
+495
+00:30:12,320 --> 00:30:15,780
+There's a battalion of stormtrooper guys and then there's the horse guys.
+
+496
+00:30:15,900 --> 00:30:19,040
+If anything, there were fewer actors than we had anticipated.
+
+497
+00:30:19,580 --> 00:30:26,500
+And then there's another line of police officers that are charging towards the protesters, really unprovoked.
+
+498
+00:30:26,540 --> 00:30:28,720
+I mean, not enough to fire a bullet at.
+
+499
+00:30:28,840 --> 00:30:31,000
+We knew there would be just a small percentage of people.
+
+500
+00:30:31,000 --> 00:30:33,400
+The percentage of the overall protesters to be anarchists.
+
+501
+00:30:33,960 --> 00:30:34,400
+Anarchists.
+
+502
+00:30:34,880 --> 00:30:35,320
+Anarchists.
+
+503
+00:30:35,740 --> 00:30:36,180
+Anarchists.
+
+504
+00:30:36,420 --> 00:30:38,000
+They're aiming again at everybody.
+
+505
+00:30:38,280 --> 00:30:41,320
+The only reason they're stopping is a camera crew just walked right in front of them.
+
+506
+00:30:41,400 --> 00:30:44,100
+There were fewer anarchists than we had anticipated.
+
+507
+00:30:44,600 --> 00:30:46,360
+They shot at a lady in a red suit.
+
+508
+00:30:46,440 --> 00:30:47,400
+She looked like a Republican.
+
+509
+00:30:47,560 --> 00:30:49,840
+She was just holding a sign and they shot at her.
+
+510
+00:30:49,900 --> 00:30:50,900
+They shot at her.
+
+511
+00:30:51,040 --> 00:30:53,080
+A smaller percentage showed up than we expected.
+
+512
+00:30:53,500 --> 00:30:59,060
+All they were doing is holding their hands up in the air and the police started shooting at them with the rubber bullet guns.
+
+513
+00:30:59,320 --> 00:31:00,620
+And we very quickly took care of them.
+
+514
+00:31:01,000 --> 00:31:03,840
+I mean, it was just like naming a booboo and then they got shot.
+
+515
+00:31:05,100 --> 00:31:09,020
+I don't get what's provoking these people to do this.
+
+516
+00:31:09,140 --> 00:31:10,060
+Why did they do that?
+
+517
+00:31:10,140 --> 00:31:18,460
+The reason that the police were so active in confronting the protesters was because there was a huge budget for security and they had to justify it.
+
+518
+00:31:18,700 --> 00:31:22,260
+Eight million dollars was available for security yesterday.
+
+519
+00:31:23,300 --> 00:31:24,180
+And why?
+
+520
+00:31:24,580 --> 00:31:27,780
+To protect 34 trade ministers.
+
+521
+00:31:28,160 --> 00:31:30,980
+All of that happened to protect 34 businesses.
+
+522
+00:31:32,100 --> 00:31:53,600
+And the powers that be, meaning Jeb Bush and his administration, used these heavy-handed riot gear tactics in order to send a message to anybody that might consider a protest for his brother if he comes down and campaigns here, that if you do exercise your First Amendment right to assemble peaceably, they will attack you.
+
+523
+00:31:56,480 --> 00:31:57,840
+So who did kill Bob?
+
+524
+00:32:00,020 --> 00:32:00,960
+How do you know that?
+
+525
+00:32:00,960 --> 00:32:00,960
+
+
+526
+00:32:00,960 --> 00:32:00,960
+
+
+527
+00:32:00,960 --> 00:32:01,700
+I don't know if someone killed him.
+
+528
+00:32:01,920 --> 00:32:03,460
+They only said he was dead.
+
+529
+00:32:05,580 --> 00:32:06,820
+Well, how did you die, then?
+
+530
+00:32:10,240 --> 00:32:10,780
+Suicide.
+
+531
+00:32:13,740 --> 00:32:15,600
+Look, you don't have to be straight with me.
+
+532
+00:32:16,100 --> 00:32:16,860
+It's okay.
+
+533
+00:32:17,660 --> 00:32:19,760
+But it doesn't lend itself to intimacy.
+
+534
+00:32:21,200 --> 00:32:25,360
+Are you looking for some answers?
+
+535
+00:32:25,660 --> 00:32:29,140
+Well, you've come to the wrong place.
+
+536
+00:32:29,780 --> 00:32:30,940
+You might be looking for a new place.
+
+537
+00:32:30,940 --> 00:32:30,940
+
+
+538
+00:32:30,960 --> 00:32:37,760
+I find lines but no valentines written all over my face.
+
+539
+00:32:38,400 --> 00:32:40,760
+I bear no grudge.
+
+540
+00:32:40,820 --> 00:32:42,540
+I wear no crown.
+
+541
+00:32:42,840 --> 00:32:45,960
+I just come with calloused hands.
+
+542
+00:32:46,960 --> 00:32:54,060
+And I don't mean to bring you down, but there is no romance.
+
+543
+00:33:01,120 --> 00:33:18,980
+I've spent too much of my life waiting, hoping, dreaming, wishing, believing, and way too little of it living, smashing it up and taking and giving.
+
+544
+00:33:19,040 --> 00:33:30,940
+I wish someone had warned me while I was still a young man and saved me lots of time and energy.
+
+545
+00:33:34,360 --> 00:33:35,640
+Mother of a man
+
+546
+00:33:38,220 --> 00:33:40,200
+don't make me feelzurave.
+
+547
+00:33:40,200 --> 00:33:40,220
+Come to me.
+
+548
+00:33:40,220 --> 00:33:40,220
+
+
+549
+00:33:40,220 --> 00:33:50,240
+No lie, my child, you don't feel very much.
+
+550
+00:33:50,280 --> 00:33:52,340
+Though I do feel hurt.
+
+551
+00:33:52,340 --> 00:33:52,340
+
+
+552
+00:33:52,340 --> 00:33:58,780
+For the Lawdomme toe, or not the Lawdomo to toe,
+
+553
+00:33:58,780 --> 00:34:03,060
+And your poems and your diary pages
+
+554
+00:34:03,060 --> 00:34:07,820
+To kill some time in your old age
+
+555
+00:34:09,480 --> 00:34:14,620
+Uh-huh, uh-huh, uh-huh
+
+556
+00:34:14,620 --> 00:34:21,000
+Uh-huh, uh-huh, uh-huh
+
+557
+00:34:21,000 --> 00:34:25,100
+Uh-huh, uh-huh, uh-huh
+
+558
+00:34:25,100 --> 00:34:30,700
+There may be gods who hear your prayers
+
+559
+00:34:30,700 --> 00:34:34,820
+And honest men who, men who care
+
+560
+00:34:34,820 --> 00:34:39,000
+And young lovers who say they will wait forever
+
+561
+00:34:39,560 --> 00:34:43,560
+Lives that look like movies and books
+
+562
+00:34:43,560 --> 00:34:47,600
+But the sooner that you learn this
+
+563
+00:34:47,600 --> 00:34:51,120
+The sooner you free your hands
+
+564
+00:34:51,760 --> 00:34:54,480
+To get on with things that
+
+565
+00:34:54,480 --> 00:34:55,080
+Uh-huh, uh-huh, uh-huh
+
+566
+00:34:55,100 --> 00:34:56,120
+It really matters
+
+567
+00:34:56,120 --> 00:34:59,180
+There is no romance
+
+568
+00:34:59,180 --> 00:35:01,160
+No romance
+
+569
+00:35:01,980 --> 00:35:03,560
+No romance
+
+570
+00:35:03,560 --> 00:35:05,660
+No romance
+
+571
+00:35:05,660 --> 00:35:07,880
+No romance
+
+572
+00:35:07,880 --> 00:35:09,940
+No romance
+
+573
+00:35:09,940 --> 00:35:12,100
+No romance
+
+574
+00:35:14,320 --> 00:35:19,160
+Uh-huh, uh-huh, uh-huh
+
+575
+00:35:20,400 --> 00:35:24,580
+Uh-huh, uh-huh, uh-huh
+
+576
+00:35:24,580 --> 00:35:25,080
+Uh-huh, uh-huh, uh-huh
+
+577
+00:35:25,960 --> 00:35:27,160
+I'm a rocker
+
+578
+00:35:34,800 --> 00:35:37,020
+I'm a rocker
+
+579
+00:35:38,380 --> 00:35:42,040
+When Paul Krasner, St. Paul Krasner we call him,
+
+580
+00:35:42,080 --> 00:35:43,840
+was speaking earlier,
+
+581
+00:35:44,040 --> 00:35:47,540
+at the end, it was like a question and answer thing,
+
+582
+00:35:47,620 --> 00:35:48,260
+and somebody said,
+
+583
+00:35:48,500 --> 00:35:52,920
+well, Mr. Krasner, what are we going to do about this Iraq thing?
+
+584
+00:35:55,460 --> 00:35:59,900
+I liked his answer because basically what he did was not answer the question.
+
+585
+00:36:00,060 --> 00:36:02,120
+He put it back on the questioner.
+
+586
+00:36:02,160 --> 00:36:08,620
+We can't tell you what to do about this Iraq thing because we don't know you.
+
+587
+00:36:08,800 --> 00:36:10,540
+We don't know what you do best.
+
+588
+00:36:10,720 --> 00:36:14,340
+Ken Kesey said, put your good where it'll do the best.
+
+589
+00:36:14,660 --> 00:36:17,440
+Well your good might be serial killing.
+
+590
+00:36:17,560 --> 00:36:18,100
+I don't know.
+
+591
+00:36:18,640 --> 00:36:22,040
+You might be a good soldier that should be in Iraq.
+
+592
+00:36:22,460 --> 00:36:23,340
+I don't know.
+
+593
+00:36:25,240 --> 00:36:32,820
+And the thing is the conspiracy is bigger than you think.
+
+594
+00:36:33,120 --> 00:36:36,420
+Unless you're pretty old then you probably got a handle on it.
+
+595
+00:36:37,140 --> 00:36:43,320
+The reason I say that is because, and I was the same way, you know when you're young you
+
+596
+00:36:43,320 --> 00:36:46,940
+see that everything's messed up and you want to change it and that's great.
+
+597
+00:36:48,200 --> 00:36:51,140
+Well the conspiracy already thought of that.
+
+598
+00:36:51,260 --> 00:36:52,680
+They knew you were going to think that.
+
+599
+00:36:52,820 --> 00:36:58,140
+They knew exactly which type you were and which type of rebellion you were going to
+
+600
+00:36:58,140 --> 00:37:01,100
+do and they have a commercial for it.
+
+601
+00:37:01,240 --> 00:37:02,920
+They have a product for it.
+
+602
+00:37:03,260 --> 00:37:08,380
+Remember the hippies, remember the punks, we all thought oh man the music's going to
+
+603
+00:37:08,380 --> 00:37:09,140
+beat the man.
+
+604
+00:37:09,520 --> 00:37:13,300
+They always think that and it always turns into a beer commercial.
+
+605
+00:37:14,680 --> 00:37:16,920
+History is doomed to repeat itself.
+
+606
+00:37:16,920 --> 00:37:16,920
+
+
+607
+00:37:16,920 --> 00:37:16,920
+
+
+608
+00:37:16,920 --> 00:37:16,920
+
+
+609
+00:37:16,940 --> 00:37:19,440
+History is doomed to repeat itself until next day.
+
+610
+00:37:20,020 --> 00:37:25,540
+Now in the meantime however, what I'm saying is, I'm not saying don't fight the conspiracy
+
+611
+00:37:25,540 --> 00:37:32,720
+but what I am saying is that you will not defeat it because even if somehow you became
+
+612
+00:37:33,280 --> 00:37:40,760
+world overlord like Bob already is, overthrew Bob and forced peace on earth, which is kind
+
+613
+00:37:40,760 --> 00:37:42,360
+of a funny concept to begin with.
+
+614
+00:37:42,880 --> 00:37:43,680
+You know?
+
+615
+00:37:43,900 --> 00:37:46,880
+It's still the conspiracy.
+
+616
+00:37:46,880 --> 00:37:46,920
+It's still the conspiracy.
+
+617
+00:37:46,920 --> 00:37:50,500
+The conspiracy still lives inside your head.
+
+618
+00:37:51,460 --> 00:37:59,220
+So I guess the point would be, sure go ahead and fight whatever it is that you consider
+
+619
+00:37:59,220 --> 00:38:06,200
+to be the machine or the combine or the conspiracy or the establishment or whatever is, or the
+
+620
+00:38:06,880 --> 00:38:10,060
+damn liberals or pagans or whatever it is that's bothering you.
+
+621
+00:38:11,980 --> 00:38:15,460
+You can't beat them but you can make yourself stronger.
+
+622
+00:38:15,780 --> 00:38:16,900
+You can give yourself a chance.
+
+623
+00:38:16,900 --> 00:38:18,780
+You can give yourself more true slack.
+
+624
+00:38:18,980 --> 00:38:22,220
+And when that happens oddly enough you have slack to share.
+
+625
+00:38:31,120 --> 00:38:38,960
+I've been walking in a deep sleep, sleepwalking but I just woke up from a deep sleep, a very
+
+626
+00:38:38,960 --> 00:38:39,740
+deep sleep.
+
+627
+00:38:40,740 --> 00:38:46,280
+I've been running under remote control in a deep sleep, a very deep sleep.
+
+628
+00:38:46,360 --> 00:38:46,880
+I'm a little too much, I'm a little too much.
+
+629
+00:38:46,880 --> 00:38:46,880
+
+
+630
+00:38:46,880 --> 00:38:46,880
+
+
+631
+00:38:46,880 --> 00:38:46,880
+
+
+632
+00:38:46,880 --> 00:38:46,880
+
+
+633
+00:38:46,900 --> 00:38:49,600
+I woke the moment I was told
+
+634
+00:38:49,600 --> 00:38:52,260
+That a smile is just a frown
+
+635
+00:38:52,260 --> 00:38:56,240
+Turned around on the face of a clown
+
+636
+00:38:56,240 --> 00:38:57,440
+With a mean sleep
+
+637
+00:39:02,080 --> 00:39:05,460
+It was a deep sleep, a very deep sleep
+
+638
+00:39:06,200 --> 00:39:08,880
+I can't remember what I used to know
+
+639
+00:39:08,880 --> 00:39:11,920
+In my deep sleep, a very deep sleep
+
+640
+00:39:12,800 --> 00:39:15,280
+Somebody help me now, let me go
+
+641
+00:39:15,280 --> 00:39:16,660
+Into a deep sleep
+
+642
+00:39:16,660 --> 00:39:19,880
+Now I just woke up from a deep sleep
+
+643
+00:39:19,880 --> 00:39:24,940
+Somebody push me back, now let me go
+
+644
+00:39:25,720 --> 00:39:28,080
+Into a dream again
+
+645
+00:39:28,080 --> 00:39:31,240
+To a sleep I like before
+
+646
+00:39:31,240 --> 00:39:34,680
+So deep it never ends
+
+647
+00:39:41,680 --> 00:39:44,040
+I've been caught inside a deep sleep
+
+648
+00:39:44,040 --> 00:39:45,260
+I've been caught inside a deep sleep
+
+649
+00:39:45,260 --> 00:39:45,260
+
+
+650
+00:39:45,280 --> 00:39:47,080
+Sinking deeper after I forgot
+
+651
+00:39:47,080 --> 00:39:50,160
+That a smile is just a frown
+
+652
+00:39:50,160 --> 00:39:54,120
+Turned around on the face of a clown
+
+653
+00:39:54,120 --> 00:39:55,240
+With a mean sleep
+
+654
+00:40:00,260 --> 00:40:03,440
+In my deep sleep, a very deep sleep
+
+655
+00:40:04,940 --> 00:40:06,660
+Sleepwalking as I watch myself
+
+656
+00:40:06,660 --> 00:40:09,780
+In a deep sleep, an endless deep sleep
+
+657
+00:40:10,520 --> 00:40:13,280
+I keep pretending that it's someone else
+
+658
+00:40:13,280 --> 00:40:14,560
+In a deep sleep
+
+659
+00:40:15,280 --> 00:40:16,460
+Now I can't get out
+
+660
+00:40:16,460 --> 00:40:17,740
+Of a deep sleep
+
+661
+00:40:18,320 --> 00:40:18,780
+I've been a
+
+662
+00:40:19,900 --> 00:40:20,900
+Deep sleep
+
+663
+00:40:21,680 --> 00:40:22,960
+But I just woke up
+
+664
+00:40:22,960 --> 00:40:24,200
+From a deep sleep
+
+665
+00:40:24,200 --> 00:40:24,940
+Somebody
+
+666
+00:40:28,100 --> 00:40:34,300
+A lot of you, I'm sure, are into conspiracy theory, or at least are amused by it.
+
+667
+00:40:34,400 --> 00:40:38,000
+Or maybe you're really seriously into, yeah, Bush caused 9-1-1.
+
+668
+00:40:38,120 --> 00:40:40,380
+Bush had those planes crash into the building.
+
+669
+00:40:40,560 --> 00:40:43,800
+Yeah, Kennedy was assassinated by the Republicans, not the mafia.
+
+670
+00:40:44,080 --> 00:40:44,900
+Uh, yeah.
+
+671
+00:40:44,900 --> 00:40:46,440
+They were hiding those UFOs.
+
+672
+00:40:46,440 --> 00:40:47,180
+That's fine.
+
+673
+00:40:47,380 --> 00:40:49,560
+Friend, it's your conspiracy.
+
+674
+00:40:50,440 --> 00:40:53,960
+You can make it as big or small as you want.
+
+675
+00:40:54,600 --> 00:40:56,220
+And that is the truth.
+
+676
+00:40:56,760 --> 00:41:00,360
+How much control do they really have over you?
+
+677
+00:41:01,260 --> 00:41:03,900
+You can repent and quit your job and slack off.
+
+678
+00:41:04,000 --> 00:41:06,200
+You may have to give up a few things like your home.
+
+679
+00:41:06,880 --> 00:41:10,920
+You know, but the conspiracy is only as big as you let it.
+
+680
+00:41:11,260 --> 00:41:12,660
+How big is it?
+
+681
+00:41:12,760 --> 00:41:14,880
+It could be bigger than any of the conspiracy theories.
+
+682
+00:41:14,880 --> 00:41:25,480
+Friends, for all we know, and in fact I happen to believe this, in 1940s, in the 1940s, World
+
+683
+00:41:25,480 --> 00:41:29,720
+War II was just a cover for what they were really doing.
+
+684
+00:41:29,900 --> 00:41:35,620
+That was just a blind so that we wouldn't notice when they switched the planets Earth
+
+685
+00:41:35,620 --> 00:41:36,340
+and Mars.
+
+686
+00:41:37,700 --> 00:41:40,520
+Now, is that a coot theory or what?
+
+687
+00:41:40,820 --> 00:41:44,860
+And yet, if you stop and think about it, even some of the theories that are out there, even
+
+688
+00:41:44,860 --> 00:41:47,360
+if you don't believe them, you can find proof for it.
+
+689
+00:41:47,720 --> 00:41:51,080
+Doesn't it seem like everything takes a little longer than it should?
+
+690
+00:41:52,200 --> 00:41:55,700
+Yeah, well, days were a little longer on our other planet.
+
+691
+00:41:55,900 --> 00:42:00,200
+Doesn't everything seem kind of heavier and you get more tired each day?
+
+692
+00:42:00,400 --> 00:42:01,940
+You feel a little heavier and older?
+
+693
+00:42:02,180 --> 00:42:06,540
+Yeah, well, on the old planet, we were a lot lighter.
+
+694
+00:42:07,100 --> 00:42:10,500
+Why do you think astrology doesn't work right?
+
+695
+00:42:11,440 --> 00:42:14,260
+The stars look different from there.
+
+696
+00:42:17,000 --> 00:42:20,280
+So, we don't know how big the conspiracy is.
+
+697
+00:42:20,360 --> 00:42:24,740
+There are those who think the conspiracy is really one of the sexes.
+
+698
+00:42:25,840 --> 00:42:31,560
+Is it, well, in the church of the subgenius, there's a women's brigade called the Connie
+
+699
+00:42:31,560 --> 00:42:36,360
+Yikes, named after Bob's primary wife, Connie Dobbs.
+
+700
+00:42:36,400 --> 00:42:39,600
+The mafia, we like to call her.
+
+701
+00:42:42,540 --> 00:42:44,840
+And then, by the same token, they have a lot of money.
+
+702
+00:42:44,840 --> 00:42:44,840
+
+
+703
+00:42:44,840 --> 00:42:46,860
+They're going, oh, no, it's all patriarchy's fault.
+
+704
+00:42:47,240 --> 00:42:48,600
+Patriarchy did everything bad.
+
+705
+00:42:50,120 --> 00:42:51,500
+Women are all good.
+
+706
+00:42:51,720 --> 00:42:52,760
+Patriarchy's all evil.
+
+707
+00:42:53,300 --> 00:42:54,840
+Hey, man, we're all evil.
+
+708
+00:42:55,740 --> 00:42:58,800
+We've all got the conspiracy inside of us.
+
+709
+00:42:58,860 --> 00:43:06,500
+You have to cast the monster out of your own guts before you can start telling somebody else how to live their life.
+
+710
+00:43:07,300 --> 00:43:11,300
+It's like, yes, stop the war in Iraq.
+
+711
+00:43:11,720 --> 00:43:12,860
+End homelessness.
+
+712
+00:43:13,020 --> 00:43:14,540
+Do everything you can, whatever.
+
+713
+00:43:14,840 --> 00:43:17,260
+But can you mow your yard first?
+
+714
+00:43:18,120 --> 00:43:21,600
+Then tell the rest of us how to keep our gardens, okay?
+
+715
+00:43:22,520 --> 00:43:23,040
+Whee!
+
+716
+00:43:24,840 --> 00:43:26,980
+Boy, it's not a whatchamacallit.
+
+717
+00:43:27,460 --> 00:43:31,880
+It's a whirl in the jigger.
+
+718
+00:43:34,900 --> 00:43:37,920
+It's a human thing from up there.
+
+719
+00:43:38,240 --> 00:43:39,520
+All right, what'll it be, boys?
+
+720
+00:43:39,700 --> 00:43:40,500
+The leather britches.
+
+721
+00:43:40,620 --> 00:43:41,540
+The leather britches.
+
+722
+00:43:41,940 --> 00:43:42,880
+Bust down.
+
+723
+00:43:43,220 --> 00:43:44,820
+Her dance is tongue-in-cheek.
+
+724
+00:43:44,820 --> 00:43:44,820
+
+
+725
+00:43:44,840 --> 00:43:46,860
+And with two tails.
+
+726
+00:43:47,380 --> 00:43:52,560
+Tails that spin and bend like mine could never do.
+
+727
+00:43:53,620 --> 00:43:56,900
+That's a human girl doing some kind of human dance.
+
+728
+00:43:57,260 --> 00:43:57,380
+Whee!
+
+729
+00:43:59,340 --> 00:44:00,860
+Please, no dogs.
+
+730
+00:44:01,500 --> 00:44:03,500
+At least there's no humans around.
+
+731
+00:44:03,920 --> 00:44:04,860
+Well, well, well.
+
+732
+00:44:05,860 --> 00:44:10,760
+Someday I'm gonna dance just like this human girl.
+
+733
+00:44:11,260 --> 00:44:12,860
+Whatcha gonna pray, Mr. Gray?
+
+734
+00:44:13,060 --> 00:44:14,100
+Gray is bucking mule.
+
+735
+00:44:14,100 --> 00:44:15,120
+Watch your buck.
+
+736
+00:44:15,280 --> 00:44:15,460
+Whee!
+
+737
+00:44:26,100 --> 00:44:26,860
+What's wrong?
+
+738
+00:44:28,480 --> 00:44:29,120
+I...
+
+739
+00:44:30,280 --> 00:44:32,400
+I don't have two tails.
+
+740
+00:44:33,260 --> 00:44:33,800
+Whee!
+
+741
+00:44:34,240 --> 00:44:35,820
+Oh, I thought you did, old...
+
+742
+00:44:37,500 --> 00:44:38,140
+Grrrr.
+
+743
+00:44:38,660 --> 00:44:41,540
+From PR News in Washington, I'm Trouble.
+
+744
+00:44:41,540 --> 00:44:48,040
+Iraqi leaders have given themselves another Jewish settlement yesterday, apparently pushing back their cars.
+
+745
+00:44:48,360 --> 00:44:53,100
+Around ten Jewish-stinians are leaving ahead of the government deadline to do so.
+
+746
+00:44:53,360 --> 00:44:56,380
+On Wall Street 21061-1016.
+
+747
+00:44:57,220 --> 00:45:00,520
+Spain's Defense Ministry says this is PR News.
+
+748
+00:45:01,100 --> 00:45:04,020
+Spanish national radio was another tragedy.
+
+749
+00:45:04,720 --> 00:45:05,580
+PR's more.
+
+750
+00:45:06,540 --> 00:45:06,920
+ARP drugs.
+
+751
+00:45:07,080 --> 00:45:08,380
+Four. Five.
+
+752
+00:45:08,660 --> 00:45:09,640
+Pfft. Pfft.
+
+753
+00:45:09,640 --> 00:45:11,600
+ARP drug. ARP shh shh shh shh shh.
+
+754
+00:45:11,780 --> 00:45:13,720
+ARP shh drugs. Government drugs.
+
+755
+00:45:14,040 --> 00:45:14,500
+PR News.
+
+756
+00:45:15,540 --> 00:45:21,560
+Israel says a new analysis shows a dramatic rise in the cost of PR News in Washington.
+
+757
+00:45:22,560 --> 00:45:29,040
+Hello there. There's been a lot going on in the London area, and there's been some pretty nasty Central and Northern Britain.
+
+758
+00:45:29,360 --> 00:45:30,180
+My, you're a boy!
+
+759
+00:45:30,440 --> 00:45:37,560
+Now the worst of it will still be pretty nasty, but to start with, it should be London in the morning to Lincolnshire, Norfolk and maybe Suffolk.
+
+760
+00:45:37,560 --> 00:45:43,040
+Further south and west, parts of Cornwall, Devon, maybe Pembrokeshire and Anglesey should peter out fairly quickly.
+
+761
+00:45:43,220 --> 00:45:47,880
+The main area in the east, especially across central parts of Britain, and possibly in the London area.
+
+762
+00:45:48,060 --> 00:45:53,100
+The next west-southeast with pretty miserable Scotland starts to nudge its way into the south.
+
+763
+00:45:53,380 --> 00:45:55,100
+I wish I could do my voice like that, yeah?
+
+764
+00:45:56,060 --> 00:45:57,540
+Thanks to Leigh-Murr.
+
+765
+00:45:57,840 --> 00:46:03,280
+And before that, Human Tales was by Vailor Trucks.
+
+766
+00:46:03,320 --> 00:46:06,300
+And before that, Devo did that song Deep Sleep.
+
+767
+00:46:06,300 --> 00:46:11,160
+And the song No Romance was by The Rainmakers.
+
+768
+00:46:11,280 --> 00:46:20,580
+All of that interspersed with yours truly, Reverend Ivan Stang, ranting at the 25th Starwood Festival last July.
+
+769
+00:46:21,200 --> 00:46:28,040
+But for now, let's look in on the American astronaut as he makes a trade.
+
+770
+00:46:32,300 --> 00:46:32,460
+Tam!
+
+771
+00:46:33,300 --> 00:46:34,780
+Hey, there he is.
+
+772
+00:46:35,260 --> 00:46:36,280
+Hi, Devo.
+
+773
+00:46:36,300 --> 00:46:36,560
+How's it going, buddy?
+
+774
+00:46:37,300 --> 00:46:37,740
+Fine.
+
+775
+00:46:40,800 --> 00:46:41,980
+What's the matter with him?
+
+776
+00:46:42,600 --> 00:46:44,420
+Ah, you know how kids are.
+
+777
+00:46:44,720 --> 00:46:47,880
+You sell them to a shitty planet and they think you're the bad guy.
+
+778
+00:46:48,260 --> 00:46:50,260
+Yeah, well, I'm here to make it up to the little guy.
+
+779
+00:46:50,720 --> 00:46:51,440
+What do you mean?
+
+780
+00:46:51,820 --> 00:46:52,900
+I came here to take him.
+
+781
+00:46:53,000 --> 00:46:54,160
+Ah, nah, nah, nah.
+
+782
+00:46:54,560 --> 00:46:57,080
+That boy holds the only memory we got.
+
+783
+00:46:57,300 --> 00:47:02,000
+Mr. Valensky, you give me back the boy and I'll give you the chance to create your own memories.
+
+784
+00:47:04,300 --> 00:47:06,120
+What the hell is that?
+
+785
+00:47:06,720 --> 00:47:08,100
+It's a real live girl.
+
+786
+00:47:08,920 --> 00:47:16,000
+You take this, you grow her in private, you raise her, you teach her, you marry her.
+
+787
+00:47:16,120 --> 00:47:22,160
+All for a kid whose brief fleeting encounter pales in comparison to the experiences that await you.
+
+788
+00:47:22,580 --> 00:47:25,180
+Let's say I was gonna show her to somebody right now.
+
+789
+00:47:25,320 --> 00:47:29,460
+My daughter or wife or whatever the hell she is.
+
+790
+00:47:30,320 --> 00:47:31,460
+She looks bad.
+
+791
+00:47:32,080 --> 00:47:33,840
+Why would you want to show her to anybody?
+
+792
+00:47:33,840 --> 00:47:35,640
+What if I wanted to?
+
+793
+00:47:38,740 --> 00:47:40,120
+Yeah, you're right.
+
+794
+00:47:41,660 --> 00:47:42,620
+Hey, kid.
+
+795
+00:47:44,240 --> 00:47:45,320
+Take a hike.
+
+796
+00:47:48,240 --> 00:47:52,140
+When we first saw it, we knew there was just one thing to be done.
+
+797
+00:47:55,440 --> 00:47:56,500
+It was scientific.
+
+798
+00:47:56,740 --> 00:47:57,740
+And sociological.
+
+799
+00:47:57,940 --> 00:47:58,480
+That's right.
+
+800
+00:47:58,540 --> 00:47:59,240
+A lot of fun.
+
+801
+00:48:05,860 --> 00:48:09,780
+We knew in this world there could only be one.
+
+802
+00:48:10,620 --> 00:48:15,240
+The baby in the jar with glasses on and a gun.
+
+803
+00:48:22,540 --> 00:48:23,460
+Glasses on.
+
+804
+00:48:31,820 --> 00:48:33,740
+I'm not a doctor.
+
+805
+00:48:33,740 --> 00:48:33,820
+I don't know what you're talking about.
+
+806
+00:48:33,820 --> 00:48:33,820
+
+
+807
+00:48:33,820 --> 00:48:33,820
+
+
+808
+00:48:33,820 --> 00:48:33,820
+
+
+809
+00:48:33,820 --> 00:48:39,980
+The boy who saw a woman's breast has left our planet.
+
+810
+00:48:42,820 --> 00:48:43,900
+Allow me to explain.
+
+811
+00:48:45,820 --> 00:48:52,420
+In this simple black case, I hold the dawning of a new day.
+
+812
+00:48:52,740 --> 00:48:54,640
+The dawning of a new era.
+
+813
+00:48:55,340 --> 00:49:01,600
+An era of sexually explicit conversation.
+
+814
+00:49:03,820 --> 00:49:14,280
+For here in my hand, I hold the case that contains a real, live girl.
+
+815
+00:49:20,820 --> 00:49:22,400
+She shall be raised in private.
+
+816
+00:49:23,380 --> 00:49:27,020
+She shall be taught all there is to know of our work ethic.
+
+817
+00:49:27,480 --> 00:49:29,460
+And on a daily basis,
+
+818
+00:49:30,600 --> 00:49:38,200
+she will be notified of the triumphs made by each and every one of your selfless efforts.
+
+819
+00:49:39,680 --> 00:49:41,420
+When she is fifteen and a half,
+
+820
+00:49:42,500 --> 00:49:46,260
+she will become my bride and your queen.
+
+821
+00:49:47,080 --> 00:49:49,500
+You will all partake in fresh fruit.
+
+822
+00:49:50,800 --> 00:49:53,680
+Brought here by the blueberry pirate himself.
+
+823
+00:49:55,000 --> 00:49:57,260
+And I will partake in fresh fruit.
+
+824
+00:49:58,560 --> 00:49:59,440
+And so,
+
+825
+00:49:59,440 --> 00:50:00,940
+I shall find a way to put an end to this sexual intercourse.
+
+826
+00:50:01,580 --> 00:50:04,780
+An act in which we are all a stranger.
+
+827
+00:50:05,620 --> 00:50:06,940
+But which,
+
+828
+00:50:07,040 --> 00:50:09,360
+upon my return,
+
+829
+00:50:10,380 --> 00:50:14,100
+I will describe to you
+
+830
+00:50:15,240 --> 00:50:18,480
+in great detail.
+
+831
+00:50:23,380 --> 00:50:24,660
+A ghetto.
+
+832
+00:50:31,300 --> 00:50:33,160
+Let's have a party.
+
+833
+00:50:33,480 --> 00:50:36,860
+I think we'll have a party now.
+
+834
+00:50:37,340 --> 00:50:39,380
+Let's have a party.
+
+835
+00:50:39,720 --> 00:50:43,140
+It's great when you get started out.
+
+836
+00:50:43,380 --> 00:50:46,940
+We'll throw our hands up and shout party.
+
+837
+00:50:49,580 --> 00:50:54,600
+We'll throw our heads back and say party, party, party.
+
+838
+00:50:55,680 --> 00:50:59,540
+Oh, won't you come and join our party?
+
+839
+00:51:02,000 --> 00:51:03,980
+Let's have a party.
+
+840
+00:51:04,860 --> 00:51:07,580
+I think we'll have a party now.
+
+841
+00:51:08,200 --> 00:51:10,220
+Let's have a party.
+
+842
+00:51:11,000 --> 00:51:13,880
+It's great when you get started out.
+
+843
+00:51:14,260 --> 00:51:17,800
+We'll throw our hands up and shout party.
+
+844
+00:51:20,440 --> 00:51:24,580
+We'll throw our heads back and say party, party, party.
+
+845
+00:51:24,600 --> 00:51:25,460
+Party, party.
+
+846
+00:51:26,820 --> 00:51:29,720
+Oh, won't you come and join our..
+
+847
+00:51:29,720 --> 00:51:31,920
+Oh, won't you come and join.
+
+848
+00:51:32,100 --> 00:51:34,760
+Oh, won't you come and join our..
+
+849
+00:51:34,760 --> 00:51:36,820
+Oh, won't you come and join our..
+
+850
+00:51:36,820 --> 00:51:38,940
+Oh, won't you come and join our..
+
+851
+00:51:38,940 --> 00:51:41,000
+Oh, won't you come and join our..
+
+852
+00:52:00,140 --> 00:52:01,540
+Thank you.
+
+853
+00:52:29,500 --> 00:52:30,120
+Thank you.
+
+854
+00:53:09,160 --> 00:53:10,180
+Thank you.
+
+855
+00:53:27,060 --> 00:53:28,460
+Thank you.
+
+856
+00:53:57,640 --> 00:53:59,040
+Thank you.
+
+857
+00:54:14,020 --> 00:54:15,440
+Thank you.
+
+858
+00:54:25,340 --> 00:54:27,500
+Thank you.
+
+859
+00:54:56,720 --> 00:54:59,520
+Thank you.
+
+860
+00:55:26,540 --> 00:55:30,820
+I'll sing you a song about Bob.
+
+861
+00:55:57,300 --> 00:56:02,940
+I'll sing you a song about Bob.
+
+862
+00:56:03,720 --> 00:56:09,360
+I'll sing you a song about Bob.
+
+863
+00:56:09,400 --> 00:56:14,880
+I'll sing you a song about Bob.
+
+864
+00:56:15,480 --> 00:56:21,560
+I'll sing you a song about Bob.
+
+865
+00:56:21,860 --> 00:56:24,340
+I'll sing you a song about Bob.
+
+866
+00:56:24,340 --> 00:56:24,580
+I'll sing you a song about Bob.
+
+867
+00:56:24,580 --> 00:56:24,580
+
+
+868
+00:56:24,580 --> 00:56:24,580
+
+
+869
+00:56:24,600 --> 00:56:26,700
+About Bob
+
+870
+00:56:27,760 --> 00:56:30,180
+I'll sing you a song
+
+871
+00:56:30,760 --> 00:56:32,540
+About Bob
+
+872
+00:56:37,260 --> 00:56:39,260
+The Psychoskeletons, friends.
+
+873
+00:56:39,320 --> 00:56:43,160
+And before that, some me at the Starwood Festival.
+
+874
+00:56:43,320 --> 00:56:47,020
+And now, Reverend Circlemaker of Wales.
+
+875
+00:56:47,460 --> 00:56:52,100
+Reverend Circlemaker who is a circlemaker in the crops late at night
+
+876
+00:56:52,100 --> 00:56:56,800
+to baffle the pundits and please the gods of mirth and art
+
+877
+00:56:56,800 --> 00:56:59,920
+with this new rock opera.
+
+878
+00:57:09,600 --> 00:57:11,440
+Rock opera.
+
+879
+00:57:22,100 --> 00:57:26,100
+Rock, punk, punk, punk, punk
+
+880
+00:57:27,220 --> 00:57:27,380
+Bob
+
+881
+00:57:27,380 --> 00:57:31,560
+Rock, punk, punk, punk, punk
+
+882
+00:57:33,360 --> 00:57:34,760
+Bob
+
+883
+00:57:34,760 --> 00:57:39,360
+Rock, punk, punk, punk, punk harness
+
+884
+00:57:39,360 --> 00:57:40,520
+Bob
+
+885
+00:57:42,600 --> 00:57:44,000
+Bob
+
+886
+00:57:44,000 --> 00:57:44,060
+Bob
+
+887
+00:57:44,980 --> 00:57:46,780
+Bob
+
+888
+00:57:46,780 --> 00:57:47,840
+Bob
+
+889
+00:57:47,840 --> 00:57:48,260
+Bob
+
+890
+00:57:48,260 --> 00:57:49,940
+Bob
+
+891
+00:57:52,100 --> 00:58:05,000
+Oh, oh, oh, oh, oh, oh, oh, oh.
+
+892
+00:58:22,960 --> 00:58:29,460
+Oh, oh, oh, oh, oh, oh, oh.
+
+893
+00:58:55,360 --> 00:59:03,520
+Oh, oh, oh, oh, oh, oh, oh, oh.
+
+894
+00:59:04,600 --> 00:59:08,300
+Oh, oh, oh, oh, oh, oh, oh.
+
+895
+00:59:08,520 --> 00:59:09,600
+Oh, oh, oh, oh, oh, oh, oh, oh.
+
+896
+00:59:10,080 --> 00:59:11,320
+Oh, oh, oh, oh, oh, oh, oh.
+
+897
+00:59:17,440 --> 00:59:20,900
+From PR News in Washington, I'm dropping some to the water.
+
+898
+00:59:20,900 --> 00:59:23,920
+French President Jean Chirac called that just the beginning.
+
+899
+00:59:24,120 --> 00:59:27,600
+The president also officially released the 1970s.
+
+900
+00:59:28,180 --> 00:59:31,960
+Energy Secretary Samuel Bodman says this is PR News.
+
+901
+00:59:32,340 --> 00:59:33,860
+The D-U-S-S-A-B-U-E-R.
+
+902
+00:59:33,860 --> 00:59:40,160
+A new United Nations report reports police in Afghanistan are looking for PR News in Washington.
+

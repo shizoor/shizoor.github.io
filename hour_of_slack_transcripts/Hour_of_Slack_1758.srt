@@ -1,0 +1,1928 @@
+1
+00:00:30,000 --> 00:00:30,660
+Ich bin ein...
+
+2
+00:00:33,100 --> 00:00:34,500
+...Au...
+
+3
+00:00:36,000 --> 00:00:37,300
+...Au...
+
+4
+00:00:38,000 --> 00:00:39,240
+...Au...
+
+5
+00:00:58,580 --> 00:00:59,980
+...Au...
+
+6
+00:01:09,580 --> 00:01:10,140
+...Au...
+
+7
+00:01:10,140 --> 00:01:10,140
+
+
+8
+00:01:10,140 --> 00:01:10,140
+
+
+9
+00:01:11,980 --> 00:01:12,540
+...Au...
+
+10
+00:01:12,540 --> 00:01:12,700
+...Au...
+
+11
+00:01:12,700 --> 00:01:17,820
+Ah, ja, liebe Freunde, es ist wieder die Re-Run-Zeit.
+
+12
+00:01:18,300 --> 00:01:23,560
+Aber ihr werdet glücklich wissen, dass wir das gleiche alte
+
+13
+00:01:23,560 --> 00:01:28,300
+dreimal die Weihnachtszeit der Slack-Show-Re-Runs in einer Reihe machen werden.
+
+14
+00:01:28,300 --> 00:01:29,380
+Nein, ich werde es ausdrücken.
+
+15
+00:01:30,000 --> 00:01:35,560
+... in nur dieses eine intensive, totale Rerun-Show.
+
+16
+00:01:35,700 --> 00:01:39,480
+Außer, dass es nicht die ganze erste Hälfte ist.
+
+17
+00:01:39,680 --> 00:01:45,200
+Es wird mit einer neuen Weihnachts-Sickheit verbreitet.
+
+18
+00:01:45,200 --> 00:01:48,560
+Für die Weihnachten und die Heiligen Tage.
+
+19
+00:01:48,820 --> 00:01:53,780
+Und die Heiligen Tage, wie es für einige Leute ist.
+
+20
+00:01:53,980 --> 00:01:58,200
+Eigentlich muss ich doppelt arbeiten, weil es die Saison der Verkaufszeit ist.
+
+21
+00:01:58,200 --> 00:01:59,200
+Das ist so schrecklich!
+
+22
+00:01:59,220 --> 00:02:05,500
+Du würdest nicht glauben, was die Elfen in diesen subgeniösen Katalogs gemacht haben.
+
+23
+00:02:05,500 --> 00:02:10,440
+Aber, äh, äh, äh, ja, glücklich, äh, was auch immer du tust.
+
+24
+00:02:11,300 --> 00:02:18,140
+Ah, äh, ja, diese Musik im Hintergrund ist von jemandem namens Kenny Wayne Shepherd.
+
+25
+00:02:20,340 --> 00:02:25,360
+Ja, es gibt ein Album namens Merry Axmus, ein Gitarre-Axmus.
+
+26
+00:02:26,260 --> 00:02:27,860
+Es ist cool, Mann, cool!
+
+27
+00:02:27,860 --> 00:02:30,840
+Und, äh, äh, äh, äh, äh, Praise Bob!
+
+28
+00:02:31,100 --> 00:02:33,900
+Und, äh, ho, oh, oh, oh, oh!
+
+29
+00:02:34,840 --> 00:02:38,460
+... Musik ...
+
+30
+00:02:47,860 --> 00:02:52,700
+I'd like to find the guy who done me wrong
+
+31
+00:02:53,700 --> 00:02:57,560
+And stuck my butt upon this Christmas tree.
+
+32
+00:02:57,860 --> 00:02:58,100
+... Musik ...
+
+33
+00:02:58,100 --> 00:02:58,100
+
+
+34
+00:02:58,100 --> 00:02:58,400
+Und stuck my butt upon this Christmas tree.
+
+35
+00:03:11,400 --> 00:03:13,860
+Who put this stomp in my rompapompapomp
+
+36
+00:03:14,560 --> 00:03:17,240
+Who took and jammed it in my rammalammadingdon
+
+37
+00:03:17,240 --> 00:03:20,100
+Who stabbed the wood where I poopshi-poopshi pop
+
+38
+00:03:20,100 --> 00:03:22,960
+Who put the stick up my hip-di-dip-di-dip
+
+39
+00:03:22,960 --> 00:03:24,720
+Who was that man?
+
+40
+00:03:25,020 --> 00:03:25,520
+... Musik ...
+
+41
+00:03:25,520 --> 00:03:31,880
+Er hat mir die Schnauze auf den Kamm geschoben und mich auf diesen Weihnachtsbaum verliebt.
+
+42
+00:03:37,840 --> 00:03:42,240
+Wenn dieser Engel hörte,
+
+43
+00:03:42,280 --> 00:03:49,260
+ein schreckliches Fehlschmerz ging direkt in mein Herz.
+
+44
+00:03:49,960 --> 00:03:53,160
+Diese Pinzentrie-Nebel stürmen mich.
+
+45
+00:03:53,160 --> 00:03:56,420
+Rämme, jämme, rämme, jämmele, ma ding dong.
+
+46
+00:03:56,580 --> 00:04:00,160
+You'll never know how much that smarts.
+
+47
+00:04:01,060 --> 00:04:04,160
+So, who put the stump in my rompapompapomp?
+
+48
+00:04:04,840 --> 00:04:07,460
+Who took and jammed it in my rämmele, ma ding dong?
+
+49
+00:04:07,600 --> 00:04:10,420
+Who stood the wood where I boop-sheep-boop-sheep-boop?
+
+50
+00:04:10,640 --> 00:04:13,180
+Who put the stick up my hip-de-dip-de-dip?
+
+51
+00:04:13,180 --> 00:04:17,900
+Who took that bush and crammed it in my tush?
+
+52
+00:04:18,160 --> 00:04:22,060
+He made this angel beg for mercy, please.
+
+53
+00:04:23,800 --> 00:04:27,020
+I might squeeze him too tight.
+
+54
+00:04:27,200 --> 00:04:29,660
+It's that psychedelic time of the year.
+
+55
+00:04:29,860 --> 00:04:32,460
+Do you know where your brain cells are?
+
+56
+00:04:32,540 --> 00:04:34,560
+It's already 9 p.m.
+
+57
+00:04:35,060 --> 00:04:37,640
+Don't go looking out in the backyard to dog-ate him.
+
+58
+00:04:37,840 --> 00:04:39,780
+Don't go walking down to the bar,
+
+59
+00:04:39,880 --> 00:04:43,620
+cause old Frankie died last night in the backyard.
+
+60
+00:04:44,060 --> 00:04:45,240
+I mean, I'm in the apartment store.
+
+61
+00:04:46,640 --> 00:04:50,740
+Oh, can I borrow the brain cells tonight?
+
+62
+00:04:51,240 --> 00:04:52,940
+He ain't brought back the chains.
+
+63
+00:04:53,160 --> 00:04:55,260
+Oh yeah, I ain't gonna let you use the brain cells
+
+64
+00:04:55,260 --> 00:04:59,920
+till I get the damn chainsaw fixed and back in my arm the way it was Tuesday.
+
+65
+00:05:01,120 --> 00:05:04,400
+Now you boys be good and I'll give you some of this here.
+
+66
+00:05:04,400 --> 00:05:07,680
+You ain't no good of a child.
+
+67
+00:05:07,980 --> 00:05:10,520
+That dog's running off with them brain cells.
+
+68
+00:05:10,520 --> 00:05:12,060
+Can you do something about that, boy?
+
+69
+00:05:13,020 --> 00:05:13,900
+I'm gonna have to...
+
+70
+00:05:29,840 --> 00:05:33,320
+It could be his head wasn't screwed on just right.
+
+71
+00:05:40,780 --> 00:05:41,440
+What?
+
+72
+00:05:49,760 --> 00:05:51,080
+Merry Christmas!
+
+73
+00:05:51,220 --> 00:05:51,880
+Merry Christmas!
+
+74
+00:05:52,100 --> 00:05:52,740
+Merry Christmas!
+
+75
+00:05:53,160 --> 00:05:54,240
+Merry Christmas!
+
+76
+00:05:55,020 --> 00:05:57,700
+What we as manufacturers sell you is fun.
+
+77
+00:06:05,260 --> 00:06:06,820
+The fate of a child.
+
+78
+00:06:12,380 --> 00:06:13,780
+Spend all the money you've got.
+
+79
+00:06:17,500 --> 00:06:18,920
+Spend all the money you've got.
+
+80
+00:06:21,180 --> 00:06:22,580
+The Christmas Trough.
+
+81
+00:06:24,340 --> 00:06:24,940
+The Christmas Trough.
+
+82
+00:06:24,940 --> 00:06:24,940
+
+
+83
+00:06:24,940 --> 00:06:24,940
+
+
+84
+00:06:24,960 --> 00:06:24,980
+Oh, look!
+
+85
+00:06:25,840 --> 00:06:28,600
+Dave's dressed like Santa Claus.
+
+86
+00:06:28,780 --> 00:06:30,840
+Oh, he's like a cowboy Santa.
+
+87
+00:06:32,500 --> 00:06:33,540
+Oh, jolly!
+
+88
+00:06:33,680 --> 00:06:36,640
+Oh, Jazz is giving-
+
+89
+00:06:37,440 --> 00:06:39,220
+Gives Dave the show pills.
+
+90
+00:06:39,520 --> 00:06:40,940
+Oh boy, I really need one of those.
+
+91
+00:06:40,940 --> 00:06:43,120
+What am I gonna do about Laundromat and his suit though.
+
+92
+00:06:43,200 --> 00:06:44,360
+I need the show bath.
+
+93
+00:06:45,580 --> 00:06:47,540
+The show de-lousing.
+
+94
+00:06:48,120 --> 00:06:50,300
+Oh, Dave doesn't even have headphones.
+
+95
+00:06:50,920 --> 00:06:52,060
+That's enough of that.
+
+96
+00:06:52,060 --> 00:06:52,760
+Oh, he's got headphones.
+
+97
+00:06:56,260 --> 00:07:03,440
+Oh, your pancreas looks lovely, Dave. Look, it's swelling.
+
+98
+00:07:08,440 --> 00:07:11,000
+I'll put more pills out for everybody.
+
+99
+00:07:12,260 --> 00:07:16,680
+Oh, those pills, they make my mouth feel like it's on fire.
+
+100
+00:07:16,680 --> 00:07:22,880
+And my brain feels like it's a puddle of liquefied crystals.
+
+101
+00:07:23,060 --> 00:07:24,460
+I'm shocked by the...
+
+102
+00:07:24,460 --> 00:07:26,300
+The red pills are really good.
+
+103
+00:07:27,320 --> 00:07:33,540
+I like to take the red one and the blue one at the same time.
+
+104
+00:07:33,780 --> 00:07:35,700
+That way you go in and out.
+
+105
+00:07:35,760 --> 00:07:36,820
+The warp mix is easy.
+
+106
+00:07:37,520 --> 00:07:40,840
+It's so high, you can't go over it.
+
+107
+00:07:40,940 --> 00:07:44,160
+Angels, we have heard on high
+
+108
+00:07:44,160 --> 00:07:47,480
+Singing about mountains
+
+109
+00:07:47,480 --> 00:07:51,600
+And those mountains in reply
+
+110
+00:07:51,600 --> 00:07:55,520
+Saying we wish we had some too
+
+111
+00:07:55,520 --> 00:08:00,960
+Oh, warrior
+
+112
+00:08:02,440 --> 00:08:05,920
+In excelsis deo
+
+113
+00:08:06,440 --> 00:08:12,400
+Oh, warrior
+
+114
+00:08:29,580 --> 00:08:43,160
+Das war's für heute.
+
+115
+00:08:44,160 --> 00:08:45,520
+Barbie-Dolls.
+
+116
+00:09:14,160 --> 00:09:18,120
+Wie wird die Waffe von Gut gegen Schicksal
+
+117
+00:09:18,120 --> 00:09:22,700
+in deinen Marketing-Schemen vertreten, Mensch?
+
+118
+00:09:23,200 --> 00:09:25,180
+Gut hat Waffen und Muskeln.
+
+119
+00:09:26,200 --> 00:09:26,580
+Gut.
+
+120
+00:09:26,740 --> 00:09:27,360
+Gut!
+
+121
+00:09:28,380 --> 00:09:30,680
+Die primitiven Welt-Sozieten
+
+122
+00:09:30,680 --> 00:09:33,580
+sollten diesen Wert-Gesetz akzeptieren.
+
+123
+00:09:34,340 --> 00:09:37,860
+Gut hat physische Attribute,
+
+124
+00:09:38,140 --> 00:09:39,580
+je nachdem, was man will.
+
+125
+00:09:41,180 --> 00:09:42,800
+Sexualen Wünsche.
+
+126
+00:09:42,800 --> 00:09:42,820
+Sexualen Wünsche.
+
+127
+00:10:04,220 --> 00:10:07,020
+Sexualen Wünsche.
+
+128
+00:10:12,820 --> 00:10:14,720
+Recorded there at Dockstock 1984
+
+129
+00:10:15,300 --> 00:10:18,880
+in mean Palmer Veedies.
+
+130
+00:10:19,680 --> 00:10:21,520
+Angels We Have Heard on High
+
+131
+00:10:21,520 --> 00:10:23,740
+was by The Philistines.
+
+132
+00:10:24,760 --> 00:10:27,940
+The Collage called All the Money You've Got
+
+133
+00:10:27,940 --> 00:10:32,220
+is from the great Obtuse Christmas Collage album,
+
+134
+00:10:32,360 --> 00:10:33,580
+which you can get for free.
+
+135
+00:10:33,860 --> 00:10:34,560
+Get this.
+
+136
+00:10:34,980 --> 00:10:36,700
+Check out this website,
+
+137
+00:10:37,040 --> 00:10:42,340
+obtuse.iuma.com.
+
+138
+00:10:42,820 --> 00:10:43,440
+That's obt...
+
+139
+00:10:43,440 --> 00:10:44,480
+Excuse me.
+
+140
+00:10:45,420 --> 00:10:45,680
+Ah, yes.
+
+141
+00:10:45,740 --> 00:10:46,360
+And next up,
+
+142
+00:10:46,460 --> 00:10:48,180
+The Real Story of Christmas
+
+143
+00:10:48,180 --> 00:10:50,380
+by Michael Shelley.
+
+144
+00:10:57,820 --> 00:10:59,220
+Once upon a time
+
+145
+00:10:59,220 --> 00:11:01,400
+there was the baby Jesus
+
+146
+00:11:01,400 --> 00:11:04,920
+and he had two eyes made out of coal
+
+147
+00:11:04,920 --> 00:11:10,120
+and he was stuck up a partridge in a pear tree
+
+148
+00:11:10,120 --> 00:11:12,740
+and he wanted his two front teeth
+
+149
+00:11:12,740 --> 00:11:12,800
+and he wanted his two front teeth
+
+150
+00:11:12,820 --> 00:11:15,820
+and he got McDonald's gift certificates
+
+151
+00:11:15,820 --> 00:11:20,320
+and he had a dog named Santa's little helper
+
+152
+00:11:20,320 --> 00:11:23,820
+and he took all the presents from Whoville
+
+153
+00:11:23,820 --> 00:11:27,080
+and his friend Yukon Cornelius
+
+154
+00:11:27,080 --> 00:11:29,620
+came with the three wise guys
+
+155
+00:11:29,620 --> 00:11:32,720
+and he wanted to play the drums
+
+156
+00:11:32,720 --> 00:11:34,340
+and be the little drummer boy
+
+157
+00:11:34,340 --> 00:11:36,540
+but he couldn't.
+
+158
+00:11:36,540 --> 00:11:40,140
+He wanted 10s and 20s, 10s and 20s
+
+159
+00:11:40,140 --> 00:11:41,820
+and he...
+
+160
+00:11:42,820 --> 00:11:44,520
+and he got McDonald's gift certificates
+
+161
+00:11:44,520 --> 00:11:46,280
+and he got Zuzu's pedals.
+
+162
+00:11:47,740 --> 00:11:49,880
+And that's the real story of Christmas.
+
+163
+00:12:08,780 --> 00:12:11,120
+And that's the real story of Christmas.
+
+164
+00:12:22,040 --> 00:12:24,800
+And that's the real story of Christmas.
+
+165
+00:12:24,800 --> 00:12:25,760
+So separate.
+
+166
+00:12:25,900 --> 00:12:26,700
+So separate.
+
+167
+00:12:26,860 --> 00:12:27,480
+So separate.
+
+168
+00:12:27,540 --> 00:12:29,160
+New from Tonka.
+
+169
+00:12:29,480 --> 00:12:31,740
+Now you are in my evil clutches, Bob.
+
+170
+00:12:31,940 --> 00:12:35,260
+I'll use this MTV bombardment to turn you normal.
+
+171
+00:12:35,560 --> 00:12:36,520
+Shut up, pink boy.
+
+172
+00:12:36,720 --> 00:12:37,400
+No way.
+
+173
+00:12:37,500 --> 00:12:39,040
+I'll never sell out to the conspiracy.
+
+174
+00:12:39,100 --> 00:12:42,100
+Taste a little of my rocket pipe, alien tool.
+
+175
+00:12:44,680 --> 00:12:45,160
+I'll eat you.
+
+176
+00:12:45,160 --> 00:12:46,720
+Bob Dobbs comes with rocket pipe, head launcher,
+
+177
+00:12:46,840 --> 00:12:48,360
+jayner device, oligarchatism, fighting Jesus
+
+178
+00:12:48,360 --> 00:12:49,480
+and other action figures sold separately.
+
+179
+00:12:49,580 --> 00:12:51,140
+Some assembly required, batteries not included.
+
+180
+00:12:51,180 --> 00:12:52,300
+This toy falls apart in three days.
+
+181
+00:12:52,520 --> 00:12:56,000
+He-Bob and the bastards of the universe.
+
+182
+00:12:56,120 --> 00:12:58,340
+Too much is always better than not enough.
+
+183
+00:12:58,600 --> 00:12:59,420
+From Bob Dobbs.
+
+184
+00:13:01,100 --> 00:13:01,580
+Gorgeous.
+
+185
+00:13:01,840 --> 00:13:04,520
+We girls can blow from head to toe.
+
+186
+00:13:04,920 --> 00:13:06,240
+Everything you see here.
+
+187
+00:13:06,280 --> 00:13:07,240
+Ken Dowsell separately.
+
+188
+00:13:07,700 --> 00:13:09,740
+He-Bob and the bastards of the universe
+
+189
+00:13:09,740 --> 00:13:11,220
+will be back after this message.
+
+190
+00:13:11,220 --> 00:13:11,940
+Santa Claus.
+
+191
+00:13:18,280 --> 00:13:18,720
+Santa Claus.
+
+192
+00:13:18,720 --> 00:13:18,720
+
+
+193
+00:13:18,720 --> 00:13:18,720
+
+
+194
+00:13:18,720 --> 00:13:18,720
+
+
+195
+00:13:18,720 --> 00:13:20,980
+Well, Tommy knew exactly what he wanted for Christmas.
+
+196
+00:13:21,500 --> 00:13:23,140
+He wanted an electric train.
+
+197
+00:13:26,360 --> 00:13:28,240
+He had the whole thing in his mind,
+
+198
+00:13:28,280 --> 00:13:30,300
+even to the table where he was going to set it up.
+
+199
+00:13:38,100 --> 00:13:41,900
+He-Bob and the bastards of the universe.
+
+200
+00:13:46,760 --> 00:13:47,400
+He-Bob and the bastards of the universe.
+
+201
+00:13:47,400 --> 00:13:47,560
+He-Bob and the bastards of the universe.
+
+202
+00:13:47,560 --> 00:13:48,300
+He turned the roulette.
+
+203
+00:13:48,500 --> 00:13:51,500
+He-Bob and the bastards of the universe.
+
+204
+00:13:53,460 --> 00:13:54,980
+He-Bob and the bastards of the universe.
+
+205
+00:13:55,220 --> 00:13:58,820
+He-Bob and the bastards of the universe.
+
+206
+00:13:58,820 --> 00:14:11,420
+He-Bob and the bastards of the universe.
+
+207
+00:14:11,420 --> 00:14:17,420
+und was er für eine ganz lustige Trainingsstrecke mit Lokomotiven und freien Autos,
+
+208
+00:14:19,520 --> 00:14:21,420
+der Station und der Gateman,
+
+209
+00:14:22,640 --> 00:14:26,380
+der Motor-Tower und all den ganzen wunderbaren Equipmenten und Accessorien.
+
+210
+00:14:30,180 --> 00:14:34,340
+So rand, dass man vielleicht denkt, dass Tommy für etwas gewinnt, das nicht existierte.
+
+211
+00:14:51,240 --> 00:14:53,360
+Aber Tommy wusste, was er für eine Wünsche wünschte.
+
+212
+00:14:56,060 --> 00:15:01,880
+Es ist die Zeit des Jahres, an der alle Dinge verkaufen, die End-Jahr-Sale.
+
+213
+00:15:02,120 --> 00:15:06,400
+Also kommt alle her und kauft unsere Produkte.
+
+214
+00:15:07,520 --> 00:15:11,220
+Ich bin ein wenig überrascht, was Weihnachten alles umsieht.
+
+215
+00:15:11,220 --> 00:15:11,400
+Ich habe mich überrascht, dass es so viel Geld gibt.
+
+216
+00:15:11,400 --> 00:15:11,400
+
+
+217
+00:15:11,420 --> 00:15:15,520
+Sehen wir uns an den Geburtstag von Santa Claus oder an seinen Tod, als er ihn gekauft hat?
+
+218
+00:15:15,740 --> 00:15:18,940
+Das ist das alte, alte Subgenie.
+
+219
+00:15:19,100 --> 00:15:24,800
+Aber das präsentierte Subgenie versucht, dass wir unsere Inventare jetzt abklappern
+
+220
+00:15:24,800 --> 00:15:26,760
+und alles an die Pinks verkaufen.
+
+221
+00:15:26,820 --> 00:15:31,620
+Oh ja, ein einmaler Pagan-Holiday und jetzt eine Shopping-Saison.
+
+222
+00:15:31,800 --> 00:15:33,600
+Und es war etwas anderes dazwischen.
+
+223
+00:15:36,100 --> 00:15:40,280
+Nachdem es ein Pagan-Holiday war und vor der Shopping-Saison,
+
+224
+00:15:40,280 --> 00:15:41,400
+war es etwas anderes.
+
+225
+00:15:41,420 --> 00:15:43,340
+Aber ich denke, dass sie sich darüber gewandert haben.
+
+226
+00:15:43,520 --> 00:15:44,120
+Ja, ja, ja.
+
+227
+00:16:11,420 --> 00:16:16,540
+Aber eigentlich war das alles zuigh joking and
+
+228
+00:16:16,540 --> 00:16:17,960
+das war die gemachte Er Venus.
+
+229
+00:16:17,960 --> 00:16:20,080
+idée
+
+230
+00:16:20,080 --> 00:16:21,640
+مش
+
+231
+00:16:34,420 --> 00:16:35,800
+Vieh
+
+232
+00:16:35,800 --> 00:16:36,040
+Country
+
+233
+00:16:39,780 --> 00:16:41,020
+To Making
+
+234
+00:16:41,020 --> 00:16:41,400
+Koose
+
+235
+00:16:39,420 --> 00:16:40,420
+Beauty
+
+236
+00:16:57,520 --> 00:17:11,100
+Untertitelung des ZDF, 2020
+
+237
+00:17:19,680 --> 00:17:22,000
+Untertitelung des ZDF, 2020
+
+238
+00:17:53,100 --> 00:18:11,380
+Untertitelung des ZDF, 2020
+
+239
+00:18:23,000 --> 00:18:39,000
+Untertitelung des ZDF, 2020
+
+240
+00:18:52,900 --> 00:19:11,380
+Untertitelung des ZDF, 2020
+
+241
+00:19:23,020 --> 00:19:26,140
+Untertitelung des ZDF, 2020
+
+242
+00:19:51,780 --> 00:20:11,180
+Untertitelung des ZDF, 2020
+
+243
+00:20:40,240 --> 00:20:41,380
+Untertitelung des ZDF, 2020
+
+244
+00:20:50,900 --> 00:20:52,800
+Untertitelung des ZDF, 2020
+
+245
+00:21:39,380 --> 00:21:41,280
+Untertitelung des ZDF, 2020
+
+246
+00:22:07,340 --> 00:22:10,400
+Untertitelung des ZDF, 2020
+
+247
+00:22:29,260 --> 00:22:38,860
+Untertitelung des ZDF, 2020
+
+248
+00:22:52,880 --> 00:23:04,120
+Untertitelung des ZDF, 2020
+
+249
+00:23:14,060 --> 00:23:23,280
+Untertitelung des ZDF, 2020
+
+250
+00:23:48,900 --> 00:23:52,540
+Untertitelung des ZDF, 2020
+
+251
+00:24:19,880 --> 00:24:23,820
+Untertitelung des ZDF, 2020
+
+252
+00:24:46,000 --> 00:24:49,260
+Untertitelung des ZDF, 2020
+
+253
+00:24:56,580 --> 00:25:00,420
+Untertitelung des ZDF, 2020
+
+254
+00:25:11,400 --> 00:25:13,120
+Untertitelung des ZDF, 2020
+
+255
+00:25:23,480 --> 00:25:27,260
+Untertitelung des ZDF, 2020
+
+256
+00:25:42,740 --> 00:26:09,220
+U search in U, YouTube auf YouTube und 그럴pe. In chorus!
+
+257
+00:25:43,400 --> 00:26:09,400
+esto
+
+258
+00:26:11,400 --> 00:26:27,440
+Am 4. Juli.
+
+259
+00:27:09,520 --> 00:27:10,920
+Juli.
+
+260
+00:27:10,920 --> 00:27:12,200
+Juli.
+
+261
+00:27:40,920 --> 00:27:41,580
+Juli.
+
+262
+00:28:20,320 --> 00:28:21,720
+Juli.
+
+263
+00:28:22,240 --> 00:28:22,240
+
+
+264
+00:28:25,020 --> 00:28:26,420
+Juli.
+
+265
+00:28:36,580 --> 00:28:37,980
+Juli.
+
+266
+00:28:40,400 --> 00:28:40,460
+Juli.
+
+267
+00:28:40,920 --> 00:28:42,300
+That real story of Christmas
+
+268
+00:28:42,300 --> 00:28:44,640
+from the Tarkin Records
+
+269
+00:28:44,640 --> 00:28:46,420
+All-Star Holiday
+
+270
+00:28:47,460 --> 00:28:48,740
+Extravaganza. I'm playing a lot
+
+271
+00:28:48,740 --> 00:28:50,140
+from that. So check out
+
+272
+00:28:50,140 --> 00:28:53,560
+www.triage.com
+
+273
+00:28:53,560 --> 00:28:55,140
+For that one also,
+
+274
+00:28:55,300 --> 00:28:57,340
+the Tarkin Records is also
+
+275
+00:28:57,340 --> 00:29:00,460
+on www.triage.com
+
+276
+00:29:00,460 --> 00:29:00,860
+and now
+
+277
+00:29:00,860 --> 00:29:02,940
+the Jethro's.
+
+278
+00:29:33,640 --> 00:29:35,040
+Jethro's
+
+279
+00:30:09,480 --> 00:30:10,880
+Jethro's
+
+280
+00:30:10,880 --> 00:30:11,080
+Jethro's
+
+281
+00:30:11,080 --> 00:30:11,740
+Jethro's
+
+282
+00:30:11,740 --> 00:30:11,960
+Jethro's
+
+283
+00:30:11,960 --> 00:30:12,900
+Jethro's
+
+284
+00:30:18,860 --> 00:30:20,260
+Jethro's
+
+285
+00:30:20,260 --> 00:30:22,700
+Jethro's
+
+286
+00:30:22,700 --> 00:30:24,220
+Jethro's
+
+287
+00:30:24,220 --> 00:30:25,840
+Jethro's
+
+288
+00:30:25,840 --> 00:30:26,740
+Jethro's
+
+289
+00:30:26,740 --> 00:30:27,360
+Jethro's
+
+290
+00:30:27,360 --> 00:30:29,100
+Jethro's
+
+291
+00:30:29,100 --> 00:30:29,860
+Jethro's
+
+292
+00:30:32,280 --> 00:30:33,680
+Jethro's
+
+293
+00:30:33,680 --> 00:30:34,280
+Jethro's
+
+294
+00:30:34,280 --> 00:30:34,800
+Jethro's
+
+295
+00:30:34,800 --> 00:30:35,960
+Jethro's
+
+296
+00:30:35,960 --> 00:30:37,500
+Jethro's
+
+297
+00:30:37,500 --> 00:30:39,320
+Jethro's
+
+298
+00:30:42,060 --> 00:30:44,720
+oder dass sie Santa Bob sind am Abend.
+
+299
+00:30:44,920 --> 00:30:50,120
+Und sie gehen durch die Schnee auf ihre unbekanntes, hübsches Errens,
+
+300
+00:30:50,120 --> 00:30:56,020
+der Geruch von Bob und der Geist von Santa Claus und der Pipe des Herrn,
+
+301
+00:30:56,260 --> 00:30:57,640
+auf ihre Füße gestanden.
+
+302
+00:30:57,640 --> 00:31:01,580
+Sie stoppen die Locken ihrer Türen und fliegen einfach in den Schlüssel.
+
+303
+00:31:02,480 --> 00:31:08,720
+Oh Freunde, es ist schwer. Und du weißt, dass es nicht genug ist, nur in der Kirche zu gehen.
+
+304
+00:31:10,060 --> 00:31:12,740
+Du musst dein Geld an den Santa Bob schicken.
+
+305
+00:31:12,740 --> 00:31:17,420
+Als Fakt, die Leute auf der Straße von mir haben ihren Kindern gesagt,
+
+306
+00:31:17,980 --> 00:31:21,880
+dass Santa Claus sie für die Türen, die er bringt, bietet.
+
+307
+00:31:21,880 --> 00:31:30,700
+Kannst du das glauben? Die Kinder fragten, ob Santa Claus uns zwei He-Man-Erektor-Sets bringt.
+
+308
+00:31:30,700 --> 00:31:31,560
+Und die Mutter sagte, dass es nicht so ist.
+
+309
+00:31:31,560 --> 00:31:31,560
+
+
+310
+00:31:31,580 --> 00:31:35,080
+Und die Mutter sagte, dass es nicht so ist, weil er uns billt. Wir können das nicht erlauben.
+
+311
+00:31:35,280 --> 00:31:38,340
+Santa Claus schickt uns eine Bille nach Weihnachten.
+
+312
+00:31:39,180 --> 00:31:41,120
+Ja, aber zumindest hat er die Note geklopft.
+
+313
+00:32:07,340 --> 00:32:09,460
+Und dann hat er uns geklopft.
+
+314
+00:32:10,420 --> 00:32:14,820
+Oh, oh, oh, oh, oh.
+
+315
+00:32:15,180 --> 00:32:16,580
+Oh, oh, oh, oh, oh.
+
+316
+00:32:18,000 --> 00:32:19,760
+Oh, oh, oh, oh, oh.
+
+317
+00:32:20,440 --> 00:32:30,580
+Oh, oh, oh, oh, oh.
+
+318
+00:32:31,580 --> 00:32:33,320
+Oh, oh, oh, oh, oh.
+
+319
+00:32:33,580 --> 00:33:01,520
+Oh, oh, oh, oh, oh.
+
+320
+00:33:01,580 --> 00:33:31,380
+Oh, oh, oh, oh, oh.
+
+321
+00:33:31,580 --> 00:33:39,760
+Oh, oh, oh, oh, oh.
+
+322
+00:33:55,340 --> 00:33:58,040
+Jetzt blamierst du Jesus, du blamierst unseren Herrn.
+
+323
+00:33:58,240 --> 00:34:00,280
+Ich verstehe es, weil...
+
+324
+00:34:01,420 --> 00:34:04,960
+Ich verstehe es, wie jeder alte Schwester es versteht.
+
+325
+00:34:05,220 --> 00:34:06,900
+Es gab keinen Jesus.
+
+326
+00:34:07,660 --> 00:34:11,260
+Keine alte schwesterische Frau, die ihre Hände auf dem Berg wackelt.
+
+327
+00:34:11,260 --> 00:34:15,500
+Es ist nicht so, dass du es nicht willst, es ist nicht so, dass sie dich nicht lassen.
+
+328
+00:34:15,740 --> 00:34:23,160
+Nein, es ist nur ein Schmerz, der die Welt in der heißen Bewegung der Wälder, überall im Hintergrund, verursacht.
+
+329
+00:34:23,160 --> 00:34:24,420
+Ich bin schuld von ihnen.
+
+330
+00:34:26,680 --> 00:34:27,840
+Es ist kalt.
+
+331
+00:34:28,880 --> 00:34:33,820
+Ich verliere das Stadtleben hinter den radioführenden Menschen.
+
+332
+00:34:33,900 --> 00:34:34,240
+Ich kann meine Finger nicht mehr.
+
+333
+00:34:34,480 --> 00:34:36,320
+Ich kann meine Finger nicht mehr.
+
+334
+00:34:36,340 --> 00:34:36,500
+Ich kann meine Finger nicht mehr.
+
+335
+00:34:36,900 --> 00:34:44,300
+Ich kann meine Finger nicht mehr.
+
+336
+00:35:06,900 --> 00:35:07,340
+Ich kann sie nicht mehr.
+
+337
+00:35:07,340 --> 00:35:10,140
+Es ist sie.
+
+338
+00:35:15,520 --> 00:35:17,260
+Was ist los?
+
+339
+00:35:17,460 --> 00:35:18,020
+Was ist los?
+
+340
+00:35:18,220 --> 00:35:18,700
+Was ist los?
+
+341
+00:35:18,800 --> 00:35:19,340
+Was ist los?
+
+342
+00:35:20,200 --> 00:35:21,540
+Was ist los?
+
+343
+00:35:21,900 --> 00:35:22,420
+Was ist los?
+
+344
+00:35:22,420 --> 00:35:22,420
+
+
+345
+00:35:22,420 --> 00:35:22,580
+Was ist los?
+
+346
+00:35:22,580 --> 00:35:22,620
+Was ist los?
+
+347
+00:35:46,700 --> 00:35:48,100
+Musik
+
+348
+00:36:21,540 --> 00:36:22,940
+Musik
+
+349
+00:36:48,460 --> 00:36:49,860
+Musik
+
+350
+00:37:20,980 --> 00:37:22,380
+Musik
+
+351
+00:37:49,160 --> 00:37:50,560
+Musik
+
+352
+00:38:08,120 --> 00:38:09,520
+Musik
+
+353
+00:38:09,520 --> 00:38:09,520
+
+
+354
+00:38:21,820 --> 00:38:23,220
+Musik
+
+355
+00:38:23,220 --> 00:38:25,740
+Musik
+
+356
+00:38:25,740 --> 00:38:28,140
+Musik
+
+357
+00:38:28,140 --> 00:38:30,740
+Musik
+
+358
+00:38:30,740 --> 00:38:31,680
+Musik
+
+359
+00:38:31,680 --> 00:38:31,860
+Musik
+
+360
+00:38:31,860 --> 00:38:31,880
+Musik
+
+361
+00:38:31,880 --> 00:38:31,900
+Musik
+
+362
+00:38:31,900 --> 00:38:31,920
+Music
+
+363
+00:38:35,480 --> 00:38:36,880
+Music
+
+364
+00:38:36,900 --> 00:38:37,920
+der Konspiration.
+
+365
+00:38:38,720 --> 00:38:39,680
+Yes.
+
+366
+00:38:41,260 --> 00:38:43,180
+There was a
+
+367
+00:38:43,180 --> 00:38:45,440
+down-home Norman Rockwell
+
+368
+00:38:45,440 --> 00:38:47,180
+style, it's a wonderful
+
+369
+00:38:47,180 --> 00:38:48,720
+life type of Christmas.
+
+370
+00:38:49,160 --> 00:38:50,980
+It was a
+
+371
+00:38:50,980 --> 00:38:53,160
+kite-flying
+
+372
+00:38:53,160 --> 00:38:55,040
+Coca-Cola-drinking Christmas,
+
+373
+00:38:55,260 --> 00:38:56,640
+not a crack-smoking,
+
+374
+00:38:57,260 --> 00:38:58,540
+rubber-snapping Christmas.
+
+375
+00:38:59,020 --> 00:39:00,520
+Holy dough.
+
+376
+00:39:01,600 --> 00:39:02,660
+It was a...
+
+377
+00:39:03,160 --> 00:39:05,440
+When your little brother
+
+378
+00:39:05,440 --> 00:39:07,140
+broke through the hole, it fell through
+
+379
+00:39:07,140 --> 00:39:09,280
+a hole in the ice, and you
+
+380
+00:39:09,280 --> 00:39:10,820
+went and saved him. You didn't
+
+381
+00:39:10,820 --> 00:39:13,140
+laugh at him and huff some more glue.
+
+382
+00:39:14,040 --> 00:39:15,280
+It was a wonderful
+
+383
+00:39:15,280 --> 00:39:16,340
+life back then.
+
+384
+00:39:24,260 --> 00:39:25,220
+But today
+
+385
+00:39:25,220 --> 00:39:26,360
+Christmas is now.
+
+386
+00:39:26,600 --> 00:39:27,040
+It's me.
+
+387
+00:39:30,140 --> 00:39:30,620
+Scott,
+
+388
+00:39:34,940 --> 00:39:35,420
+you're
+
+389
+00:39:35,440 --> 00:39:36,280
+You made your choice.
+
+390
+00:39:37,080 --> 00:39:38,820
+When you rejected my word, you rejected
+
+391
+00:39:38,820 --> 00:39:39,640
+me.
+
+392
+00:39:40,300 --> 00:39:42,260
+And to your eternal soul,
+
+393
+00:39:43,140 --> 00:39:44,680
+you have found that only
+
+394
+00:39:44,680 --> 00:39:45,700
+could you afford
+
+395
+00:39:45,700 --> 00:39:48,560
+to give to God that which was his.
+
+396
+00:39:49,500 --> 00:39:50,620
+But you could not afford
+
+397
+00:39:50,620 --> 00:39:51,620
+to do otherwise.
+
+398
+00:39:52,460 --> 00:39:54,660
+The Senate still stands.
+
+399
+00:39:56,400 --> 00:39:57,300
+In the outer
+
+400
+00:39:59,080 --> 00:40:00,620
+darkness, where there is
+
+401
+00:40:00,620 --> 00:40:02,220
+wailing and gnashing of teeth.
+
+402
+00:40:02,320 --> 00:40:04,560
+Sir, please give me just one more
+
+403
+00:40:04,560 --> 00:40:05,000
+chance.
+
+404
+00:40:05,440 --> 00:40:07,800
+Sir, I don't wanna go to hell, sir.
+
+405
+00:40:08,120 --> 00:40:09,940
+Sir, no, no.
+
+406
+00:40:10,600 --> 00:40:13,120
+I don't wanna go to hell.
+
+407
+00:40:21,440 --> 00:40:23,700
+And the children say
+
+408
+00:40:23,700 --> 00:40:26,080
+you could laugh and play just the same.
+
+409
+00:40:26,240 --> 00:40:27,440
+You and me.
+
+410
+00:40:27,500 --> 00:40:29,720
+The tail bearer will be at the judgment.
+
+411
+00:40:41,720 --> 00:40:42,920
+Everyone in heaven Far intern mean!
+
+412
+00:40:53,820 --> 00:41:00,580
+Oh no, oh no, oh, it's all what I get.
+
+413
+00:41:00,620 --> 00:41:00,620
+
+
+414
+00:41:00,620 --> 00:41:00,620
+
+
+415
+00:41:00,620 --> 00:41:00,620
+
+
+416
+00:41:00,620 --> 00:41:00,620
+
+
+417
+00:41:00,620 --> 00:41:00,620
+
+
+418
+00:41:00,620 --> 00:41:00,700
+let's live in peace.
+
+419
+00:41:00,700 --> 00:41:00,700
+
+
+420
+00:41:00,700 --> 00:41:00,700
+
+
+421
+00:41:00,700 --> 00:41:00,700
+
+
+422
+00:41:00,700 --> 00:41:00,700
+
+
+423
+00:41:00,700 --> 00:41:00,700
+
+
+424
+00:41:00,700 --> 00:41:00,820
+My head hills.
+
+425
+00:41:05,360 --> 00:41:05,420
+Ahh!
+
+426
+00:41:05,420 --> 00:41:05,420
+
+
+427
+00:41:12,420 --> 00:41:15,580
+Untertitelung des ZDF, 2020
+
+428
+00:41:35,420 --> 00:41:37,720
+Die Antwort? Ja, definitiv.
+
+429
+00:41:38,260 --> 00:41:44,260
+Nehmt das und schüttelt es auf die Tube, markt Sicherheit, in die fülle Stelle, nenn es die Twilight Zone.
+
+430
+00:42:05,420 --> 00:42:35,160
+Die Antwort? Ja, definitiv.
+
+431
+00:42:36,800 --> 00:43:03,040
+Die Antwort? Ja, definitiv.
+
+432
+00:43:17,840 --> 00:43:29,220
+Die Antwort? Ja, definitiv.
+
+433
+00:43:46,300 --> 00:43:58,580
+Die Antwort? Ja, definitiv.
+
+434
+00:44:05,420 --> 00:44:35,400
+Die Antwort? Ja, definitiv.
+
+435
+00:44:38,720 --> 00:44:49,460
+Die Antwort? Ja, definitiv.
+
+436
+00:45:07,540 --> 00:45:35,400
+Die Antwort? Ja, definitiv.
+
+437
+00:45:39,420 --> 00:46:05,380
+Die Antwort? Ja, definitiv.
+
+438
+00:46:05,420 --> 00:46:20,700
+Die Antwort? Ja, definitiv.
+
+439
+00:46:42,560 --> 00:47:05,400
+Die Antwort? Ja, definitiv.
+
+440
+00:47:05,420 --> 00:47:33,120
+Die Antwort? Ja, definitiv.
+
+441
+00:47:44,500 --> 00:48:05,400
+Die Antwort? Ja, definitiv.
+
+442
+00:48:14,520 --> 00:48:26,960
+Die Antwort? Ja, definitiv.
+
+443
+00:48:26,960 --> 00:48:31,300
+Die Antwort? Ja, definitiv.
+
+444
+00:48:31,300 --> 00:48:32,580
+Die Antwort? Ja, definitiv.
+
+445
+00:48:32,580 --> 00:48:37,680
+Play right to heck
+
+446
+00:49:29,760 --> 00:49:32,560
+Right to heck
+
+447
+00:49:32,580 --> 00:50:02,560
+Right to heck
+
+448
+00:50:02,580 --> 00:50:32,560
+Right to heck
+
+449
+00:50:32,580 --> 00:51:02,100
+Right to heck
+
+450
+00:51:02,580 --> 00:51:32,560
+Right to heck
+
+451
+00:51:49,500 --> 00:51:59,920
+Right to heck
+
+452
+00:52:29,260 --> 00:52:32,560
+Right to heck
+
+453
+00:52:46,840 --> 00:53:02,560
+Right to heck
+
+454
+00:53:10,120 --> 00:53:32,460
+Right to heck
+
+455
+00:53:45,960 --> 00:54:02,560
+Right to heck
+
+456
+00:54:02,580 --> 00:54:18,360
+Right to heck
+
+457
+00:54:37,040 --> 00:54:58,220
+Right to heck
+
+458
+00:55:02,580 --> 00:55:27,900
+Right to heck
+
+459
+00:55:45,160 --> 00:55:47,600
+Right to heck
+
+460
+00:56:16,600 --> 00:56:32,560
+Right to heck
+
+461
+00:56:59,760 --> 00:57:02,560
+Right to heck
+
+462
+00:57:17,620 --> 00:57:23,300
+Right to heck
+
+463
+00:57:34,840 --> 00:57:57,340
+Right to heck
+
+464
+00:58:03,620 --> 00:58:06,980
+Right to heck
+
+465
+00:58:33,700 --> 00:58:35,100
+Right to heck
+
+466
+00:58:35,100 --> 00:58:37,560
+Right to hell
+
+467
+00:58:37,560 --> 00:58:40,660
+Right to heck
+
+468
+00:58:40,660 --> 00:58:40,660
+
+
+469
+00:58:41,500 --> 00:58:46,020
+Long cow Dave, don't you know what they're doing to yourself?
+
+470
+00:58:46,580 --> 00:58:48,580
+Choco de combo, good day ya.
+
+471
+00:58:49,380 --> 00:58:50,400
+No, no, no.
+
+472
+00:58:51,020 --> 00:59:01,600
+It was the night before Christmas and all through the house
+
+473
+00:59:01,600 --> 00:59:02,460
+Not a creed
+
+474
+00:59:02,580 --> 00:59:08,080
+horse klares
+
+475
+00:59:43,580 --> 00:59:45,840
+Merry Fucking Christmas!
+
+476
+00:59:47,280 --> 00:59:49,620
+Merry Fucking Christmas!
+
+477
+00:59:51,200 --> 00:59:53,620
+Merry Fucking Christmas!
+
+478
+00:59:55,680 --> 00:59:57,320
+Merry Fucking Christmas!
+
+479
+01:00:15,140 --> 01:00:16,540
+Musik
+
+480
+01:01:01,160 --> 01:01:02,560
+Musik
+
+481
+01:01:02,580 --> 01:01:04,300
+Musik
+
+482
+01:01:36,160 --> 01:01:36,580
+Musik
+

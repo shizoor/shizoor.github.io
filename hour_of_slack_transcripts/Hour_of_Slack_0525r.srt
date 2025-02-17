@@ -1,0 +1,988 @@
+1
+00:00:00,000 --> 00:00:05,380
+Người điều khiển chương trình Subgenius là ông Doug Smith. Phải lên xin lỗi.
+
+2
+00:00:06,060 --> 00:00:09,200
+Và hiện ngay đây chúng tôi có anh Doug Smith.
+
+3
+00:00:30,000 --> 00:00:33,780
+Các bạn có thể thấy một trường hợp thú vị của chúng tôi từ trường hợp của chúng tôi đến trường hợp của Subgenius,
+
+4
+00:00:34,060 --> 00:00:36,760
+và đó rất thường là trường hợp của các người sách sách sách.
+
+5
+00:00:36,760 --> 00:00:41,900
+Nhưng mà, một người giáo sách của Subgenius Việt Nam đã nghe nói
+
+6
+00:00:41,900 --> 00:00:45,500
+về việc đối xử với không chỉ World Peace bằng Bob Dobbs,
+
+7
+00:00:45,540 --> 00:00:49,400
+nhưng cũng về tình hình tình hình của tình hình với phòng thủ tế bản thân Việt Nam.
+
+8
+00:00:49,860 --> 00:00:54,020
+Và trước tất cả, nhiều người đã nghĩ vì bài báo của Slack
+
+9
+00:00:54,020 --> 00:00:57,140
+đã được bằng tiếng Việt, và nó là một phần của trường hợp của Asia,
+
+10
+00:00:58,040 --> 00:00:59,480
+và không phải vậy.
+
+11
+00:01:00,000 --> 00:01:01,460
+Họ không biết gì về nó.
+
+12
+00:01:02,140 --> 00:01:03,960
+Nó là một bài báo của tôi.
+
+13
+00:01:04,240 --> 00:01:08,160
+Tôi cũng muốn đề cập rằng người bạn của Subgenius Việt Nam, Hồ Nguyên,
+
+14
+00:01:08,400 --> 00:01:10,000
+chỉ là bài báo của tôi,
+
+15
+00:01:11,720 --> 00:01:13,480
+mà hắn đã hiểu là một bài báo tự nhiên.
+
+16
+00:01:13,900 --> 00:01:16,060
+Nhưng mà, cho những người Việt Nam,
+
+17
+00:01:16,560 --> 00:01:18,180
+người là người phá hủy từ tổ chức Cộng đồng,
+
+18
+00:01:18,640 --> 00:01:20,780
+tất nhiên, điều đó không vui.
+
+19
+00:01:21,600 --> 00:01:22,820
+Và thực sự, vì vậy,
+
+20
+00:01:24,120 --> 00:01:26,520
+tôi, bởi vì những bài báo của tôi trong lịch sử,
+
+21
+00:01:26,680 --> 00:01:28,180
+tôi đối xử với Cộng đồng,
+
+22
+00:01:28,420 --> 00:01:29,980
+và tôi sẽ đối xử với các người,
+
+23
+00:01:30,000 --> 00:01:32,260
+và tôi sẽ thích được Việt Nam như thế của Ý-tần-Nhật,
+
+24
+00:01:32,400 --> 00:01:34,740
+đánh bỏ những vùng đường của tổ chức Cộng đồng.
+
+25
+00:01:36,520 --> 00:01:39,320
+Tôi đối xử với tổ chức Cộng đồng,
+
+26
+00:01:39,480 --> 00:01:42,140
+và Hồ Nguyên không nên được giám đoán
+
+27
+00:01:42,140 --> 00:01:43,560
+vì những lời nói của tôi.
+
+28
+00:01:44,900 --> 00:01:46,680
+Chúng tôi ở thời gian của bài báo của Slack
+
+29
+00:01:47,440 --> 00:01:49,320
+đối xử với những người phá hủy từ tổ chức Cộng đồng
+
+30
+00:01:49,320 --> 00:01:49,940
+trong tất nhiên,
+
+31
+00:01:50,520 --> 00:01:52,060
+và tôi rất xin lỗi
+
+32
+00:01:52,060 --> 00:01:53,360
+vì có ai đó không hiểu
+
+33
+00:01:53,360 --> 00:01:56,440
+nguồn lý hoặc ý kiến của bài báo đó.
+
+34
+00:01:56,660 --> 00:01:59,420
+Tất nhiên, nó sẽ là một lý do tệ cho tôi trong tương lai,
+
+35
+00:01:59,420 --> 00:02:00,300
+để chơi bài báo
+
+36
+00:02:00,300 --> 00:02:02,680
+nói tiếng tiếng tiếng của tôi,
+
+37
+00:02:03,120 --> 00:02:03,340
+của những lý do mà tôi thích,
+
+38
+00:02:03,840 --> 00:02:05,240
+của những lý do mà tôi không hiểu.
+
+39
+00:02:05,380 --> 00:02:07,360
+Tôi không nên chơi bài báo
+
+40
+00:02:07,360 --> 00:02:09,560
+nói tiếng tiếng tiếng mà tôi không hiểu.
+
+41
+00:02:09,740 --> 00:02:11,680
+Tại sao tôi không biết gì?
+
+42
+00:02:11,920 --> 00:02:12,860
+Tôi là một người đồn.
+
+43
+00:02:13,100 --> 00:02:13,920
+Nhưng cũng vậy,
+
+44
+00:02:14,060 --> 00:02:15,340
+giáo dục của giáo dục này
+
+45
+00:02:15,340 --> 00:02:17,180
+đều là một người đồn.
+
+46
+00:02:36,620 --> 00:02:38,960
+Mọi người đều hissant thế này.
+
+47
+00:02:39,220 --> 00:02:40,880
+Vì vậy, một số người dạy tưởng
+
+48
+00:02:40,880 --> 00:02:41,860
+có thể 35 bận đấy.
+
+49
+00:02:41,860 --> 00:02:42,780
+Nhưng tôi th cells
+
+50
+00:02:42,780 --> 00:02:43,560
+không có rút bản đồng với thrillers.
+
+51
+00:02:43,560 --> 00:02:43,960
+Tất nhiên, trị huân psychology
+
+52
+00:02:43,960 --> 00:02:43,960
+
+
+53
+00:02:43,960 --> 00:02:43,960
+
+
+54
+00:02:43,960 --> 00:02:43,960
+
+
+55
+00:02:44,380 --> 00:02:45,840
+Trên mạng mà mình có thể
+
+56
+00:02:45,840 --> 00:02:56,820
+thả bọn mình về trại đó hàng tuần без선 trong gas này,
+
+57
+00:02:56,820 --> 00:02:57,280
+khi microphone loại bảy
+
+58
+00:02:57,280 --> 00:02:57,280
+
+
+59
+00:02:57,280 --> 00:02:57,280
+
+
+60
+00:02:57,280 --> 00:02:58,520
+Để theo dõi một chút
+
+61
+00:02:58,520 --> 00:02:58,840
+tại dịch vụ huyện
+
+62
+00:02:58,840 --> 00:02:59,400
+anh quý vị nghe đúng chút
+
+63
+00:02:59,400 --> 00:02:59,400
+
+
+64
+00:02:59,400 --> 00:02:59,400
+
+
+65
+00:03:03,800 --> 00:03:06,120
+Ok, bây giờ chúng ta đánh giá tiền này.
+
+66
+00:03:06,900 --> 00:03:08,060
+Chà, chuyện này đang kết thúc không?
+
+67
+00:03:11,020 --> 00:03:13,700
+Chúng ta sẽ biết, cho Anna và Anna.
+
+68
+00:03:14,000 --> 00:03:16,560
+Chúng ta sẽ biết, cho full score 8 nil Loretta, cho 12...
+
+69
+00:03:16,560 --> 00:03:18,520
+Không, không cần phải, thưa bạn.
+
+70
+00:03:19,100 --> 00:03:21,820
+Tôi muốn hỏi các bạn, nhưng nhiều người Mỹ
+
+71
+00:03:21,820 --> 00:03:24,940
+thực sự thích phù hợp với tình hình với Việt Nam
+
+72
+00:03:24,940 --> 00:03:26,880
+chỉ vì họ nghĩ
+
+73
+00:03:26,880 --> 00:03:29,080
+rằng sự phù hợp với tình hình với quốc tế
+
+74
+00:03:29,080 --> 00:03:31,940
+sẽ giúp đỡ sự phù hợp của tình hình với quốc tế
+
+75
+00:03:31,940 --> 00:03:33,720
+như nó có trong Europe Tây.
+
+76
+00:03:33,760 --> 00:03:35,860
+Nhưng, chúng ta biết gì?
+
+77
+00:03:36,400 --> 00:03:39,140
+Đây là vấn đề về ý nghĩa, không phải thật.
+
+78
+00:03:39,220 --> 00:03:41,300
+Và thật sự, tôi thích rằng
+
+79
+00:03:41,300 --> 00:03:43,000
+ai cũng có thể đánh giá gì
+
+80
+00:03:43,000 --> 00:03:44,600
+trong lúc của Slak Show
+
+81
+00:03:44,600 --> 00:03:45,820
+không có một chút sữa,
+
+82
+00:03:45,860 --> 00:03:48,480
+hoặc một chút sữa,
+
+83
+00:03:48,520 --> 00:03:48,820
+cho vấn đề đó.
+
+84
+00:03:49,980 --> 00:03:50,780
+Cảm ơn các bạn.
+
+85
+00:03:50,920 --> 00:03:51,520
+Cảm ơn các bạn.
+
+86
+00:03:52,360 --> 00:03:54,900
+Cảm ơn các bạn.
+
+87
+00:04:26,720 --> 00:04:26,840
+Cảm ơn các bạn.
+
+88
+00:04:45,660 --> 00:04:51,940
+Cảm ơn các bạn.
+
+89
+00:04:57,080 --> 00:04:57,560
+Cảm ơn các bạn.
+
+90
+00:04:57,560 --> 00:04:57,560
+
+
+91
+00:04:57,560 --> 00:04:58,100
+Tôi không thể tưởng tượng ai
+
+92
+00:04:58,100 --> 00:05:00,480
+nghĩ anh là một người
+
+93
+00:05:00,480 --> 00:05:00,880
+thật thật,
+
+94
+00:05:00,900 --> 00:05:02,140
+đặc biệt,
+
+95
+00:05:02,320 --> 00:05:03,780
+một người đối xử với tất cả.
+
+96
+00:05:04,080 --> 00:05:06,060
+Các bạn không có một tính tính rất lớn.
+
+97
+00:05:06,200 --> 00:05:08,400
+Đó là tất cả tôi đã muốn là.
+
+98
+00:05:08,680 --> 00:05:10,920
+Tôi chỉ muốn người ta
+
+99
+00:05:10,920 --> 00:05:11,940
+nghĩ tôi là thật thật.
+
+100
+00:05:12,220 --> 00:05:14,080
+Tôi chỉ muốn phù hợp với tất cả.
+
+101
+00:05:15,120 --> 00:05:16,860
+Nhưng anh là thật thật, Duane.
+
+102
+00:05:17,420 --> 00:05:18,620
+Anh là thật.
+
+103
+00:05:19,100 --> 00:05:20,580
+Anh là thật thật như tôi.
+
+104
+00:05:22,380 --> 00:05:23,520
+Nhưng nó không thể
+
+105
+00:05:23,520 --> 00:05:24,480
+như thế này.
+
+106
+00:05:24,740 --> 00:05:26,740
+Tôi nghĩ, anh đang nói,
+
+107
+00:05:26,880 --> 00:05:27,540
+tôi là thật thật,
+
+108
+00:05:27,540 --> 00:05:29,080
+vì tôi nhìn thật thật, đúng không?
+
+109
+00:05:29,980 --> 00:05:31,480
+Tôi nhìn như mọi người.
+
+110
+00:05:31,740 --> 00:05:33,280
+Tôi nhìn như mọi người khác.
+
+111
+00:05:33,460 --> 00:05:34,880
+Giữ lời nói đúng, Duane.
+
+112
+00:05:35,860 --> 00:05:37,040
+Nhưng trong nhà thủy,
+
+113
+00:05:37,220 --> 00:05:38,420
+những thứ sẽ khác.
+
+114
+00:05:38,880 --> 00:05:39,820
+Trong nhà thủy,
+
+115
+00:05:40,380 --> 00:05:41,680
+anh và tôi sẽ là những người
+
+116
+00:05:41,680 --> 00:05:42,080
+không có chỗ.
+
+117
+00:05:42,520 --> 00:05:43,000
+Đúng không?
+
+118
+00:05:43,840 --> 00:05:44,280
+Đúng không?
+
+119
+00:05:44,460 --> 00:05:46,960
+Tôi nói về thế giới thật, Lang.
+
+120
+00:05:47,560 --> 00:05:48,900
+Anh không muốn là thật thật
+
+121
+00:05:48,900 --> 00:05:49,840
+trong thế giới thật?
+
+122
+00:05:50,540 --> 00:05:52,060
+Không nếu nó không có nghĩa.
+
+123
+00:05:53,260 --> 00:05:54,360
+Tôi nghĩ, ở đây,
+
+124
+00:05:54,920 --> 00:05:56,540
+anh và tôi là thật thật
+
+125
+00:05:56,540 --> 00:05:56,860
+thật thật?
+
+126
+00:05:56,880 --> 00:05:57,060
+Ở đây,
+
+127
+00:05:57,480 --> 00:05:59,220
+chúng ta có vẻ như chúng ta có thể thích vào không?
+
+128
+00:05:59,920 --> 00:06:00,700
+Chắc chắn là có.
+
+129
+00:06:00,980 --> 00:06:01,640
+Chắc chắn.
+
+130
+00:06:02,060 --> 00:06:02,860
+Và có lẽ không.
+
+131
+00:06:03,740 --> 00:06:04,420
+Hãy đánh giá.
+
+132
+00:06:04,800 --> 00:06:05,600
+Duane, ngồi xuống.
+
+133
+00:06:05,840 --> 00:06:06,640
+Đừng là một thằng khốn nạn.
+
+134
+00:06:06,640 --> 00:06:07,340
+Có ai có thể...
+
+135
+00:06:08,540 --> 00:06:10,240
+Hãy đánh giá, thưa bạn.
+
+136
+00:06:10,700 --> 00:06:12,700
+Ờ, tại sao không?
+
+137
+00:06:13,160 --> 00:06:14,300
+Hãy tìm ra
+
+138
+00:06:14,300 --> 00:06:15,880
+ai là thật thật ở đây
+
+139
+00:06:15,880 --> 00:06:16,500
+và ai không.
+
+140
+00:06:16,640 --> 00:06:17,300
+Ha ha.
+
+141
+00:06:23,600 --> 00:06:25,480
+Hãy đánh giá, thưa bạn.
+
+142
+00:06:25,480 --> 00:06:25,540
+Hãy đánh giá, thưa bạn.
+
+143
+00:06:26,320 --> 00:06:26,860
+Hãy đánh giá, thưa bạn.
+
+144
+00:06:36,280 --> 00:06:40,800
+Cũng chắc thật, hẹn gặp lại.
+
+145
+00:06:57,000 --> 00:07:02,460
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+146
+00:07:30,780 --> 00:07:36,780
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+147
+00:07:59,020 --> 00:08:00,760
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+148
+00:08:26,880 --> 00:08:33,000
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+149
+00:08:59,600 --> 00:09:09,820
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+150
+00:09:27,040 --> 00:09:32,640
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+151
+00:09:56,880 --> 00:10:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+152
+00:10:26,880 --> 00:10:35,620
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+153
+00:11:00,440 --> 00:11:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+154
+00:11:30,660 --> 00:11:55,020
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+155
+00:12:01,120 --> 00:12:23,760
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+156
+00:12:27,100 --> 00:12:55,540
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+157
+00:12:57,720 --> 00:13:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+158
+00:13:34,640 --> 00:13:56,300
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+159
+00:13:58,200 --> 00:13:59,160
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+160
+00:14:26,940 --> 00:14:55,840
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+161
+00:15:05,020 --> 00:15:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+162
+00:15:30,020 --> 00:15:43,480
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+163
+00:15:57,620 --> 00:16:26,160
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+164
+00:16:27,620 --> 00:16:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+165
+00:16:56,880 --> 00:17:08,340
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+166
+00:17:32,940 --> 00:17:55,040
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+167
+00:17:57,620 --> 00:18:26,760
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+168
+00:18:26,880 --> 00:18:56,100
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+169
+00:18:58,460 --> 00:19:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+170
+00:19:39,660 --> 00:19:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+171
+00:19:59,440 --> 00:20:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+172
+00:20:26,880 --> 00:20:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+173
+00:20:56,880 --> 00:21:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+174
+00:21:30,880 --> 00:21:55,920
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+175
+00:22:02,160 --> 00:22:20,460
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+176
+00:22:27,040 --> 00:22:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+177
+00:22:56,880 --> 00:23:26,640
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+178
+00:23:31,940 --> 00:23:56,760
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+179
+00:23:56,880 --> 00:24:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+180
+00:24:33,840 --> 00:24:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+181
+00:25:04,480 --> 00:25:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+182
+00:25:26,880 --> 00:25:30,760
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+183
+00:26:02,280 --> 00:26:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+184
+00:26:30,200 --> 00:26:54,480
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+185
+00:27:05,160 --> 00:27:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+186
+00:27:28,500 --> 00:27:39,420
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+187
+00:27:56,880 --> 00:28:01,680
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+188
+00:28:33,460 --> 00:28:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+189
+00:29:04,920 --> 00:29:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+190
+00:29:31,940 --> 00:29:56,840
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+191
+00:30:02,760 --> 00:30:26,420
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+192
+00:30:31,200 --> 00:30:43,280
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+193
+00:30:58,940 --> 00:31:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+194
+00:31:37,600 --> 00:31:39,000
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+195
+00:32:02,540 --> 00:32:26,460
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+196
+00:32:32,840 --> 00:32:55,740
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+197
+00:33:05,460 --> 00:33:26,200
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+198
+00:33:37,220 --> 00:33:45,300
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+199
+00:33:59,780 --> 00:34:01,300
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+200
+00:34:42,360 --> 00:34:56,000
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+201
+00:34:58,900 --> 00:35:11,780
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+202
+00:35:31,780 --> 00:35:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+203
+00:36:02,580 --> 00:36:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+204
+00:36:26,880 --> 00:36:55,780
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+205
+00:36:58,200 --> 00:37:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+206
+00:37:32,620 --> 00:37:56,120
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+207
+00:38:02,660 --> 00:38:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+208
+00:38:33,660 --> 00:38:53,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+209
+00:38:56,880 --> 00:39:00,920
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+210
+00:39:30,540 --> 00:39:37,540
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+211
+00:39:59,320 --> 00:40:06,280
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+212
+00:40:26,880 --> 00:40:27,540
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+213
+00:40:56,940 --> 00:40:58,140
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+214
+00:41:37,300 --> 00:41:56,280
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+215
+00:41:56,880 --> 00:42:26,140
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+216
+00:42:33,060 --> 00:42:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+217
+00:43:00,120 --> 00:43:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+218
+00:43:30,560 --> 00:43:56,480
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+219
+00:44:09,780 --> 00:44:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+220
+00:44:26,880 --> 00:44:55,240
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+221
+00:44:59,440 --> 00:45:08,900
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+222
+00:45:38,880 --> 00:45:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+223
+00:45:59,980 --> 00:46:11,380
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+224
+00:46:30,840 --> 00:46:54,980
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+225
+00:47:02,540 --> 00:47:14,060
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+226
+00:47:33,880 --> 00:47:53,100
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+227
+00:47:56,880 --> 00:48:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+228
+00:48:32,700 --> 00:48:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+229
+00:49:03,000 --> 00:49:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+230
+00:49:30,460 --> 00:49:56,780
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+231
+00:49:59,620 --> 00:50:26,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+232
+00:50:29,400 --> 00:50:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+233
+00:50:56,880 --> 00:51:26,720
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+234
+00:51:29,700 --> 00:51:37,380
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+235
+00:52:04,780 --> 00:52:26,640
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+236
+00:52:26,880 --> 00:52:56,580
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+237
+00:53:04,380 --> 00:53:26,640
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+238
+00:53:26,880 --> 00:53:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+239
+00:53:59,040 --> 00:54:26,140
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+240
+00:54:27,080 --> 00:54:27,700
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+241
+00:54:58,200 --> 00:55:02,360
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+242
+00:55:31,160 --> 00:55:38,480
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+243
+00:55:58,440 --> 00:56:09,220
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+244
+00:56:26,880 --> 00:56:28,700
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+245
+00:56:56,880 --> 00:57:02,720
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+246
+00:57:26,940 --> 00:57:56,860
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+
+247
+00:57:56,880 --> 00:58:05,180
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+

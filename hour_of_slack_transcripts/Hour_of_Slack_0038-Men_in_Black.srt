@@ -1,0 +1,4712 @@
+1
+00:00:04,660 --> 00:00:09,220
+Why am I not getting any cassette sound?
+
+2
+00:00:10,580 --> 00:00:13,060
+Cassette 1, cassette 2.
+
+3
+00:00:14,780 --> 00:00:17,740
+Alright, thanks very much, Ray.
+
+4
+00:00:21,580 --> 00:00:24,620
+Yes, we're entering a little difficulty with this line.
+
+5
+00:00:25,540 --> 00:00:27,980
+One of the guests here makes a distinction.
+
+6
+00:00:28,320 --> 00:00:32,300
+I think he's being a little facetious, but I'm not bothered.
+
+7
+00:00:32,720 --> 00:00:35,140
+I think he's just trying to make it.
+
+8
+00:00:36,360 --> 00:00:39,420
+Most possibly, I'm really mean to him.
+
+9
+00:00:39,660 --> 00:00:41,440
+I feel quite fashionable.
+
+10
+00:00:42,040 --> 00:00:43,820
+You honestly believe that?
+
+11
+00:00:43,840 --> 00:00:45,260
+Oh, you're Bob Lips?
+
+12
+00:00:45,260 --> 00:00:47,300
+Bob Lips?
+
+13
+00:00:47,300 --> 00:00:48,260
+Bob Lips?
+
+14
+00:00:48,360 --> 00:00:50,420
+Bob Lips?
+
+15
+00:00:50,720 --> 00:00:52,820
+Hello, my friend. How are you?
+
+16
+00:00:53,320 --> 00:00:58,260
+I am sending you this tape that you will play over the air to the millions of fans who will listen to me.
+
+17
+00:00:59,200 --> 00:01:03,100
+Ah, Hour of Slack, one of the greatest shows in the world.
+
+18
+00:01:04,080 --> 00:01:08,180
+And I have a new guest, a new person, who is here with me.
+
+19
+00:01:09,820 --> 00:01:14,160
+Yes, Mr. Pee-Pee will like to introduce his son, Baby Pee-Wee.
+
+20
+00:01:15,320 --> 00:01:17,020
+Hello, this is Baby Pee-Wee.
+
+21
+00:01:17,300 --> 00:01:18,620
+Are you nice today?
+
+22
+00:01:19,080 --> 00:01:21,180
+I'm very nice. I've always been very nice.
+
+23
+00:01:21,380 --> 00:01:24,020
+And how big are you, Mr. Pee-Pee Jr.?
+
+24
+00:01:24,020 --> 00:01:26,100
+I'm twice as big as my daddy.
+
+25
+00:01:27,840 --> 00:01:30,000
+Son, what did I tell you about bragging?
+
+26
+00:01:30,340 --> 00:01:32,720
+I told you that this is the Hour of Slack program.
+
+27
+00:01:32,900 --> 00:01:33,820
+You should not brag.
+
+28
+00:01:34,060 --> 00:01:42,060
+But if you do, be honest and tell us how big is it really the listening audience of Hour of Slack would really like to know?
+
+29
+00:01:43,060 --> 00:01:45,840
+I'm always twice as big as you have ever said.
+
+30
+00:01:46,560 --> 00:01:48,460
+Ah, like father like son.
+
+31
+00:01:48,680 --> 00:01:50,820
+Oh, the momentum.
+
+32
+00:01:51,080 --> 00:01:58,900
+Oh, well, I just want to say hello and thank you, Hour of Slack and Ivan Stang for playing this tape.
+
+33
+00:01:59,040 --> 00:02:03,960
+And if I could do anything for anybody, ooh, just come over anytime.
+
+34
+00:02:04,420 --> 00:02:05,220
+Bye-bye.
+
+35
+00:02:06,860 --> 00:02:07,520
+Bye-bye.
+
+36
+00:02:07,920 --> 00:02:08,740
+Bob loves you.
+
+37
+00:02:08,760 --> 00:02:11,020
+Bob loves you.
+
+38
+00:02:11,140 --> 00:02:13,840
+Bob loves you.
+
+39
+00:02:13,840 --> 00:02:14,940
+Bob loves you.
+
+40
+00:02:16,880 --> 00:02:22,000
+Anyway, I think you're broadcasting from Berkeley, California into the Bay Area.
+
+41
+00:02:23,400 --> 00:02:25,520
+And he's in Dallas, you know.
+
+42
+00:02:27,360 --> 00:02:31,680
+And there's people in Dallas who don't know the difference between James Joyce and Joyce Brothers.
+
+43
+00:02:31,900 --> 00:02:35,140
+So that's why you have to lecture them.
+
+44
+00:02:35,340 --> 00:02:38,580
+And besides, I think you should sometimes lecture your audiences.
+
+45
+00:02:38,580 --> 00:02:40,620
+You are a doctor after all.
+
+46
+00:02:40,680 --> 00:02:42,400
+You're up there in front of them all.
+
+47
+00:02:45,200 --> 00:02:46,980
+You have the controls.
+
+48
+00:02:47,620 --> 00:02:49,160
+You have the microphones.
+
+49
+00:02:49,480 --> 00:02:52,260
+All they can do is either listen or not listen.
+
+50
+00:02:52,420 --> 00:02:54,040
+You put them in a binary state.
+
+51
+00:02:54,420 --> 00:02:56,420
+A passive binary state.
+
+52
+00:02:56,740 --> 00:03:01,120
+They can either listen to what you have to say or not listen to what you have to say.
+
+53
+00:03:01,220 --> 00:03:03,160
+They can turn you on or turn you off.
+
+54
+00:03:03,680 --> 00:03:08,100
+And perhaps until the moment they tune you in, you're nothing but a wave front probability.
+
+55
+00:03:08,380 --> 00:03:10,040
+You don't really exist for them.
+
+56
+00:03:10,860 --> 00:03:13,600
+But there's nothing wrong with that.
+
+57
+00:03:13,660 --> 00:03:13,820
+And I think that's the way it is.
+
+58
+00:03:13,820 --> 00:03:13,820
+
+
+59
+00:03:13,820 --> 00:03:13,820
+
+
+60
+00:03:13,820 --> 00:03:13,820
+
+
+61
+00:03:13,820 --> 00:03:15,120
+Just stompin' a few butts.
+
+62
+00:03:16,020 --> 00:03:26,400
+I've always believed that one of our most important functions in this church has been to administer a good kick in the ass.
+
+63
+00:03:27,540 --> 00:03:32,500
+Maybe if you kick them hard enough in the ass, it pops their eyes open.
+
+64
+00:03:33,440 --> 00:03:37,240
+And a jolt of surprise opens up their lobes.
+
+65
+00:03:37,400 --> 00:03:41,020
+They see something and registers, you know.
+
+66
+00:03:41,020 --> 00:03:43,400
+The devil owes you money, friend.
+
+67
+00:03:43,660 --> 00:03:47,640
+But Bob Dobbs is the bank where you can cash it in.
+
+68
+00:03:47,740 --> 00:03:50,340
+We gotta burn out the banks of the devil.
+
+69
+00:03:50,420 --> 00:03:51,620
+We gotta root him out.
+
+70
+00:03:51,740 --> 00:03:52,920
+Burn out the hate.
+
+71
+00:03:53,080 --> 00:03:54,280
+Burn out the radiation.
+
+72
+00:03:54,620 --> 00:03:55,800
+Burn out the fire.
+
+73
+00:03:56,220 --> 00:03:57,860
+These words may be harsh.
+
+74
+00:03:58,000 --> 00:04:05,180
+They may not go down well on the polished ears of the rationalists, the modernists, those who wish to see proof of Bob.
+
+75
+00:04:05,340 --> 00:04:06,720
+But I don't care what they say.
+
+76
+00:04:06,940 --> 00:04:08,000
+I'll keep preaching.
+
+77
+00:04:08,200 --> 00:04:10,560
+If you go down, pull them with you.
+
+78
+00:04:11,020 --> 00:04:12,180
+Please, Bob, help me.
+
+79
+00:04:12,200 --> 00:04:13,940
+Somebody let there be slack.
+
+80
+00:04:15,020 --> 00:04:16,420
+Welcome potential initiates.
+
+81
+00:04:17,020 --> 00:04:19,500
+And remain with us for the next 30 minutes.
+
+82
+00:04:25,060 --> 00:04:29,340
+Welcome to the subgenius radio ministry.
+
+83
+00:04:29,900 --> 00:04:32,040
+Hour of Slack.
+
+84
+00:04:32,860 --> 00:04:36,940
+Sponsored by the Church of the Subgenius.
+
+85
+00:04:52,720 --> 00:04:59,400
+Welcome dear friends to the subgenius hour of Slack.
+
+86
+00:04:59,740 --> 00:05:00,080
+Slark.
+
+87
+00:05:00,360 --> 00:05:00,980
+Slark.
+
+88
+00:05:01,000 --> 00:05:01,020
+Slark.
+
+89
+00:05:01,900 --> 00:05:03,100
+Slark.
+
+90
+00:05:03,780 --> 00:05:03,780
+
+
+91
+00:05:05,180 --> 00:05:06,380
+Slark.
+
+92
+00:05:06,480 --> 00:05:06,760
+Slark.
+
+93
+00:05:16,960 --> 00:05:17,840
+Slark.
+
+94
+00:05:22,120 --> 00:05:23,000
+Slark.
+
+95
+00:05:23,160 --> 00:05:23,520
+Slark.
+
+96
+00:05:23,520 --> 00:05:23,520
+
+
+97
+00:05:23,520 --> 00:05:23,700
+Stardust.
+
+98
+00:05:23,700 --> 00:05:27,100
+Today aColl senhor.
+
+99
+00:05:27,100 --> 00:05:27,100
+
+
+100
+00:05:27,100 --> 00:05:27,100
+
+
+101
+00:05:28,760 --> 00:05:29,080
+Welcome.
+
+102
+00:05:30,300 --> 00:05:30,300
+
+
+103
+00:05:30,300 --> 00:05:30,340
+Listen all, come all.
+
+104
+00:05:36,800 --> 00:05:44,060
+And as we watched, my friend very suddenly and violently vomited.
+
+105
+00:05:48,240 --> 00:05:49,480
+Who's going to listen to that?
+
+106
+00:05:49,620 --> 00:05:51,200
+And when they do, how are they going to feel?
+
+107
+00:05:51,500 --> 00:05:54,020
+Well, I don't have to think about that.
+
+108
+00:05:54,080 --> 00:05:54,420
+You do.
+
+109
+00:05:56,480 --> 00:05:57,400
+Whoever you are.
+
+110
+00:06:00,340 --> 00:06:04,100
+Wish you were a genius but feel like only a sub-genius.
+
+111
+00:06:04,560 --> 00:06:07,800
+Have a kisser Darth Vader's mom would expunge.
+
+112
+00:06:08,480 --> 00:06:11,560
+Tired of gorge-clogging crypto-wimpism?
+
+113
+00:06:12,040 --> 00:06:13,460
+I have a solution.
+
+114
+00:06:14,160 --> 00:06:18,180
+Stay tuned in the weeks to come for exciting lectures such as
+
+115
+00:06:18,180 --> 00:06:20,040
+Drink Your Way to Happiness
+
+116
+00:06:20,040 --> 00:06:23,460
+and a special tour of the Roy Rogers Museum
+
+117
+00:06:23,460 --> 00:06:27,020
+where Bob will prove the trigger has moved again.
+
+118
+00:06:27,780 --> 00:06:30,320
+All this and more on your favorite soundtracks.
+
+119
+00:06:30,340 --> 00:06:31,900
+Soundtrack for a crumbling society.
+
+120
+00:06:32,520 --> 00:06:33,980
+Food Fights of the Gods.
+
+121
+00:06:34,440 --> 00:06:36,440
+All great things are happening.
+
+122
+00:06:36,520 --> 00:06:38,300
+God is showing people things.
+
+123
+00:06:38,420 --> 00:06:40,120
+Many of you are hearing verses.
+
+124
+00:06:40,380 --> 00:06:41,020
+You're tormented.
+
+125
+00:06:41,160 --> 00:06:42,520
+Your mind is tormented.
+
+126
+00:06:42,620 --> 00:06:43,180
+You're famine.
+
+127
+00:06:43,360 --> 00:06:44,960
+Some of you husbands and wives.
+
+128
+00:06:45,140 --> 00:06:47,700
+You mumble, grumble, complain, frostbite.
+
+129
+00:06:47,780 --> 00:06:52,160
+Few demon powers has tried to destroy your marriage, your home.
+
+130
+00:06:52,620 --> 00:06:53,920
+So you need to come.
+
+131
+00:06:54,020 --> 00:06:57,080
+If you can't man, you ought to get these tapes in hell
+
+132
+00:06:57,080 --> 00:07:00,220
+on Demonology Tape 1, 2, 3, 4, 5.
+
+133
+00:07:00,340 --> 00:07:03,480
+6 and on right on up till we get through.
+
+134
+00:07:03,660 --> 00:07:05,600
+And we'll be offering the tape on
+
+135
+00:07:05,600 --> 00:07:07,820
+Can a Christian Be Demon Possessed?
+
+136
+00:07:07,820 --> 00:07:09,080
+at the end of the program.
+
+137
+00:07:09,320 --> 00:07:12,240
+But we're going to take you into that service right now.
+
+138
+00:07:12,400 --> 00:07:15,180
+We're going to take you into that service in progress
+
+139
+00:07:15,180 --> 00:07:18,040
+where we are sharing on the subject
+
+140
+00:07:18,040 --> 00:07:21,300
+Can a Christian Be Demon Possessed?
+
+141
+00:07:23,140 --> 00:07:27,580
+Friends, the conspiracy altogether has something like
+
+142
+00:07:27,580 --> 00:07:30,320
+50 or 60,000 nuclear weapons.
+
+143
+00:07:30,340 --> 00:07:32,060
+How many does the church have?
+
+144
+00:07:32,300 --> 00:07:33,160
+Only three.
+
+145
+00:07:33,420 --> 00:07:35,900
+But yet we dare to fight the...
+
+146
+00:07:36,720 --> 00:07:37,980
+We're going to do it.
+
+147
+00:07:37,980 --> 00:07:39,400
+We're going to fight them.
+
+148
+00:07:39,440 --> 00:07:41,280
+We don't care how many we have.
+
+149
+00:07:42,280 --> 00:07:45,780
+Because, friends, it's always the crazy people.
+
+150
+00:07:45,960 --> 00:07:49,000
+It's always the eccentrics, the outsiders
+
+151
+00:07:49,000 --> 00:07:51,660
+that are dumb enough to take on the conspiracy.
+
+152
+00:07:52,880 --> 00:07:54,160
+Oh, yes, friends.
+
+153
+00:07:54,660 --> 00:07:57,120
+Another rule of the Church of the Subgenius.
+
+154
+00:07:57,340 --> 00:07:59,140
+Don't just eat that hamburger.
+
+155
+00:07:59,440 --> 00:08:00,320
+Eat the hamburger.
+
+156
+00:08:00,340 --> 00:08:01,380
+The hell out of it.
+
+157
+00:08:02,780 --> 00:08:05,380
+Friends, do you know how to have a good time?
+
+158
+00:08:05,460 --> 00:08:06,100
+Say yes.
+
+159
+00:08:06,220 --> 00:08:06,560
+Yes!
+
+160
+00:08:06,980 --> 00:08:08,740
+Do you know how to have a good time?
+
+161
+00:08:08,920 --> 00:08:09,300
+Yes!
+
+162
+00:08:09,840 --> 00:08:12,560
+Do you need Bob to have a good time?
+
+163
+00:08:12,780 --> 00:08:13,060
+Yes!
+
+164
+00:08:13,380 --> 00:08:14,480
+No! No!
+
+165
+00:08:14,500 --> 00:08:16,340
+Bob once said, no, we're right.
+
+166
+00:08:16,560 --> 00:08:19,040
+You don't have to have Bob to have a good time.
+
+167
+00:08:19,360 --> 00:08:21,320
+That's how you know whether you're a subgenius.
+
+168
+00:08:21,560 --> 00:08:22,680
+If you...
+
+169
+00:08:22,680 --> 00:08:24,000
+Do you need Bob?
+
+170
+00:08:24,320 --> 00:08:24,760
+No!
+
+171
+00:08:25,220 --> 00:08:28,420
+Then you have Bob in your life, my friend.
+
+172
+00:08:29,220 --> 00:08:30,180
+Bob has...
+
+173
+00:08:30,180 --> 00:08:31,460
+Bob has already entered your life.
+
+174
+00:08:32,320 --> 00:08:34,520
+We can't fight him, but they can't win.
+
+175
+00:08:34,880 --> 00:08:36,080
+And it's...
+
+176
+00:08:36,080 --> 00:08:37,040
+It's his life.
+
+177
+00:08:37,120 --> 00:08:40,080
+This is the sorrow of world religion.
+
+178
+00:08:40,840 --> 00:08:42,640
+Bob is out there...
+
+179
+00:08:42,640 --> 00:08:44,500
+It's the Robin Hood of religion.
+
+180
+00:08:44,860 --> 00:08:47,480
+Bob's out there scratching a bloody bee
+
+181
+00:08:47,480 --> 00:08:50,520
+on the beefy seat of that monstrous conspiracy.
+
+182
+00:08:51,760 --> 00:08:52,920
+No offense.
+
+183
+00:08:53,520 --> 00:08:55,000
+Not that much.
+
+184
+00:09:05,680 --> 00:09:08,100
+Bob's out there scratching a bloody bee on the beefy seat of that monstrous conspiracy.
+
+185
+00:09:08,100 --> 00:09:08,140
+Bob's out there scratching a bloody bee on the beefy seat of that monstrous conspiracy.
+
+186
+00:09:08,140 --> 00:09:12,340
+Hi, girls.
+
+187
+00:09:13,860 --> 00:09:19,300
+Welcome, everybody, to the Hour of Slack radio ministry on KNON 90.9 radio.
+
+188
+00:09:19,880 --> 00:09:21,440
+I'm Pastor Bob Pegg.
+
+189
+00:09:21,520 --> 00:09:25,280
+This is Ivan Stang running the tapes tonight and Dr. Chaos.
+
+190
+00:09:25,660 --> 00:09:26,220
+Yeah!
+
+191
+00:09:28,480 --> 00:09:29,040
+Yeah!
+
+192
+00:09:29,040 --> 00:09:30,080
+Yeah, we're going to tell you a lot about...
+
+193
+00:09:30,180 --> 00:09:31,180
+The Men in Black tonight.
+
+194
+00:09:31,260 --> 00:09:32,720
+This is our Men in Black show.
+
+195
+00:09:33,080 --> 00:09:35,460
+We have come to make you function.
+
+196
+00:09:36,640 --> 00:09:37,920
+What does it say in my guy's head?
+
+197
+00:09:38,440 --> 00:09:39,020
+Hold on.
+
+198
+00:09:39,160 --> 00:09:41,780
+We have come to make you function.
+
+199
+00:09:43,480 --> 00:09:44,820
+We're not here to destroy.
+
+200
+00:09:45,900 --> 00:09:47,780
+We are here to employ.
+
+201
+00:09:48,260 --> 00:09:50,300
+We have come to make you function.
+
+202
+00:09:51,240 --> 00:09:53,520
+So we can eat you at our functions.
+
+203
+00:09:55,980 --> 00:09:58,480
+Well, we're going to talk about the Men in Black tonight.
+
+204
+00:09:58,700 --> 00:10:00,160
+Because UFO aliens...
+
+205
+00:10:00,180 --> 00:10:01,700
+They're already living among us, friend.
+
+206
+00:10:01,760 --> 00:10:02,200
+That's right.
+
+207
+00:10:02,280 --> 00:10:05,220
+Evil aliens in the form of subversive Men in Black
+
+208
+00:10:05,220 --> 00:10:07,340
+are infiltrating Earth secretly,
+
+209
+00:10:07,600 --> 00:10:09,480
+preparing for a takeover of our planet,
+
+210
+00:10:09,660 --> 00:10:10,560
+say the experts.
+
+211
+00:10:12,080 --> 00:10:14,840
+Electronics expert Oscar Magosky reveals
+
+212
+00:10:14,840 --> 00:10:17,620
+that he's traveled through galaxies following their evil plans
+
+213
+00:10:17,620 --> 00:10:20,760
+ever since he was contacted by friendly aliens ten years ago
+
+214
+00:10:20,760 --> 00:10:23,420
+and told of the planned takeover.
+
+215
+00:10:23,640 --> 00:10:25,360
+I'm being starved.
+
+216
+00:10:26,040 --> 00:10:27,880
+We cannot identify...
+
+217
+00:10:27,880 --> 00:10:28,940
+Take you...
+
+218
+00:10:28,940 --> 00:10:30,280
+The Men in Black.
+
+219
+00:10:30,500 --> 00:10:31,880
+They are humanoid in appearance.
+
+220
+00:10:33,840 --> 00:10:35,520
+We know them by their actions.
+
+221
+00:10:36,120 --> 00:10:38,440
+They penetrate every level of life.
+
+222
+00:10:39,480 --> 00:10:42,040
+The Men in Black wear dark business suits
+
+223
+00:10:42,040 --> 00:10:43,900
+and do the dirty work such as terrorism.
+
+224
+00:10:44,840 --> 00:10:46,060
+They drive big black cars.
+
+225
+00:10:48,060 --> 00:10:49,780
+The classic bad guy image.
+
+226
+00:10:50,200 --> 00:10:51,440
+The Illuminati, however,
+
+227
+00:10:52,260 --> 00:10:55,080
+manipulate politicians and financiers.
+
+228
+00:10:56,100 --> 00:10:56,540
+You know, friends?
+
+229
+00:10:58,940 --> 00:10:59,740
+Behind every...
+
+230
+00:11:01,160 --> 00:11:01,640
+Senator...
+
+231
+00:11:02,520 --> 00:11:03,000
+Every...
+
+232
+00:11:04,940 --> 00:11:05,420
+Banker...
+
+233
+00:11:05,980 --> 00:11:07,280
+Every big deal...
+
+234
+00:11:07,280 --> 00:11:09,040
+These evil creatures are back there,
+
+235
+00:11:09,540 --> 00:11:10,960
+whispering their commands.
+
+236
+00:11:11,440 --> 00:11:12,720
+And they all work together.
+
+237
+00:11:14,580 --> 00:11:16,920
+We'd like to hear about what you know
+
+238
+00:11:17,480 --> 00:11:18,740
+about the Men in Black.
+
+239
+00:11:19,760 --> 00:11:21,060
+I'll be talking to you on the phone.
+
+240
+00:11:21,100 --> 00:11:23,100
+And if you know anything at all about the Men in Black,
+
+241
+00:11:23,340 --> 00:11:24,560
+we'd be happy to talk to you.
+
+242
+00:11:24,740 --> 00:11:25,900
+Our number tonight...
+
+243
+00:11:25,900 --> 00:11:27,620
+Only use this number tonight, please.
+
+244
+00:11:30,020 --> 00:11:30,520
+828...
+
+245
+00:11:34,540 --> 00:11:36,400
+Sorry, it's 828...
+
+246
+00:11:38,080 --> 00:11:39,280
+9500, thank you.
+
+247
+00:11:39,300 --> 00:11:40,620
+828-9500.
+
+248
+00:11:40,700 --> 00:11:42,020
+Just call us back there.
+
+249
+00:12:09,400 --> 00:12:10,520
+Okay.
+
+250
+00:12:10,520 --> 00:12:12,060
+All right, people,
+
+251
+00:12:12,080 --> 00:12:13,320
+but listen to this.
+
+252
+00:12:13,320 --> 00:12:13,320
+
+
+253
+00:12:13,820 --> 00:12:15,800
+This is a beautifulじゃgnon on the record of this play.
+
+254
+00:12:15,800 --> 00:12:15,800
+
+
+255
+00:12:15,800 --> 00:12:16,780
+You'll then find Mary gumbo will join us somebody,
+
+256
+00:12:16,780 --> 00:12:16,780
+
+
+257
+00:12:16,780 --> 00:12:16,780
+
+
+258
+00:12:16,780 --> 00:12:16,780
+
+
+259
+00:12:16,780 --> 00:12:16,780
+
+
+260
+00:12:16,780 --> 00:12:17,640
+Every-
+
+261
+00:12:17,640 --> 00:12:17,820
+I am SHE.
+
+262
+00:12:18,460 --> 00:12:19,180
+And-
+
+263
+00:12:20,320 --> 00:12:22,120
+I am her.
+
+264
+00:12:28,940 --> 00:12:31,240
+Just kind of my proceed
+
+265
+00:12:32,460 --> 00:12:35,000
+When some man comes along
+
+266
+00:12:35,660 --> 00:12:38,480
+And claims a godly need
+
+267
+00:12:39,540 --> 00:12:41,380
+He'll clean you up
+
+268
+00:12:41,380 --> 00:12:44,680
+Right through your teeth
+
+269
+00:12:44,680 --> 00:12:46,840
+That's right, you asked for it.
+
+270
+00:12:46,900 --> 00:12:47,980
+Remember, there's a big difference
+
+271
+00:12:47,980 --> 00:12:49,980
+between kneeling down and bending over.
+
+272
+00:12:50,200 --> 00:12:52,020
+He's got $20 million
+
+273
+00:12:52,020 --> 00:12:55,180
+In his heavenly bank account
+
+274
+00:12:55,180 --> 00:12:59,760
+All from those chumps
+
+275
+00:12:59,760 --> 00:13:02,140
+Who was born again
+
+276
+00:13:02,680 --> 00:13:05,480
+Oh, yeah
+
+277
+00:13:05,480 --> 00:13:08,680
+Oh, yeah
+
+278
+00:13:08,680 --> 00:13:13,180
+He's got seven limousines
+
+279
+00:13:13,180 --> 00:13:15,220
+And a private plane
+
+280
+00:13:15,220 --> 00:13:19,420
+All for the use
+
+281
+00:13:19,420 --> 00:13:22,120
+Of his special friends
+
+282
+00:13:22,720 --> 00:13:25,160
+Oh, yeah
+
+283
+00:13:25,180 --> 00:13:28,480
+Oh, yeah
+
+284
+00:13:29,780 --> 00:13:32,780
+He's got thousand dollar suits
+
+285
+00:13:32,780 --> 00:13:35,000
+And a wimply tie
+
+286
+00:13:36,380 --> 00:13:39,840
+Girls love to stroke him
+
+287
+00:13:39,840 --> 00:13:42,580
+While he's on the phone
+
+288
+00:13:42,580 --> 00:13:45,760
+Oh, yeah
+
+289
+00:13:45,760 --> 00:13:48,780
+Oh, yeah
+
+290
+00:13:49,340 --> 00:13:53,080
+And the House of Representatives
+
+291
+00:13:53,080 --> 00:13:55,160
+He's a group of men
+
+292
+00:13:55,160 --> 00:13:55,160
+
+
+293
+00:13:55,180 --> 00:13:55,560
+Who's the guy
+
+294
+00:13:57,840 --> 00:13:59,920
+When he gives thanks
+
+295
+00:13:59,920 --> 00:14:02,420
+He is not alone
+
+296
+00:14:03,600 --> 00:14:04,540
+He is dealing
+
+297
+00:14:04,540 --> 00:14:05,540
+He is really dealing
+
+298
+00:14:05,540 --> 00:14:06,620
+IRS can't determine
+
+299
+00:14:06,620 --> 00:14:07,600
+Where the hook is
+
+300
+00:14:09,860 --> 00:14:11,680
+It is easy with the Bible
+
+301
+00:14:11,680 --> 00:14:13,520
+To pretend that you're a chauvinist
+
+302
+00:14:13,520 --> 00:14:15,360
+And the one and the two
+
+303
+00:14:15,360 --> 00:14:16,780
+They will get him
+
+304
+00:14:16,780 --> 00:14:17,780
+They will never get him
+
+305
+00:14:17,780 --> 00:14:19,220
+For the naughty stuff that he did
+
+306
+00:14:21,600 --> 00:14:23,380
+It is best in cases like this
+
+307
+00:14:23,380 --> 00:14:24,560
+To pretend that you are stupid
+
+308
+00:14:24,560 --> 00:14:25,760
+Fuck you
+
+309
+00:14:26,660 --> 00:14:29,080
+He's got presidential help
+
+310
+00:14:32,720 --> 00:14:34,500
+He's a good person
+
+311
+00:14:34,500 --> 00:14:34,500
+
+
+312
+00:14:34,500 --> 00:14:34,500
+
+
+313
+00:14:34,500 --> 00:14:34,500
+
+
+314
+00:14:34,500 --> 00:14:34,500
+
+
+315
+00:14:34,500 --> 00:14:34,500
+
+
+316
+00:14:34,500 --> 00:14:35,500
+He says the breaks
+
+317
+00:14:35,500 --> 00:14:38,140
+While the lawyers chew
+
+318
+00:14:38,140 --> 00:14:41,440
+Oh, yeah
+
+319
+00:14:41,440 --> 00:14:44,680
+They sure do
+
+320
+00:14:44,680 --> 00:14:51,560
+And the governor's agreed to say he's a lovely man
+
+321
+00:14:52,960 --> 00:14:58,900
+He makes it easier for them to screw
+
+322
+00:14:58,900 --> 00:15:02,260
+All of you
+
+323
+00:15:02,900 --> 00:15:05,500
+Yes, that's true
+
+324
+00:15:06,280 --> 00:15:12,360
+Cause he helps put the fear of God in the common man
+
+325
+00:15:14,020 --> 00:15:19,820
+Smashing up money everywhere he can
+
+326
+00:15:19,820 --> 00:15:26,180
+Oh yeah, oh yeah
+
+327
+00:15:26,680 --> 00:15:33,000
+He's got twenty million dollars in his heavenly bank account
+
+328
+00:15:33,000 --> 00:15:38,720
+You ain't got nothing, people
+
+329
+00:15:38,720 --> 00:15:42,340
+You ain't got nothing, people
+
+330
+00:15:42,340 --> 00:15:42,340
+
+
+331
+00:15:42,360 --> 00:15:44,260
+You ain't got nothing, people
+
+332
+00:15:44,260 --> 00:15:49,960
+You ain't got nothing, people
+
+333
+00:15:49,960 --> 00:15:51,900
+Thank the man
+
+334
+00:15:52,900 --> 00:15:56,980
+Oh yeah
+
+335
+00:15:58,900 --> 00:16:03,180
+As we end another broadcast, let me say
+
+336
+00:16:03,180 --> 00:16:04,680
+It's all a scam
+
+337
+00:16:04,680 --> 00:16:08,020
+It's all just dancing
+
+338
+00:16:08,020 --> 00:16:10,560
+Around a pipe
+
+339
+00:16:10,560 --> 00:16:12,340
+Of bulls
+
+340
+00:16:12,360 --> 00:16:14,140
+And Bob Dobbs
+
+341
+00:16:14,140 --> 00:16:16,600
+And Bob Dobbs
+
+342
+00:16:16,600 --> 00:16:20,540
+Might be able to change your life
+
+343
+00:16:20,540 --> 00:16:23,480
+If you grab this chance
+
+344
+00:16:23,480 --> 00:16:27,200
+If you send three lousy guilders
+
+345
+00:16:27,200 --> 00:16:31,140
+And what is three guilders nowadays?
+
+346
+00:16:31,660 --> 00:16:32,520
+It's nothing
+
+347
+00:16:32,520 --> 00:16:36,340
+If you send those three guilders to Dallas, Texas
+
+348
+00:16:36,340 --> 00:16:38,200
+And we will once more give you the address
+
+349
+00:16:39,220 --> 00:16:40,820
+You will be saved
+
+350
+00:16:40,820 --> 00:16:42,340
+And Bob Dobbs
+
+351
+00:16:43,100 --> 00:16:46,140
+You might not believe what happens to you if you're saved
+
+352
+00:16:47,020 --> 00:17:00,660
+And that address, once again, my friends, is P.O. Box 140306, Dallas, Texas 75214
+
+353
+00:17:00,660 --> 00:17:02,360
+And that address, once again, my friends, is P.O. Box 140306, Dallas, Texas 75214
+
+354
+00:17:02,360 --> 00:17:05,180
+And you can address it personally to Bob
+
+355
+00:17:06,720 --> 00:17:11,060
+And it's spelled J.R. Open for the public
+
+356
+00:17:11,060 --> 00:17:11,060
+
+
+357
+00:17:11,060 --> 00:17:11,060
+
+
+358
+00:17:12,360 --> 00:17:13,260
+And quotation marks
+
+359
+00:17:13,260 --> 00:17:14,940
+B.O.B.
+
+360
+00:17:14,940 --> 00:17:16,660
+Close quotation marks
+
+361
+00:17:17,360 --> 00:17:18,020
+Dobbs
+
+362
+00:17:18,020 --> 00:17:19,960
+Sure he makes you stay fucking
+
+363
+00:17:21,360 --> 00:17:23,740
+What he did with those young women that time
+
+364
+00:17:24,360 --> 00:17:26,920
+Well, I think the newspapers exaggerated that
+
+365
+00:17:27,660 --> 00:17:33,020
+I know that Bob will do all of us fine in the long run
+
+366
+00:17:33,020 --> 00:17:38,980
+In fact, I think I know that we really need Bob in our lives
+
+367
+00:17:38,980 --> 00:17:40,900
+In our lives
+
+368
+00:17:42,360 --> 00:17:43,640
+In 1981
+
+369
+00:17:43,640 --> 00:17:46,660
+And in 1984
+
+370
+00:17:46,660 --> 00:17:47,960
+¬%$¬% cop
+
+371
+00:17:47,960 --> 00:17:48,020
+And in 1994
+
+372
+00:17:48,020 --> 00:17:48,980
+My little brother
+
+373
+00:17:48,980 --> 00:17:51,360
+And in 1991
+
+374
+00:17:51,360 --> 00:17:55,440
+And in 1995
+
+375
+00:17:55,440 --> 00:18:01,160
+When they bring the conspiracy to its heels
+
+376
+00:18:01,160 --> 00:18:09,160
+and in that wondrous year that we know is going to come all too soon upon us.
+
+377
+00:18:10,100 --> 00:18:15,600
+And we'll leave our earthly things behind and we'll go and join the exes
+
+378
+00:18:15,600 --> 00:18:19,920
+from God only knows what strange planet they come from
+
+379
+00:18:19,920 --> 00:18:22,380
+if they really even come from a planet at all
+
+380
+00:18:22,380 --> 00:18:27,020
+and not some energy star beeping away in the darkness
+
+381
+00:18:28,120 --> 00:18:32,800
+lighting our lives with the technology and the spirituality
+
+382
+00:18:33,660 --> 00:18:37,180
+and the mentality of planet X.
+
+383
+00:18:37,440 --> 00:18:41,700
+Planet X coming down to take care of us subgeniuses
+
+384
+00:18:41,700 --> 00:18:44,480
+and see that there's a place for us in the world
+
+385
+00:18:44,480 --> 00:18:50,140
+and give us our rightful seat at the right hand of Bob or the left hand of Bob
+
+386
+00:18:50,140 --> 00:18:53,400
+depending on whether we're rewardians or mediocrities
+
+387
+00:18:53,400 --> 00:18:56,060
+but I don't want to get lost in the dark and I want to tell you something.
+
+388
+00:18:56,180 --> 00:18:56,900
+Hello there.
+
+389
+00:18:57,020 --> 00:18:57,640
+Hello there my friends.
+
+390
+00:18:58,340 --> 00:19:03,220
+This is Reverend Dr. Sardonicus J. Chaos.
+
+391
+00:19:03,320 --> 00:19:04,660
+Oh yes, dear friends.
+
+392
+00:19:05,720 --> 00:19:10,220
+I have a little case history I'd like to relate to you.
+
+393
+00:19:11,860 --> 00:19:17,480
+All the names of the people and towns in this have been changed to protect the insane.
+
+394
+00:19:19,120 --> 00:19:23,680
+This story concerns a former associate of mine
+
+395
+00:19:24,640 --> 00:19:26,980
+the Reverend Albert H.
+
+396
+00:19:27,020 --> 00:19:27,540
+Radwell.
+
+397
+00:19:28,740 --> 00:19:32,640
+He used to be a fine, fine colleague of mine in the church.
+
+398
+00:19:33,420 --> 00:19:36,420
+My own chaotic church of Nege.
+
+399
+00:19:38,980 --> 00:19:41,120
+And he was doing fine
+
+400
+00:19:43,420 --> 00:19:49,600
+until, well, I'm going to read you excerpts from his journal that he wrote
+
+401
+00:19:49,600 --> 00:19:51,040
+before he was committed.
+
+402
+00:19:54,240 --> 00:19:56,620
+The first entry here I'm going to read from.
+
+403
+00:19:57,420 --> 00:19:59,540
+It's dated on December 12th.
+
+404
+00:19:59,540 --> 00:20:00,920
+It doesn't have a year listed.
+
+405
+00:20:02,280 --> 00:20:07,280
+I gave my two weeks notice that I am leaving my job at the power plant.
+
+406
+00:20:07,800 --> 00:20:13,080
+My supervisor was a bit disturbed by this sudden seemingly motiveless action of mine.
+
+407
+00:20:13,500 --> 00:20:15,580
+But I feel like I have no choice.
+
+408
+00:20:15,640 --> 00:20:16,540
+I must leave.
+
+409
+00:20:16,800 --> 00:20:19,880
+This town has been infiltrated by the men in black.
+
+410
+00:20:20,800 --> 00:20:25,740
+This fanatical group composed of every sort of...
+
+411
+00:20:26,440 --> 00:20:27,000
+...discouraged.
+
+412
+00:20:27,020 --> 00:20:27,640
+Hideous.
+
+413
+00:20:28,060 --> 00:20:28,540
+Hideous.
+
+414
+00:20:29,140 --> 00:20:29,620
+People.
+
+415
+00:20:30,520 --> 00:20:34,400
+And these vermin have had me under observation for the past two weeks.
+
+416
+00:20:35,300 --> 00:20:41,580
+I knew that they were keeping an eye on me when that black Mercedes, which I have never
+
+417
+00:20:41,580 --> 00:20:45,940
+seen before, followed me to within half a block from my house.
+
+418
+00:20:46,680 --> 00:20:48,900
+They must think that I know too much about them.
+
+419
+00:20:49,000 --> 00:20:51,760
+Actually, I know very little about these men in black.
+
+420
+00:20:52,740 --> 00:20:56,460
+I wish that I knew what they're going to do next, but it's really up to them to make the
+
+421
+00:20:56,460 --> 00:20:56,980
+next move.
+
+422
+00:20:58,220 --> 00:20:59,840
+Damn it, I feel so powerless.
+
+423
+00:20:59,960 --> 00:21:01,120
+So, so confused.
+
+424
+00:21:02,300 --> 00:21:05,960
+All I can do is play a waiting game and hope that they don't make their move while I am
+
+425
+00:21:05,960 --> 00:21:06,240
+asleep.
+
+426
+00:21:09,040 --> 00:21:09,740
+Next entry.
+
+427
+00:21:12,340 --> 00:21:13,140
+December 17th.
+
+428
+00:21:13,160 --> 00:21:15,800
+Well, I have lived to see the end of another week.
+
+429
+00:21:16,500 --> 00:21:20,140
+Next week is my last hit at the power plant and my last in this town.
+
+430
+00:21:21,360 --> 00:21:25,680
+I'm worried that the men in black will send someone after me before I can get out of town.
+
+431
+00:21:26,040 --> 00:21:26,440
+I'm afraid that I will be left behind.
+
+432
+00:21:26,440 --> 00:21:27,740
+What are they waiting for?
+
+433
+00:21:28,120 --> 00:21:31,520
+This not knowing is making me apprehensive.
+
+434
+00:21:32,720 --> 00:21:39,000
+My telephone has been making strange clicking sounds, and I fear that my conversations are
+
+435
+00:21:39,000 --> 00:21:40,240
+now being wiretapped.
+
+436
+00:21:41,360 --> 00:21:45,740
+Of course, I have spoken to no one about these men in black, and I do not plan to.
+
+437
+00:21:46,540 --> 00:21:48,740
+So, what will they gain from tapping my phone?
+
+438
+00:21:50,700 --> 00:21:53,020
+At what point will all this be over with?
+
+439
+00:21:53,180 --> 00:21:55,880
+I suspect that they will stop at nothing.
+
+440
+00:21:55,900 --> 00:21:56,420
+I'm afraid that they will stop at nothing.
+
+441
+00:21:56,420 --> 00:22:02,700
+In order to preserve the security of their organization, only time will tell.
+
+442
+00:22:05,820 --> 00:22:08,440
+Next entry is December 23rd.
+
+443
+00:22:08,660 --> 00:22:11,700
+There was an explosion today in one of the plant's generators.
+
+444
+00:22:12,320 --> 00:22:19,480
+A company official said that sabotage is suspected, and I have my own suspicions as to the party
+
+445
+00:22:19,480 --> 00:22:21,640
+responsible for this sabotage.
+
+446
+00:22:21,660 --> 00:22:23,380
+I have one question.
+
+447
+00:22:23,780 --> 00:22:25,820
+What is the cause of the sabotage?
+
+448
+00:22:25,820 --> 00:22:25,820
+
+
+449
+00:22:25,820 --> 00:22:28,780
+meters or so away from the generator in question.
+
+450
+00:22:29,860 --> 00:22:32,200
+Fortunately, I was at lunch when the blast occurred.
+
+451
+00:22:33,520 --> 00:22:35,440
+This is making me a nervous wreck.
+
+452
+00:22:35,640 --> 00:22:38,160
+I'm relieved that this is my last day here at the plant.
+
+453
+00:22:40,200 --> 00:22:44,160
+After giving the matter some more thought, though, I have decided the explosion was meant
+
+454
+00:22:44,160 --> 00:22:48,420
+only as a warning because they have watched me closely enough to know that I was out to
+
+455
+00:22:48,420 --> 00:22:50,220
+lunch and therefore I would not be hurt.
+
+456
+00:22:50,500 --> 00:22:51,960
+How very considerate.
+
+457
+00:22:55,380 --> 00:23:05,160
+Anyway, this journal goes on and on and apparently we're not sure what exactly happened to him
+
+458
+00:23:05,160 --> 00:23:06,840
+but he did end up being committed.
+
+459
+00:23:07,060 --> 00:23:17,300
+He's our former co-worker here at the church, Dr. Albert Radwell, and we don't know whether
+
+460
+00:23:17,300 --> 00:23:20,780
+this is being committed as a result of...
+
+461
+00:23:21,960 --> 00:23:25,200
+the men in black or his own delusions concerning them.
+
+462
+00:23:35,800 --> 00:23:39,260
+This is the Nightman calling from K-N-O-N.
+
+463
+00:23:39,420 --> 00:23:40,600
+You better listen up right now.
+
+464
+00:23:40,620 --> 00:23:42,440
+I've got some very important news for you.
+
+465
+00:23:42,560 --> 00:23:46,900
+Brand new mailing address for the matter K-N-O-N is...
+
+466
+00:23:47,480 --> 00:23:51,300
+Post Office Box 710909.
+
+467
+00:23:51,960 --> 00:23:54,320
+Dallas, Texas 75371.
+
+468
+00:23:54,480 --> 00:23:58,880
+That's Post Office Box 710909.
+
+469
+00:23:58,960 --> 00:24:01,720
+Dallas, Texas 75371.
+
+470
+00:24:01,760 --> 00:24:05,960
+That's if you want to contact the hottest station on the planet Earth, K-N-O-N.
+
+471
+00:24:06,380 --> 00:24:07,680
+Dallas, for work.
+
+472
+00:24:16,220 --> 00:24:17,140
+Hello, friends.
+
+473
+00:24:17,140 --> 00:24:22,620
+You're on the air with the Hour of Slack radio ministry.
+
+474
+00:24:25,260 --> 00:24:30,680
+And there's a secret society of scheming aliens that have already gained control of education,
+
+475
+00:24:31,000 --> 00:24:36,160
+politics, private banking, major law firms, and philanthropic foundations.
+
+476
+00:24:38,160 --> 00:24:45,120
+A researcher, Jerome Eden, explains that evil extraterrestrials will use propaganda to subvert mankind
+
+477
+00:24:45,120 --> 00:24:46,980
+so that no one will...
+
+478
+00:24:47,140 --> 00:24:50,060
+even notice they're in control until it's too late.
+
+479
+00:24:55,400 --> 00:24:56,920
+This is the Men in Black show.
+
+480
+00:24:58,940 --> 00:24:59,920
+I can hear you.
+
+481
+00:24:59,960 --> 00:25:00,840
+I can hear you.
+
+482
+00:25:00,840 --> 00:25:01,740
+Get off there.
+
+483
+00:25:01,740 --> 00:25:03,080
+I can hear you.
+
+484
+00:25:03,140 --> 00:25:04,280
+Oh, yes, friends.
+
+485
+00:25:05,260 --> 00:25:16,080
+That was broadcast on a pirate radio station around midnight of June in Amsterdam, Holland.
+
+486
+00:25:17,140 --> 00:25:18,920
+Pretty weird, eh?
+
+487
+00:25:20,000 --> 00:25:22,980
+It gets as far away as Amsterdam.
+
+488
+00:25:23,760 --> 00:25:27,860
+And we got those three guilders in the mail.
+
+489
+00:25:29,680 --> 00:25:30,560
+Please.
+
+490
+00:25:30,740 --> 00:25:30,820
+Please.
+
+491
+00:25:31,060 --> 00:25:31,720
+Please.
+
+492
+00:25:31,720 --> 00:25:32,200
+Please.
+
+493
+00:25:33,280 --> 00:25:34,160
+Please.
+
+494
+00:25:35,880 --> 00:25:36,760
+Please.
+
+495
+00:25:44,160 --> 00:25:46,820
+the knowledge must have come from...
+
+496
+00:25:46,820 --> 00:25:47,120
+the.
+
+497
+00:25:47,120 --> 00:25:58,280
+space. Watch the heavenlies. It's your spaceship out of control. Does that sound fearful, my friend?
+
+498
+00:25:59,400 --> 00:26:05,580
+Would you say, Jesus, a final great space event as Christ returned to the earth?
+
+499
+00:26:05,760 --> 00:26:13,480
+This is just another one of those kooky concepts that people get and try to pass it off for
+
+500
+00:26:13,480 --> 00:26:18,400
+gospel truth. You continue to believe in the rapture and look for Jesus Christ,
+
+501
+00:26:18,560 --> 00:26:26,080
+because he's coming very soon. And I seen one of them flying right by over my car,
+
+502
+00:26:26,200 --> 00:26:32,280
+and he stopped my car, and they took me in, and they said, Jimmy, Jimmy, we're real. We're here.
+
+503
+00:26:32,560 --> 00:26:39,440
+We're here to help you. You understand? We're here to help you and your mother and all those
+
+504
+00:26:39,440 --> 00:26:42,380
+dear to you and your friends and brother Roloff, and we're going to stop
+
+505
+00:26:42,380 --> 00:26:43,460
+the evil.
+
+506
+00:26:43,480 --> 00:26:47,920
+What's going on in the world? We're going to come down, and we're going to help those
+
+507
+00:26:47,920 --> 00:26:51,780
+evil people find themselves. So you're going to help us, Jimmy. You're going to help us.
+
+508
+00:26:51,900 --> 00:26:57,360
+You're going to tell us which ones are the evil people that we need to correct. Now,
+
+509
+00:26:57,380 --> 00:27:01,500
+you're going to help us, Jimmy, okay? And then they got back in their spaceship, and
+
+510
+00:27:01,500 --> 00:27:06,180
+they flew off, and I just found myself in my car again, and I drove on down to that
+
+511
+00:27:06,180 --> 00:27:12,140
+7-Eleven, and my father, of course, he's dead, but they're keeping the water on him. He's
+
+512
+00:27:12,140 --> 00:27:12,440
+okay.
+
+513
+00:27:12,640 --> 00:27:13,460
+They're keeping him safe.
+
+514
+00:27:13,480 --> 00:27:14,140
+They're keeping him safe.
+
+515
+00:27:14,220 --> 00:27:14,980
+They're keeping him safe.
+
+516
+00:27:15,180 --> 00:27:15,180
+
+
+517
+00:27:15,180 --> 00:27:15,220
+They're keeping him safe.
+
+518
+00:27:15,220 --> 00:27:15,220
+
+
+519
+00:27:15,220 --> 00:27:22,080
+He told me, he said, I see little men, and he held his fingers like this. It's illusions.
+
+520
+00:27:22,700 --> 00:27:31,600
+He said, I see little men about three inches high. He said, I'm over in Spain or somewhere
+
+521
+00:27:31,600 --> 00:27:36,060
+like that. He said, I even go into a place like that, and he said, I see these little
+
+522
+00:27:36,060 --> 00:27:40,900
+objects and these little men and all these little things, and if your heart doesn't go
+
+523
+00:27:40,900 --> 00:27:42,820
+out for something like that, I don't want you to know.
+
+524
+00:27:42,820 --> 00:27:45,220
+I said, I've been in the world, and my heart goes out for people like that, and I want
+
+525
+00:27:45,220 --> 00:27:48,720
+you to know something else. Those people are actually, you know what they're doing?
+
+526
+00:27:48,880 --> 00:27:53,820
+Those people are really reaching out, trying to find something, and if they can just, if
+
+527
+00:27:53,820 --> 00:27:58,360
+they can just realize that Jesus has the answer, that Christ has everything that they're looking
+
+528
+00:27:58,360 --> 00:28:07,620
+for, and Christ can get, let them get on high and give them joy, give them peace in the
+
+529
+00:28:07,620 --> 00:28:07,840
+life.
+
+530
+00:28:08,040 --> 00:28:09,480
+You'll not want any more, don't.
+
+531
+00:28:09,560 --> 00:28:10,700
+You'll not want any more.
+
+532
+00:28:10,940 --> 00:28:11,420
+You'll not want any more.
+
+533
+00:28:11,420 --> 00:28:12,220
+You'll not want any more.
+
+534
+00:28:12,220 --> 00:28:14,320
+No, don't let me drink those pills, no!
+
+535
+00:28:20,120 --> 00:28:24,520
+This is KNON 90.9 FM.
+
+536
+00:28:27,720 --> 00:28:33,980
+This is KNON 19.9 FM in Dallas, Texas.
+
+537
+00:28:35,500 --> 00:28:35,780
+Please stop.
+
+538
+00:28:37,100 --> 00:28:38,020
+Please stop.
+
+539
+00:28:39,400 --> 00:28:40,360
+Oh yes, dear friends.
+
+540
+00:28:42,220 --> 00:28:44,000
+Oh, oh, oh, oh, oh.
+
+541
+00:28:49,480 --> 00:28:49,960
+Stop.
+
+542
+00:28:55,220 --> 00:29:00,120
+Hi, Pastor Buck here, and if you want to call us at the station, the number is 828-9500.
+
+543
+00:29:00,240 --> 00:29:01,820
+Give us a call about the Men in Black.
+
+544
+00:29:03,340 --> 00:29:03,820
+Stop.
+
+545
+00:29:05,440 --> 00:29:05,920
+Stop.
+
+546
+00:29:07,380 --> 00:29:11,980
+But friends, let's begin our sermon tonight by looking to the...
+
+547
+00:29:12,220 --> 00:29:16,320
+Book of the Subgenius, Chapter 11.
+
+548
+00:29:17,580 --> 00:29:19,680
+The UFO made me do it.
+
+549
+00:29:19,720 --> 00:29:25,580
+For these observations on the Men in Black.
+
+550
+00:29:27,100 --> 00:29:30,360
+But first, one short quote.
+
+551
+00:29:31,560 --> 00:29:34,840
+Stretch forth thy hands on high.
+
+552
+00:29:35,000 --> 00:29:38,080
+Rescue me and deliver me from the many waters.
+
+553
+00:29:38,280 --> 00:29:41,840
+From the hands of aliens whose mouths...
+
+554
+00:29:42,220 --> 00:29:46,860
+Speak lies and whose right hand is the hand of falsehood.
+
+555
+00:29:47,000 --> 00:29:49,280
+Psalms 144.7.
+
+556
+00:29:49,460 --> 00:29:53,760
+And be not forgetful to entertain strangers.
+
+557
+00:29:55,040 --> 00:30:00,660
+For thereby some have entertained angels unaware.
+
+558
+00:30:03,040 --> 00:30:06,220
+That was said by St. Paul the Contactee.
+
+559
+00:30:06,540 --> 00:30:08,620
+But ignore all that.
+
+560
+00:30:09,000 --> 00:30:11,820
+Any sensible subgenius knows.
+
+561
+00:30:12,220 --> 00:30:20,160
+That Republican and Democrat are laughably meaningless terms for identical pawns in a bigger game.
+
+562
+00:30:21,180 --> 00:30:26,400
+What they didn't understand was just how little differences there are between any political parties.
+
+563
+00:30:26,580 --> 00:30:28,360
+Anywhere on the political spectrum.
+
+564
+00:30:29,200 --> 00:30:32,580
+Looking in perspective at the whole conspiracy.
+
+565
+00:30:33,680 --> 00:30:38,300
+From a vantage point several steps back from the big circular monster.
+
+566
+00:30:39,300 --> 00:30:41,180
+They all begin to look the same.
+
+567
+00:30:41,300 --> 00:30:41,980
+It's a big...
+
+568
+00:30:41,980 --> 00:30:42,460
+Vice.
+
+569
+00:30:42,800 --> 00:30:50,620
+With radical and reactionary rioters forming the bottom half and a fake establishment at the top half.
+
+570
+00:30:50,800 --> 00:30:55,820
+And the earth itself is being squeezed in between.
+
+571
+00:30:56,160 --> 00:31:00,700
+With both subgeniuses and humans getting all smushed up together.
+
+572
+00:31:01,040 --> 00:31:03,120
+The humans don't seem to mind.
+
+573
+00:31:03,440 --> 00:31:10,240
+But what's bad is the nature of the things that are using the big vice.
+
+574
+00:31:10,940 --> 00:31:11,960
+Ever-presenting.
+
+575
+00:31:11,960 --> 00:31:16,080
+The political group claims that under them the people will run things.
+
+576
+00:31:16,660 --> 00:31:20,720
+But when the people find out what's really going on.
+
+577
+00:31:21,060 --> 00:31:22,520
+They'll just run.
+
+578
+00:31:23,720 --> 00:31:27,680
+It wouldn't be so bad if the manipulators were at least human.
+
+579
+00:31:28,200 --> 00:31:32,060
+If they were at least bipeds.
+
+580
+00:31:33,420 --> 00:31:35,480
+Now before I say this let me tell you this.
+
+581
+00:31:35,580 --> 00:31:37,000
+I didn't vote for neither one of them.
+
+582
+00:31:38,180 --> 00:31:40,320
+One day in the not too distant future.
+
+583
+00:31:40,500 --> 00:31:41,600
+You funny Americans.
+
+584
+00:31:41,600 --> 00:31:44,460
+That played that old funny unethical game.
+
+585
+00:31:45,400 --> 00:31:49,080
+That goes to the polls with pride and dignity.
+
+586
+00:31:49,280 --> 00:31:53,260
+And stoop to the lowness of always voting for the lesser of the two evils.
+
+587
+00:31:55,780 --> 00:31:59,680
+It looks like somewhere that funny history ain't too far back.
+
+588
+00:31:59,840 --> 00:32:02,380
+That's how them Germans got in trouble.
+
+589
+00:32:02,460 --> 00:32:04,640
+Let Hitler and them Nazis slip up on them.
+
+590
+00:32:04,780 --> 00:32:07,060
+And y'all go with pride and dignity.
+
+591
+00:32:07,560 --> 00:32:08,080
+Look at that.
+
+592
+00:32:09,500 --> 00:32:11,260
+The forces exist.
+
+593
+00:32:11,600 --> 00:32:13,020
+Without definite form.
+
+594
+00:32:13,200 --> 00:32:14,620
+But only with an intention.
+
+595
+00:32:14,860 --> 00:32:18,160
+And a thirst to gain form.
+
+596
+00:32:18,420 --> 00:32:20,140
+To take on life.
+
+597
+00:32:20,620 --> 00:32:22,960
+We are what gives them shape.
+
+598
+00:32:23,100 --> 00:32:25,420
+It is an energy we possess.
+
+599
+00:32:26,600 --> 00:32:26,800
+Slack.
+
+600
+00:32:27,600 --> 00:32:29,200
+That they vampirize.
+
+601
+00:32:29,200 --> 00:32:34,620
+In order to lock their non-materiality onto our material world.
+
+602
+00:32:35,600 --> 00:32:38,940
+Their natural energy stems from nothing less.
+
+603
+00:32:38,940 --> 00:32:44,060
+Than the fitful dreams of the Elder Gods.
+
+604
+00:32:45,580 --> 00:32:48,300
+And except for top brass.
+
+605
+00:32:48,700 --> 00:32:51,760
+Most of our military has no idea.
+
+606
+00:32:51,860 --> 00:32:54,660
+That the country is run by puppets.
+
+607
+00:32:54,660 --> 00:32:59,580
+Kept dancing by inhuman hands from above.
+
+608
+00:33:00,160 --> 00:33:03,880
+That the line of control goes upwards.
+
+609
+00:33:05,240 --> 00:33:07,500
+Behind each big wig.
+
+610
+00:33:07,500 --> 00:33:12,780
+In the smoke-filled boardrooms of the conspiracy's New York bunkers.
+
+611
+00:33:12,780 --> 00:33:15,360
+Is a shadowy consultant.
+
+612
+00:33:16,380 --> 00:33:19,420
+Telling him how to deal his cards.
+
+613
+00:33:19,960 --> 00:33:24,060
+And while the human insiders may squabble among themselves.
+
+614
+00:33:24,500 --> 00:33:29,000
+The men in black behind them work as one.
+
+615
+00:33:29,640 --> 00:33:30,860
+Bob knows.
+
+616
+00:33:31,580 --> 00:33:36,940
+Bob has sat in on their calm, civilized get-togethers.
+
+617
+00:33:36,940 --> 00:33:42,020
+And noticed that the slightest ghastly murmuring from one of these creatures.
+
+618
+00:33:42,140 --> 00:33:45,520
+Is enough to make a senator break into a cold sweat.
+
+619
+00:33:45,800 --> 00:33:49,000
+A prime minister suddenly changes tune.
+
+620
+00:33:49,480 --> 00:33:56,240
+A CIA operative inexplicably decide not to give the complete report.
+
+621
+00:33:57,240 --> 00:34:01,700
+And when the migraine machine is activated in those boardrooms.
+
+622
+00:34:01,780 --> 00:34:06,400
+All arguments with the plan are cut short.
+
+623
+00:34:06,400 --> 00:34:12,860
+Faster than Darth Vader's mind beams can stoke a death car, Captain.
+
+624
+00:34:13,360 --> 00:34:15,240
+That's not true.
+
+625
+00:34:16,400 --> 00:34:21,220
+Along with Bob, the pursuit of slack, and a conspiracy of pinks.
+
+626
+00:34:21,220 --> 00:34:24,880
+The subgenius theology includes a vision of the apocalypse.
+
+627
+00:34:25,620 --> 00:34:30,180
+According to church doctrine, on July 5th, 1998.
+
+628
+00:34:31,400 --> 00:34:33,940
+When the television signal of Amos and Andy.
+
+629
+00:34:33,940 --> 00:34:36,420
+Reaches the men from planet X.
+
+630
+00:34:36,640 --> 00:34:40,500
+The aliens will unleash their wrath upon the earth.
+
+631
+00:34:40,760 --> 00:34:44,680
+And he's looking over his right shoulder at me.
+
+632
+00:34:44,720 --> 00:34:46,140
+And he's smiling and.
+
+633
+00:34:46,520 --> 00:34:47,320
+He's.
+
+634
+00:34:48,780 --> 00:34:48,940
+He's.
+
+635
+00:34:52,920 --> 00:34:53,720
+He's.
+
+636
+00:34:53,720 --> 00:34:53,960
+He's.
+
+637
+00:34:56,020 --> 00:34:56,820
+He's.
+
+638
+00:34:57,700 --> 00:34:57,780
+He's.
+
+639
+00:34:57,780 --> 00:34:57,780
+
+
+640
+00:34:57,780 --> 00:34:57,780
+
+
+641
+00:34:57,780 --> 00:34:58,240
+He's.
+
+642
+00:34:58,560 --> 00:34:58,560
+
+
+643
+00:34:58,560 --> 00:34:58,560
+
+
+644
+00:34:58,560 --> 00:34:58,560
+
+
+645
+00:34:58,560 --> 00:34:58,560
+
+
+646
+00:34:58,560 --> 00:34:58,560
+
+
+647
+00:34:58,560 --> 00:34:59,020
+He's.
+
+648
+00:34:59,080 --> 00:34:59,880
+He's.
+
+649
+00:35:02,120 --> 00:35:02,900
+He's.
+
+650
+00:35:14,400 --> 00:35:15,180
+He's.
+
+651
+00:35:17,720 --> 00:35:18,500
+He's.
+
+652
+00:35:18,500 --> 00:35:18,600
+He's.
+
+653
+00:35:18,600 --> 00:35:19,300
+He's.
+
+654
+00:35:19,300 --> 00:35:19,840
+He's.
+
+655
+00:35:19,960 --> 00:35:19,960
+
+
+656
+00:35:20,060 --> 00:35:22,220
+And he calls, for the quest to go home.
+
+657
+00:35:22,320 --> 00:35:22,320
+
+
+658
+00:35:22,320 --> 00:35:22,320
+
+
+659
+00:35:22,320 --> 00:35:22,500
+Black doers don't gather in the light.
+
+660
+00:35:22,560 --> 00:35:22,900
+Half of this сложies.
+
+661
+00:35:24,740 --> 00:35:29,280
+Half of my territory has been abandoned by me.
+
+662
+00:35:29,280 --> 00:35:29,860
+All of it.
+
+663
+00:35:33,860 --> 00:35:35,320
+I'm talking to you.
+
+664
+00:35:41,080 --> 00:35:42,240
+Oh, yes.
+
+665
+00:35:43,260 --> 00:35:48,460
+Dear friends, it looks like someone's ready to fall victim to our little plan here.
+
+666
+00:35:48,580 --> 00:35:51,740
+No, I think that Gary has mysterious...
+
+667
+00:35:51,740 --> 00:35:52,740
+Oh, could this be Gary?
+
+668
+00:35:54,200 --> 00:35:55,160
+Is this Gary?
+
+669
+00:35:55,680 --> 00:35:56,260
+Hello.
+
+670
+00:35:56,720 --> 00:35:57,420
+Who's this?
+
+671
+00:35:57,700 --> 00:35:59,080
+It's Professor Mickey Grant.
+
+672
+00:35:59,860 --> 00:36:00,860
+Mickey Grant.
+
+673
+00:36:00,880 --> 00:36:02,260
+Oh, it's Professor Mickey Grant.
+
+674
+00:36:02,620 --> 00:36:03,520
+Oh, yes.
+
+675
+00:36:03,760 --> 00:36:07,480
+I just got back from my recent trip along to Northwest China.
+
+676
+00:36:07,920 --> 00:36:11,640
+Oh, how is Northwest China, Professor Grant?
+
+677
+00:36:11,960 --> 00:36:13,840
+Many, many, many Muslims.
+
+678
+00:36:14,640 --> 00:36:17,460
+How is traffic on the Great Wall?
+
+679
+00:36:17,960 --> 00:36:20,460
+No traffic at all.
+
+680
+00:36:20,780 --> 00:36:23,800
+Completely clear when you get to the desert.
+
+681
+00:36:25,240 --> 00:36:28,860
+Well, now how many copies of Book of the Subgenius
+
+682
+00:36:28,860 --> 00:36:29,840
+were you able to...
+
+683
+00:36:29,860 --> 00:36:31,100
+Distribute, Professor Grant.
+
+684
+00:36:31,320 --> 00:36:32,160
+We got it.
+
+685
+00:36:32,160 --> 00:36:34,200
+39500 Bob Davison.
+
+686
+00:36:34,320 --> 00:36:34,740
+You released?
+
+687
+00:36:35,380 --> 00:36:35,780
+Hello?
+
+688
+00:36:35,780 --> 00:36:36,660
+No, operator.
+
+689
+00:36:36,680 --> 00:36:37,460
+That's a crank call.
+
+690
+00:36:38,160 --> 00:36:38,500
+No.
+
+691
+00:36:38,520 --> 00:36:39,960
+Excuse me, Professor Grant.
+
+692
+00:36:40,020 --> 00:36:42,040
+We had the conspiracy trying to break in there.
+
+693
+00:36:42,320 --> 00:36:43,160
+I know.
+
+694
+00:36:43,180 --> 00:36:43,760
+I know.
+
+695
+00:36:43,820 --> 00:36:45,960
+It's all the Deng Xiaoping friends.
+
+696
+00:36:46,200 --> 00:36:48,580
+They always interrupt and cause trouble.
+
+697
+00:36:49,660 --> 00:36:53,800
+We got 25,000 distributed in land.
+
+698
+00:36:54,160 --> 00:36:58,800
+And in June, in Inner Mongolia,
+
+699
+00:36:58,800 --> 00:37:01,540
+we got another 10,000 books out.
+
+700
+00:37:01,860 --> 00:37:03,020
+They're kind of confused.
+
+701
+00:37:03,100 --> 00:37:05,460
+Most of them were Muslims, like I said.
+
+702
+00:37:05,540 --> 00:37:10,680
+I explained to them that Bob Dobbs was a latter-day Muhammad.
+
+703
+00:37:11,180 --> 00:37:14,060
+And they said, oh, hi-ho, hi-ho.
+
+704
+00:37:14,260 --> 00:37:15,420
+Oh, yes, dear friends.
+
+705
+00:37:15,520 --> 00:37:16,780
+In case you're totally confused,
+
+706
+00:37:17,020 --> 00:37:19,400
+this is actually a call from our fellow minister
+
+707
+00:37:19,400 --> 00:37:22,260
+who just returned from the tour of China.
+
+708
+00:37:22,820 --> 00:37:27,420
+Yes, and our member in China, Xia Li,
+
+709
+00:37:27,820 --> 00:37:28,780
+is so excited.
+
+710
+00:37:28,800 --> 00:37:31,920
+I played him the last broadcast,
+
+711
+00:37:32,100 --> 00:37:33,940
+and he's doing much research
+
+712
+00:37:33,940 --> 00:37:35,680
+and talking with the people.
+
+713
+00:37:36,000 --> 00:37:37,700
+You must remember the people.
+
+714
+00:37:38,020 --> 00:37:40,060
+He is distributing literature,
+
+715
+00:37:40,520 --> 00:37:43,020
+taking his very life in hand.
+
+716
+00:37:43,300 --> 00:37:44,340
+Oh, that's Taipan.
+
+717
+00:37:44,720 --> 00:37:47,100
+Li Jing, the Pope of all China,
+
+718
+00:37:47,240 --> 00:37:49,340
+Dr. Grant is referring to, friends.
+
+719
+00:37:49,580 --> 00:37:51,400
+And this is serious work.
+
+720
+00:37:51,420 --> 00:37:53,500
+I mean, when you spread the word of Bob in China,
+
+721
+00:37:54,540 --> 00:37:56,720
+they can't be released.
+
+722
+00:37:57,640 --> 00:37:58,780
+Oh, the keepers.
+
+723
+00:37:58,800 --> 00:38:00,500
+They're interrupting to stop the broadcast.
+
+724
+00:38:00,780 --> 00:38:03,460
+All the way from China, their arm reaches out.
+
+725
+00:38:03,840 --> 00:38:04,620
+It's the men in black.
+
+726
+00:38:04,660 --> 00:38:06,920
+Friends, this is the first long-distance calls
+
+727
+00:38:06,920 --> 00:38:10,400
+KNON has ever received from the mainland China.
+
+728
+00:38:10,780 --> 00:38:12,900
+Friends, we need more martyrs for the church.
+
+729
+00:38:13,080 --> 00:38:14,920
+If you live in a communist country...
+
+730
+00:38:14,920 --> 00:38:15,680
+They're running down all the way in the U.S.
+
+731
+00:38:15,680 --> 00:38:18,260
+to interrupt and stop all of our work.
+
+732
+00:38:19,380 --> 00:38:23,200
+And the men in black are working right alongside them
+
+733
+00:38:23,200 --> 00:38:24,520
+the whole time.
+
+734
+00:38:24,800 --> 00:38:28,000
+Yes, evil aliens in the form of subversive men in black
+
+735
+00:38:28,000 --> 00:38:31,300
+are infiltrating Earth, secretly preparing for a takeover of our planet.
+
+736
+00:38:32,020 --> 00:38:33,040
+I will answer.
+
+737
+00:38:33,840 --> 00:38:34,720
+It's true.
+
+738
+00:38:35,200 --> 00:38:36,460
+They're even on the Great Wall.
+
+739
+00:38:36,960 --> 00:38:41,360
+They used the Great Wall as a guidepost to land their ships.
+
+740
+00:38:41,940 --> 00:38:44,100
+Oh, those sinister men in black.
+
+741
+00:38:44,420 --> 00:38:48,780
+The Great Wall spells welcome in the simple alien tongue.
+
+742
+00:38:49,720 --> 00:38:50,940
+Oh, yes, friends.
+
+743
+00:38:51,020 --> 00:38:53,600
+Oh, my gosh, they've completely cut us off.
+
+744
+00:38:53,800 --> 00:38:56,940
+I'm afraid there's only one thing to do in a case like that.
+
+745
+00:38:59,920 --> 00:39:09,360
+But the other one with the evil face, he looks like a Nazi.
+
+746
+00:39:10,860 --> 00:39:12,140
+He's a Nazi.
+
+747
+00:39:13,100 --> 00:39:15,060
+Did he have on a uniform?
+
+748
+00:39:16,340 --> 00:39:17,920
+Yes, yes.
+
+749
+00:39:19,400 --> 00:39:22,600
+Did he have faces like other people?
+
+750
+00:39:23,300 --> 00:39:25,260
+His eyes are slant.
+
+751
+00:39:28,000 --> 00:39:28,920
+Oh, my God.
+
+752
+00:39:31,060 --> 00:39:32,860
+Angels don't have any emotions.
+
+753
+00:39:35,820 --> 00:39:37,660
+Doesn't make them any difference either way.
+
+754
+00:39:37,780 --> 00:39:41,760
+All they're programmed to do is what God tells them to do.
+
+755
+00:39:41,840 --> 00:39:45,440
+And they'll hearken only to the voice of the Lord Almighty God.
+
+756
+00:39:45,660 --> 00:39:47,600
+And they are sent to be servants.
+
+757
+00:39:47,720 --> 00:39:55,500
+They are sent to be slave and servant to the heirs of salvation.
+
+758
+00:39:56,160 --> 00:39:56,920
+Ministering spirits.
+
+759
+00:39:56,920 --> 00:40:00,240
+sent to minister for those who shall be heirs unto salvation.
+
+760
+00:40:01,780 --> 00:40:07,820
+Let us note in passing that the true symbol of the conspiracy, the eye on the pyramid,
+
+761
+00:40:08,020 --> 00:40:13,600
+was presented to Thomas Jefferson by a mysterious man in black.
+
+762
+00:40:14,040 --> 00:40:20,000
+The actual emblem for the conspiracy is a plastic spoon, fork, and knife,
+
+763
+00:40:20,260 --> 00:40:25,140
+partially crossed in an ill travesty of the Christian cross death sign.
+
+764
+00:40:26,140 --> 00:40:31,320
+The reason for this stupid logo? Plastic, because that's the nature of it all.
+
+765
+00:40:31,500 --> 00:40:34,300
+The eating utensils, because they eat us.
+
+766
+00:40:34,460 --> 00:40:37,140
+The men in black are cannibals.
+
+767
+00:40:37,920 --> 00:40:43,460
+Not so much in the sense of devouring human flesh, for they do that only on special occasions,
+
+768
+00:40:43,640 --> 00:40:47,260
+but in the sense that they consume our energy.
+
+769
+00:40:47,680 --> 00:40:53,740
+The men in black do eat human flesh as often as possible,
+
+770
+00:40:53,880 --> 00:40:55,120
+and don't.
+
+771
+00:40:55,140 --> 00:40:58,200
+They draw off our psychic juices,
+
+772
+00:40:59,140 --> 00:41:03,140
+and they're small timers compared to their masters.
+
+773
+00:41:03,980 --> 00:41:12,780
+And all the angels of God will begin to work and intercede and operate and look under the affairs around it.
+
+774
+00:41:12,860 --> 00:41:15,440
+I mean they'll begin to work in every direction.
+
+775
+00:41:15,440 --> 00:41:16,920
+They don't sleep either.
+
+776
+00:41:17,060 --> 00:41:20,040
+They're not emotional. Angels don't have any emotion.
+
+777
+00:41:20,280 --> 00:41:24,000
+All they're programmed to do is what God tells them to do.
+
+778
+00:41:24,060 --> 00:41:25,120
+And they'll hark away.
+
+779
+00:41:25,140 --> 00:41:27,720
+And only to the voice of the Lord Almighty God.
+
+780
+00:41:28,660 --> 00:41:31,640
+The Bible says your angel will not forgive you.
+
+781
+00:41:32,620 --> 00:41:34,520
+They don't have to come here from heaven.
+
+782
+00:41:34,600 --> 00:41:36,360
+The Bible said they're all sent forth.
+
+783
+00:41:36,480 --> 00:41:37,780
+They're all already here.
+
+784
+00:41:38,000 --> 00:41:40,820
+You've got to have substantial proof,
+
+785
+00:41:41,680 --> 00:41:43,540
+or you're just another nut.
+
+786
+00:41:44,860 --> 00:41:46,900
+Friends, you hear what he said?
+
+787
+00:41:47,320 --> 00:41:49,100
+You're just another nut.
+
+788
+00:41:49,840 --> 00:41:54,040
+Unless you've got the secret file.
+
+789
+00:41:54,040 --> 00:41:56,900
+Now I want to tell my callers,
+
+790
+00:41:56,900 --> 00:41:58,200
+this is Pastor Buck,
+
+791
+00:41:58,400 --> 00:41:59,800
+I've been screening the calls tonight.
+
+792
+00:42:00,240 --> 00:42:04,820
+I want to tell my callers that I have nothing to do with the fact that every time I reach over
+
+793
+00:42:04,820 --> 00:42:06,580
+to put a caller on the air,
+
+794
+00:42:07,500 --> 00:42:09,780
+they mysteriously blink off.
+
+795
+00:42:09,900 --> 00:42:12,140
+Now does that mean that the men in black are in their homes,
+
+796
+00:42:12,220 --> 00:42:13,400
+Reverend Stang,
+
+797
+00:42:13,540 --> 00:42:18,280
+and actually hanging up the phones for them and killing them because Gary can't call me back?
+
+798
+00:42:18,380 --> 00:42:20,640
+The first guy in the first half hour couldn't call me back?
+
+799
+00:42:20,720 --> 00:42:24,020
+They seem to have control over Electro-Man.
+
+800
+00:42:24,020 --> 00:42:26,960
+I'm going to have to go to the magnetic processes that we don't even begin to understand.
+
+801
+00:42:26,980 --> 00:42:28,640
+I am not piddling around with my...
+
+802
+00:42:28,640 --> 00:42:30,320
+I'm going to just see who...
+
+803
+00:42:30,320 --> 00:42:31,980
+Oops, and they blinked out again.
+
+804
+00:42:32,060 --> 00:42:33,080
+I swear it, friends.
+
+805
+00:42:33,280 --> 00:42:36,280
+I had two callers light up, and they are gone again.
+
+806
+00:42:36,500 --> 00:42:37,460
+By the way, friends,
+
+807
+00:42:37,660 --> 00:42:44,620
+while we're on, I must say that the revival last night at the Fantasy Fair was a resounding success.
+
+808
+00:42:45,140 --> 00:42:47,860
+I had to carry bags of money out of there.
+
+809
+00:42:47,940 --> 00:42:49,620
+Some of it was a tad burnt.
+
+810
+00:42:50,520 --> 00:42:51,580
+But, you know,
+
+811
+00:42:51,580 --> 00:42:53,080
+we had to make certain sacrifices
+
+812
+00:42:54,020 --> 00:42:55,700
+before we can, you know, keep it all.
+
+813
+00:42:55,800 --> 00:42:57,180
+Who are we talking to on the phone right here?
+
+814
+00:42:57,280 --> 00:42:58,780
+This is Saint St. St. St. Deanna De'Brien.
+
+815
+00:42:59,140 --> 00:42:59,520
+Oh, good.
+
+816
+00:43:01,020 --> 00:43:02,280
+You called back, then.
+
+817
+00:43:02,380 --> 00:43:02,940
+Yeah, yeah.
+
+818
+00:43:02,980 --> 00:43:03,440
+Good for you.
+
+819
+00:43:03,620 --> 00:43:06,640
+Here with Pope Robert De' Bob, the pope on the rope.
+
+820
+00:43:06,980 --> 00:43:12,900
+We're here with the 69th Impervious Narcoleptic Church of the blistered, screaming hooter of Bob.
+
+821
+00:43:13,500 --> 00:43:13,880
+Excellent.
+
+822
+00:43:14,360 --> 00:43:15,660
+Yeah, yeah, yeah!
+
+823
+00:43:16,580 --> 00:43:17,920
+You had something about the men in black.
+
+824
+00:43:18,020 --> 00:43:18,680
+Let me have that again.
+
+825
+00:43:18,920 --> 00:43:19,240
+Okay.
+
+826
+00:43:19,640 --> 00:43:21,160
+Well, I'm here to tell you, friends,
+
+827
+00:43:21,180 --> 00:43:23,560
+about how the men in black are taking over our minds
+
+828
+00:43:23,560 --> 00:43:25,600
+by filling us up with factoids,
+
+829
+00:43:26,320 --> 00:43:29,080
+little bits of useless information that can do nothing for us.
+
+830
+00:43:29,100 --> 00:43:31,820
+Because, friends, how often have you sat and stared,
+
+831
+00:43:31,940 --> 00:43:36,540
+loose-jawed and mumbling into that cyclopean's cathode-ray slack vacuum
+
+832
+00:43:36,540 --> 00:43:39,400
+and awakened to find that six hours had passed,
+
+833
+00:43:39,560 --> 00:43:43,440
+the hours and minutes sucked into the polished, colorful void of TV land
+
+834
+00:43:43,440 --> 00:43:45,560
+like a camp accident of Brenda Vaccaro?
+
+835
+00:43:45,920 --> 00:43:47,860
+Where did that time go?
+
+836
+00:43:48,100 --> 00:43:50,520
+Where was your time control then, friends?
+
+837
+00:43:50,520 --> 00:43:55,720
+And how often have you been forced to spend seven hours in a cramped and mind-numbing room
+
+838
+00:43:55,720 --> 00:44:01,300
+with dozens of pink normals adding and indicting the peaceful strains of Lionel Richie
+
+839
+00:44:01,300 --> 00:44:04,680
+falling gently like a silk teddy on a soup commercial model?
+
+840
+00:44:05,660 --> 00:44:10,120
+And again, you wait to find that the hours have disappeared and your time spent,
+
+841
+00:44:10,280 --> 00:44:12,020
+but nothing is different from before.
+
+842
+00:44:12,860 --> 00:44:15,140
+But is it? Has nothing changed?
+
+843
+00:44:15,580 --> 00:44:18,060
+Oh, you poor, poor lost soul.
+
+844
+00:44:18,260 --> 00:44:20,500
+You're barreling down the slack loop.
+
+845
+00:44:20,520 --> 00:44:22,720
+This freeway that conspiracies set you on,
+
+846
+00:44:22,780 --> 00:44:25,500
+careening wildly past the JoJo's and fern bars
+
+847
+00:44:25,500 --> 00:44:30,080
+where more fall slack is readily available in clear $4 bottles of Corona
+
+848
+00:44:30,080 --> 00:44:32,960
+and individual servings of unsweetened sugar.
+
+849
+00:44:33,640 --> 00:44:35,180
+You're losing your soul, brother.
+
+850
+00:44:35,380 --> 00:44:37,400
+And you'll probably never miss it till it's gone.
+
+851
+00:44:37,900 --> 00:44:39,180
+But wait, you say.
+
+852
+00:44:39,480 --> 00:44:40,720
+I'm a pretty bright guy.
+
+853
+00:44:40,980 --> 00:44:42,660
+I keep up on the world around me.
+
+854
+00:44:42,680 --> 00:44:43,740
+I know what's going on, right?
+
+855
+00:44:44,300 --> 00:44:47,280
+Oh, son, you're lost and don't even know it.
+
+856
+00:44:47,360 --> 00:44:47,940
+And why?
+
+857
+00:44:48,080 --> 00:44:50,200
+How did the cons suck your soul out
+
+858
+00:44:50,200 --> 00:44:52,680
+and leave you a used, discarded condom?
+
+859
+00:44:52,820 --> 00:44:54,060
+It was easy, friend.
+
+860
+00:44:54,300 --> 00:44:56,760
+They stole your ability to dream.
+
+861
+00:44:57,320 --> 00:44:58,720
+And that was simple, too.
+
+862
+00:44:58,900 --> 00:45:01,000
+They pumped you full of factoids
+
+863
+00:45:01,000 --> 00:45:03,980
+and told you there was nothing left but what they filled you up with.
+
+864
+00:45:04,440 --> 00:45:06,900
+And just what are these factoids?
+
+865
+00:45:07,120 --> 00:45:09,500
+Well, friends, let me tell you a little story.
+
+866
+00:45:10,180 --> 00:45:13,300
+Before the dawn of man, when we were all naturally asleep,
+
+867
+00:45:13,720 --> 00:45:16,220
+our universe was suffused with thictoids,
+
+868
+00:45:16,220 --> 00:45:18,140
+the amino acids of the imagination.
+
+869
+00:45:19,380 --> 00:45:20,040
+We lived dreams.
+
+870
+00:45:20,200 --> 00:45:21,340
+We breathed fantasies.
+
+871
+00:45:21,340 --> 00:45:23,980
+We nocturnally emitted freshets of fancy.
+
+872
+00:45:24,660 --> 00:45:26,240
+And after the rude awakening,
+
+873
+00:45:26,480 --> 00:45:28,960
+consumption of thictoids dropped off dramatically,
+
+874
+00:45:29,240 --> 00:45:30,800
+as illustrated on this chart.
+
+875
+00:45:31,060 --> 00:45:32,580
+Can you see this in the back row?
+
+876
+00:45:33,000 --> 00:45:33,300
+Oh, yeah.
+
+877
+00:45:33,740 --> 00:45:34,640
+Hold it up higher.
+
+878
+00:45:34,760 --> 00:45:35,480
+I can't see it.
+
+879
+00:45:35,580 --> 00:45:36,860
+So what happened?
+
+880
+00:45:37,000 --> 00:45:37,960
+Give me my glasses.
+
+881
+00:45:38,200 --> 00:45:41,860
+The conspiracy found a way to capture those thictoids
+
+882
+00:45:41,860 --> 00:45:45,620
+that make life bearable and twist them to their own enslaving purpose.
+
+883
+00:45:46,000 --> 00:45:49,120
+They codified them into an art which they can control.
+
+884
+00:45:49,600 --> 00:45:50,180
+No, hey.
+
+885
+00:45:50,200 --> 00:45:53,900
+No heads can roll in the Iliad without the sappy moral instruction of virtue.
+
+886
+00:45:54,040 --> 00:45:57,100
+No boffing the queen without progenerating a noble city.
+
+887
+00:45:57,220 --> 00:46:00,280
+In short, no basic fun without a lesson.
+
+888
+00:46:00,700 --> 00:46:04,740
+And yet we bought it until the conspiracy came up with something even more insidious.
+
+889
+00:46:05,080 --> 00:46:05,580
+Facts.
+
+890
+00:46:05,800 --> 00:46:09,540
+You can't dispute the facts, they tell us, because facts are immutable.
+
+891
+00:46:09,680 --> 00:46:10,660
+They're how the world is.
+
+892
+00:46:11,120 --> 00:46:16,500
+But they forgot that eventually we'd find out what the facts really were and we'd seize control.
+
+893
+00:46:17,100 --> 00:46:18,580
+What happened then was obvious.
+
+894
+00:46:18,620 --> 00:46:19,240
+They panicked.
+
+895
+00:46:19,240 --> 00:46:21,600
+If they couldn't keep the facts from us, they'd lose control.
+
+896
+00:46:21,840 --> 00:46:22,560
+What could they do?
+
+897
+00:46:23,200 --> 00:46:26,600
+Friends, don't believe for a moment that the black boys are stupid.
+
+898
+00:46:26,860 --> 00:46:28,340
+They saw the way clearly.
+
+899
+00:46:28,360 --> 00:46:30,220
+They can't kill the facts.
+
+900
+00:46:30,280 --> 00:46:31,900
+They can't completely control fictions.
+
+901
+00:46:32,040 --> 00:46:37,360
+So the conspiracy is drowning them all with something more powerful than spermicidal douches,
+
+902
+00:46:37,360 --> 00:46:40,740
+more insidious than crabs, and more palatable than Coca-Cola.
+
+903
+00:46:41,360 --> 00:46:41,880
+What is it?
+
+904
+00:46:41,880 --> 00:46:49,180
+Friends, the conspiracy is pumping us with factoids, the very stuff of infotainment, the lip gloss on Vanilla.
+
+905
+00:46:49,240 --> 00:46:49,460
+The white.
+
+906
+00:46:49,980 --> 00:46:54,160
+None of those people on that are time that tonight exist, except this electronic lick on these.
+
+907
+00:46:55,180 --> 00:47:00,240
+Wouldn't that factoid, didn't that come from Norman Mailer about how he wrote a book about how he came with Marilyn Monroe?
+
+908
+00:47:00,580 --> 00:47:01,540
+Yeah, exactly.
+
+909
+00:47:01,820 --> 00:47:06,760
+The news about Gavin McCloud and fights between Linda Evans and Joan Collins.
+
+910
+00:47:06,960 --> 00:47:07,340
+Right.
+
+911
+00:47:07,520 --> 00:47:08,820
+Ed McMahon's laugh.
+
+912
+00:47:08,960 --> 00:47:11,960
+They're cable TV millionaires and they don't exist.
+
+913
+00:47:12,340 --> 00:47:12,560
+Yeah.
+
+914
+00:47:12,700 --> 00:47:13,940
+Well, thanks a lot.
+
+915
+00:47:13,940 --> 00:47:18,240
+And thanks a lot for that insight into the men in black, if indeed that was insight into the men in black.
+
+916
+00:47:18,360 --> 00:47:18,620
+Yeah.
+
+917
+00:47:19,240 --> 00:47:35,220
+And because the left-right spread is being aggravated to start a war that will put a stumbling block in the way of a further development to save the first third dimensional door.
+
+918
+00:47:37,240 --> 00:47:41,640
+The conspiracy has just recently bombed my lavatory in Geneva.
+
+919
+00:47:41,660 --> 00:47:47,220
+You can call us with your factoids on the men in black at 828-9500.
+
+920
+00:47:47,380 --> 00:47:49,000
+That's 828-9500.
+
+921
+00:47:49,000 --> 00:47:50,960
+This is the R Slack radio ministry.
+
+922
+00:47:50,960 --> 00:47:53,940
+He was kind enough to offer assistance he could.
+
+923
+00:47:54,040 --> 00:47:54,720
+Voice of the Yeti.
+
+924
+00:47:54,720 --> 00:47:57,760
+Unfortunately, money is not enough in time like this.
+
+925
+00:47:59,280 --> 00:48:03,660
+If the Air Force does have a UFO in their hands, where would they hide it?
+
+926
+00:48:03,960 --> 00:48:05,300
+This hour, Mr. Secretary.
+
+927
+00:48:05,600 --> 00:48:05,940
+All right.
+
+928
+00:48:06,640 --> 00:48:07,680
+Where are we, Bob?
+
+929
+00:48:07,920 --> 00:48:09,200
+The code is broken.
+
+930
+00:48:09,700 --> 00:48:10,200
+Trouble?
+
+931
+00:48:10,420 --> 00:48:10,920
+Big.
+
+932
+00:48:11,460 --> 00:48:11,960
+Security?
+
+933
+00:48:11,980 --> 00:48:13,320
+I have the lid on tight.
+
+934
+00:48:13,620 --> 00:48:15,160
+Well, take it off for me.
+
+935
+00:48:16,200 --> 00:48:18,780
+The message is Mars.
+
+936
+00:48:18,780 --> 00:48:19,860
+Mars needs women.
+
+937
+00:48:22,380 --> 00:48:23,600
+Mars needs.
+
+938
+00:48:26,020 --> 00:48:27,100
+It's a gag.
+
+939
+00:48:27,380 --> 00:48:28,340
+It's a prank.
+
+940
+00:48:29,160 --> 00:48:30,140
+It's a fake.
+
+941
+00:48:30,300 --> 00:48:32,020
+I don't think so, sir.
+
+942
+00:48:34,080 --> 00:48:37,700
+The door will be saved in time, Bob.
+
+943
+00:48:58,960 --> 00:49:00,100
+Oi!
+
+944
+00:49:05,060 --> 00:49:06,420
+It's getting cold.
+
+945
+00:49:06,420 --> 00:49:09,600
+It should have ANDED to 10%, so be careful.
+
+946
+00:49:09,700 --> 00:49:10,380
+I hope we can go home by the corona, now here.
+
+947
+00:49:10,380 --> 00:49:10,380
+
+
+948
+00:49:10,380 --> 00:49:10,920
+Kid.
+
+949
+00:49:14,300 --> 00:49:14,600
+It's Mr. Sam.
+
+950
+00:49:14,960 --> 00:49:17,780
+More estas.
+
+951
+00:49:17,780 --> 00:49:19,560
+Bufa are tame.
+
+952
+00:49:21,000 --> 00:49:22,680
+They're certainly a clone.
+
+953
+00:49:24,360 --> 00:49:25,800
+They could be anywhere.
+
+954
+00:49:28,140 --> 00:49:30,220
+Bufa, yakatisma.
+
+955
+00:49:30,780 --> 00:49:31,820
+Yakatisma.
+
+956
+00:49:32,320 --> 00:49:34,320
+Yakatisma, the buffalos.
+
+957
+00:49:35,440 --> 00:49:36,480
+Yakatisma.
+
+958
+00:49:37,300 --> 00:49:38,160
+But not true.
+
+959
+00:49:39,420 --> 00:49:42,360
+I like things to be like that.
+
+960
+00:49:43,380 --> 00:49:47,880
+That things and people can't always be the same.
+
+961
+00:49:48,160 --> 00:49:50,360
+Hello, I'm a margin.
+
+962
+00:49:50,460 --> 00:49:52,760
+I hope I speak your language.
+
+963
+00:49:53,580 --> 00:49:54,780
+This is a recording.
+
+964
+00:49:56,720 --> 00:49:59,380
+This is only a recording, friends.
+
+965
+00:49:59,400 --> 00:50:01,660
+All of these calls are on tape.
+
+966
+00:50:01,800 --> 00:50:05,560
+This is completely a previously recorded show.
+
+967
+00:50:05,680 --> 00:50:09,400
+Copyright 1986 by the Subgenius Foundation.
+
+968
+00:50:10,600 --> 00:50:11,740
+You there, Ludd?
+
+969
+00:50:11,840 --> 00:50:12,320
+Yeah.
+
+970
+00:50:12,360 --> 00:50:13,080
+Yeah, I'm here.
+
+971
+00:50:13,940 --> 00:50:16,520
+Yeah, I'd like to tell you, I've seen these men in black.
+
+972
+00:50:17,400 --> 00:50:18,240
+Yeah, sure.
+
+973
+00:50:18,720 --> 00:50:20,520
+They came into the place I work.
+
+974
+00:50:20,700 --> 00:50:21,320
+They sure did.
+
+975
+00:50:22,000 --> 00:50:26,880
+And they told me, they said, listen to Reverend Buck on the radio.
+
+976
+00:50:27,200 --> 00:50:27,580
+What?
+
+977
+00:50:28,360 --> 00:50:29,680
+They showed me that.
+
+978
+00:50:29,800 --> 00:50:30,580
+I deny this, Reverend Stang.
+
+979
+00:50:30,600 --> 00:50:31,380
+I deny this call.
+
+980
+00:50:31,420 --> 00:50:33,080
+That was Buck's agents.
+
+981
+00:50:33,200 --> 00:50:36,040
+That wasn't the sinister men in black.
+
+982
+00:50:36,500 --> 00:50:39,760
+Maybe you got, no, my girlfriend is black here, but she's not a man.
+
+983
+00:50:40,440 --> 00:50:42,340
+Well, I'd also like to tell you.
+
+984
+00:50:42,360 --> 00:50:45,100
+I was at that baptismal this week.
+
+985
+00:50:45,260 --> 00:50:45,920
+All right.
+
+986
+00:50:46,180 --> 00:50:47,360
+Brother Dilbert's baptismal.
+
+987
+00:50:47,980 --> 00:50:48,560
+Praise Bob.
+
+988
+00:50:48,880 --> 00:50:49,480
+Praise Bob.
+
+989
+00:50:49,680 --> 00:50:50,540
+Praise Bob.
+
+990
+00:50:50,800 --> 00:50:51,240
+Well, thank you.
+
+991
+00:50:51,260 --> 00:50:51,580
+Thanks.
+
+992
+00:50:51,580 --> 00:50:52,680
+Thanks for your testimony, Ludd.
+
+993
+00:50:53,800 --> 00:50:54,700
+Thanks for your.
+
+994
+00:50:55,760 --> 00:50:57,220
+Thanks for your.
+
+995
+00:50:57,400 --> 00:51:04,560
+And the ancient Hebrews didn't think it was so funny either.
+
+996
+00:51:04,600 --> 00:51:09,880
+When huge, noisy heliopters abducted and brainwashed Ezekiel and Elijah.
+
+997
+00:51:10,340 --> 00:51:12,220
+A rain diseased.
+
+998
+00:51:12,220 --> 00:51:16,120
+They raised frogs on the Egyptians and turned rivers to blood.
+
+999
+00:51:17,220 --> 00:51:21,900
+In fact, much of the time they mistook them for Yahweh's angels.
+
+1000
+00:51:21,940 --> 00:51:29,180
+Just as today's holy rollers mistake demonic possession for the spirit of Jesus.
+
+1001
+00:51:30,320 --> 00:51:37,480
+The men in black appeared to Abraham to tell him that his barren aged wife, Sarah, would
+
+1002
+00:51:37,480 --> 00:51:38,480
+bear children.
+
+1003
+00:51:38,680 --> 00:51:39,700
+Genesis 18 one.
+
+1004
+00:51:39,880 --> 00:51:41,060
+Later in Genesis.
+
+1005
+00:51:41,180 --> 00:51:41,800
+One of these.
+
+1006
+00:51:41,800 --> 00:51:49,440
+Beings disguised as an angel wrestled with Jacob and put his hip out of joint just by
+
+1007
+00:51:49,440 --> 00:51:50,300
+touching it.
+
+1008
+00:51:52,200 --> 00:51:57,540
+The watchers manipulate people and nations in many ways.
+
+1009
+00:51:57,980 --> 00:52:03,140
+The crudest ones drag people into their saucers and hypnotize them.
+
+1010
+00:52:03,320 --> 00:52:11,780
+Others work through dreams, telepathy, seances, automatic writing, Ouija boards, blank, writing,
+
+1011
+00:52:11,780 --> 00:52:11,780
+
+
+1012
+00:52:11,780 --> 00:52:20,240
+recording tape and microwave beams of pink light used to brain rape their victims.
+
+1013
+00:52:24,840 --> 00:52:30,020
+The most persistent caller of the night.
+
+1014
+00:52:30,120 --> 00:52:31,120
+Gary's on the line.
+
+1015
+00:52:33,720 --> 00:52:38,960
+The Slack radio ministry would like to introduce Gary.
+
+1016
+00:52:42,660 --> 00:52:43,480
+Gary, is that you?
+
+1017
+00:52:44,480 --> 00:52:44,960
+Gary?
+
+1018
+00:52:46,100 --> 00:52:47,020
+Gary, are you there?
+
+1019
+00:52:47,140 --> 00:52:47,900
+Can you hear me?
+
+1020
+00:52:48,060 --> 00:52:48,760
+Are you Gary?
+
+1021
+00:52:49,040 --> 00:52:50,140
+Yeah, I'm Gary.
+
+1022
+00:52:50,140 --> 00:52:50,220
+Gary, I'm Gary.
+
+1023
+00:52:50,220 --> 00:52:50,220
+
+
+1024
+00:52:50,220 --> 00:52:50,220
+
+
+1025
+00:52:50,220 --> 00:52:50,220
+
+
+1026
+00:52:50,220 --> 00:52:50,220
+
+
+1027
+00:52:50,220 --> 00:52:50,220
+
+
+1028
+00:52:50,220 --> 00:52:50,220
+
+
+1029
+00:52:50,220 --> 00:52:50,220
+
+
+1030
+00:52:50,220 --> 00:52:50,220
+
+
+1031
+00:52:50,240 --> 00:52:52,420
+Okay, Gary, you got a book called what?
+
+1032
+00:52:52,980 --> 00:52:53,740
+Clear intent.
+
+1033
+00:52:54,240 --> 00:52:57,480
+Okay, let's have some details about the men in black, Gary.
+
+1034
+00:52:57,560 --> 00:52:58,460
+Come on, fire it at us.
+
+1035
+00:52:58,480 --> 00:53:01,640
+Well, I've just started reading the book, but I can say one thing.
+
+1036
+00:53:01,720 --> 00:53:06,020
+There was a wave of UFO sightings that occurred during the 70s at military bases.
+
+1037
+00:53:06,360 --> 00:53:09,260
+70% of UFO sightings occur at military bases.
+
+1038
+00:53:09,460 --> 00:53:13,900
+They've been doing all sorts of insidious stuff, and you can believe they're trying
+
+1039
+00:53:13,900 --> 00:53:14,720
+to cover it up.
+
+1040
+00:53:15,420 --> 00:53:19,020
+The government don't know what's going on, or do they know what's going on?
+
+1041
+00:53:19,060 --> 00:53:19,980
+No one really knows.
+
+1042
+00:53:19,980 --> 00:53:22,820
+I think they're just a little part of what's going on.
+
+1043
+00:53:22,880 --> 00:53:26,940
+Remember, Gary, remember, it's one conspiracy.
+
+1044
+00:53:28,040 --> 00:53:36,080
+You know, you can say, okay, Coke is in red China and Pepsi's in Russia because the Republicans
+
+1045
+00:53:36,080 --> 00:53:40,640
+put the concession in Russia and the Democrats put it in red China.
+
+1046
+00:53:41,400 --> 00:53:42,760
+It's all one conspiracy.
+
+1047
+00:53:43,420 --> 00:53:44,440
+Yeah, I believe that.
+
+1048
+00:53:44,680 --> 00:53:45,980
+All right, praise Bob, Gary.
+
+1049
+00:53:46,180 --> 00:53:48,700
+Thanks for keeping trying to call us back.
+
+1050
+00:53:48,760 --> 00:53:49,620
+We've had a rugged night.
+
+1051
+00:53:49,640 --> 00:53:49,940
+We've had a rugged night.
+
+1052
+00:53:49,940 --> 00:53:49,940
+
+
+1053
+00:53:49,940 --> 00:53:49,940
+
+
+1054
+00:53:49,980 --> 00:53:51,920
+The men in black don't want us
+
+1055
+00:53:51,920 --> 00:53:52,620
+to tell the truth.
+
+1056
+00:53:52,660 --> 00:53:58,040
+But what if that if the story news
+
+1057
+00:53:59,060 --> 00:54:01,900
+remember just decoys strategies.
+
+1058
+00:54:03,140 --> 00:54:04,060
+No.
+
+1059
+00:54:09,480 --> 00:54:13,620
+We're not here to destroy
+
+1060
+00:54:13,620 --> 00:54:19,960
+We are here to employ
+
+1061
+00:54:20,600 --> 00:54:21,540
+Hello?
+
+1062
+00:54:21,720 --> 00:54:22,260
+Hello?
+
+1063
+00:54:24,800 --> 00:54:26,200
+Yes, dear brother.
+
+1064
+00:54:27,540 --> 00:54:31,620
+How can you hate us in our quest for forbidden knowledge?
+
+1065
+00:54:33,800 --> 00:54:39,040
+I just called to say I am one of the men in black.
+
+1066
+00:54:39,300 --> 00:54:40,960
+Oh, we always get these times.
+
+1067
+00:54:41,120 --> 00:54:45,600
+They're all Bob, or they're really the men in black, or they're really Jehovah's Witnesses.
+
+1068
+00:54:48,380 --> 00:54:50,660
+But it's true.
+
+1069
+00:54:53,500 --> 00:54:54,360
+It's true.
+
+1070
+00:54:54,620 --> 00:54:56,440
+Yeah, prove it real quick.
+
+1071
+00:54:57,060 --> 00:54:57,880
+All right.
+
+1072
+00:54:58,360 --> 00:55:01,460
+I've been watching you staying, and you too, naked.
+
+1073
+00:55:01,620 --> 00:55:04,580
+How would you like a nice FBI investigation?
+
+1074
+00:55:05,900 --> 00:55:06,940
+Bobby has an emergency.
+
+1075
+00:55:07,260 --> 00:55:08,720
+828-9500, will you please?
+
+1076
+00:55:09,020 --> 00:55:10,380
+No, operator, that's a...
+
+1077
+00:55:10,380 --> 00:55:12,540
+Please make that guy pay.
+
+1078
+00:55:14,140 --> 00:55:14,620
+Sir?
+
+1079
+00:55:14,960 --> 00:55:16,140
+Make that guy pay.
+
+1080
+00:55:16,300 --> 00:55:18,940
+I want that guy's number, and I want it on my desk in the morning.
+
+1081
+00:55:19,040 --> 00:55:20,500
+I don't want that guy on the line.
+
+1082
+00:55:25,100 --> 00:55:26,060
+Praise Bob.
+
+1083
+00:55:28,120 --> 00:55:28,600
+Praise.
+
+1084
+00:55:29,280 --> 00:55:29,560
+Praise.
+
+1085
+00:55:29,560 --> 00:55:30,040
+Praise.
+
+1086
+00:55:31,040 --> 00:55:35,660
+Millions of people have been contacted, and every single one gets a different story.
+
+1087
+00:55:35,860 --> 00:55:41,340
+But what if the stories which the contactees remember are just decoy strategies?
+
+1088
+00:55:41,980 --> 00:55:47,620
+What if the men in black are inflicting some unknown kind of subliminal brainwashing,
+
+1089
+00:55:47,720 --> 00:55:52,140
+with all of these people getting the same instructions implanted secretly,
+
+1090
+00:55:52,380 --> 00:55:56,060
+all to be triggered at once, at some crucial time?
+
+1091
+00:55:56,200 --> 00:55:56,600
+Say,
+
+1092
+00:55:57,540 --> 00:55:59,200
+just before the X-ist,
+
+1093
+00:55:59,200 --> 00:55:59,780
+landing?
+
+1094
+00:56:01,180 --> 00:56:01,380
+Or,
+
+1095
+00:56:01,540 --> 00:56:09,060
+are we being set up for the sudden unleashing of an army of crazed, gun-toting Manchurian candidates?
+
+1096
+00:56:10,080 --> 00:56:12,520
+Is this perhaps what the Christian rapture,
+
+1097
+00:56:12,560 --> 00:56:13,660
+uh, means,
+
+1098
+00:56:13,860 --> 00:56:16,520
+which the fighting Jesus never discussed?
+
+1099
+00:56:17,520 --> 00:56:21,620
+If the scales dropped from our eyes for a moment, my friends,
+
+1100
+00:56:22,320 --> 00:56:26,380
+would we see a sky swarming with demonic entities?
+
+1101
+00:56:27,360 --> 00:56:28,160
+Yeah.
+
+1102
+00:56:29,620 --> 00:56:33,140
+I didn't know that I'd been snatched up, and it wasn't really a dream,
+
+1103
+00:56:33,280 --> 00:56:36,320
+until I saw these sacred nasal positions.
+
+1104
+00:56:36,840 --> 00:56:39,700
+And suddenly it all came back to me.
+
+1105
+00:56:39,820 --> 00:56:45,020
+And I realized that they'd stolen four and a half hours out of my life,
+
+1106
+00:56:45,120 --> 00:56:49,300
+when they put me in that tiny room and plugged all those wires into me,
+
+1107
+00:56:49,420 --> 00:56:54,340
+and made me talk, and talk, and talk, and talk.
+
+1108
+00:56:56,080 --> 00:56:58,660
+Friends and neighbors of planet Earth,
+
+1109
+00:56:58,660 --> 00:57:03,000
+I come to you from a long, long ways off.
+
+1110
+00:57:03,440 --> 00:57:06,720
+I come from a planet that is similar to yours.
+
+1111
+00:57:07,300 --> 00:57:12,420
+Your many fears, tensions, and frustrations are no longer ours.
+
+1112
+00:57:14,460 --> 00:57:19,760
+Oh, time could do as he chose.
+
+1113
+00:57:20,660 --> 00:57:26,160
+He could extend his finger down into the world of man,
+
+1114
+00:57:26,260 --> 00:57:27,380
+and...
+
+1115
+00:57:27,380 --> 00:57:28,320
+El montan.
+
+1116
+00:57:28,320 --> 00:57:28,640
+El montan.
+
+1117
+00:57:28,640 --> 00:57:28,640
+
+
+1118
+00:57:28,660 --> 00:57:32,740
+And swirling around as we would stir up a cold, meatball.
+
+1119
+00:57:33,320 --> 00:57:34,080
+Yucateezma.
+
+1120
+00:57:34,080 --> 00:57:38,560
+Causing events which no man can explain.
+
+1121
+00:57:40,160 --> 00:57:40,920
+Yucateezma!
+
+1122
+00:57:44,280 --> 00:57:45,040
+Yucateezma.
+
+1123
+00:57:46,080 --> 00:57:46,840
+Yucateezma.
+
+1124
+00:57:47,600 --> 00:57:48,360
+Yucateezma.
+
+1125
+00:57:48,360 --> 00:57:48,680
+Yucateezma.
+
+1126
+00:57:50,340 --> 00:57:53,740
+Say, uh, you want to go to see your yucateezma partner?
+
+1127
+00:57:54,600 --> 00:57:57,420
+Yeah, she's a yucateezma lover.
+
+1128
+00:57:57,880 --> 00:57:58,640
+Yucateezma.
+
+1129
+00:57:58,660 --> 00:57:59,860
+Yucateezma.
+
+1130
+00:58:03,040 --> 00:58:07,220
+Perhaps the ugliest aspect of the whole business
+
+1131
+00:58:07,860 --> 00:58:13,100
+is that the human conspiracy aids and abets them whenever possible.
+
+1132
+00:58:13,460 --> 00:58:19,740
+These sick traitors to Earth are operating on the same string of promises Hitler was.
+
+1133
+00:58:20,080 --> 00:58:21,640
+That if they play along,
+
+1134
+00:58:21,960 --> 00:58:27,580
+the advanced supersonic Nazi Hell creatures from beneath the hollow Earth
+
+1135
+00:58:27,580 --> 00:58:33,720
+would make them lords over a new race of Aryan super normals.
+
+1136
+00:58:33,880 --> 00:58:38,180
+Of course, oil sheiks are told it will be Arab super normals
+
+1137
+00:58:38,180 --> 00:58:42,420
+and African despots are told it will be African super normals and so on.
+
+1138
+00:58:43,300 --> 00:58:46,560
+Deep inside the hollow earth in Hitler's library,
+
+1139
+00:58:46,920 --> 00:58:49,280
+yes, he still lives, or at least his head does,
+
+1140
+00:58:50,000 --> 00:58:54,140
+there exists a book called Beware of Bob.
+
+1141
+00:58:54,140 --> 00:58:57,680
+For the church has been fighting these creatures
+
+1142
+00:58:57,680 --> 00:59:02,940
+since Admiral Byrd discovered the entrance to their domain at the Pole.
+
+1143
+00:59:04,400 --> 00:59:08,180
+And so we find that there are two groups of supernatural teams
+
+1144
+00:59:08,180 --> 00:59:13,140
+exerting influence on the bovine, pliable minds of humans.
+
+1145
+00:59:14,140 --> 00:59:16,360
+The Watchers are the silence group,
+
+1146
+00:59:17,160 --> 00:59:19,720
+attempting to smother our potential to evolve
+
+1147
+00:59:19,720 --> 00:59:23,560
+and carrying the basic message of lay off.
+
+1148
+00:59:24,140 --> 00:59:28,120
+Our rivals, Jehovah One's shock group,
+
+1149
+00:59:28,380 --> 00:59:30,100
+are saying, get ready,
+
+1150
+00:59:30,980 --> 00:59:35,800
+trying in a sense to condition us to the idea that we are not alone.
+
+1151
+00:59:36,280 --> 00:59:38,660
+One is a cosmic infection,
+
+1152
+00:59:39,540 --> 00:59:42,920
+the other a cosmic inoculation.
+
+1153
+00:59:48,260 --> 00:59:50,780
+Somebody's faith is being tested
+
+1154
+00:59:50,780 --> 00:59:54,120
+and the stark fist of removal is...
+
+1155
+00:59:54,140 --> 00:59:55,880
+raised in judgement,
+
+1156
+00:59:56,260 --> 00:59:59,700
+poised for a great evacuation,
+
+1157
+01:00:00,380 --> 01:00:01,500
+a movement,
+
+1158
+01:00:01,920 --> 01:00:06,240
+an elimination and a wiping from the face of the earth.
+
+1159
+01:00:06,300 --> 01:00:09,280
+Not to be confused with the rapture, which is a minor thing.
+
+1160
+01:00:09,500 --> 01:00:11,120
+Some geniuses do it nightly.
+
+1161
+01:00:11,160 --> 01:00:16,320
+They rapture in their sleep and in the morning are raised incorruptible, yet changed.
+
+1162
+01:00:16,660 --> 01:00:21,420
+But then the rapture might be for real, but more like night of the living dead.
+
+1163
+01:00:21,680 --> 01:00:24,120
+Some geniuses leading the living in the night.
+
+1164
+01:00:24,120 --> 01:00:27,660
+They are in battle against these heathen false Christian golems
+
+1165
+01:00:27,660 --> 01:00:32,080
+because rapture is from the same root word as rape.
+
+1166
+01:00:32,200 --> 01:00:35,780
+Oh, hear ye, ye of the deaf ear!
+
+1167
+01:00:36,040 --> 01:00:38,720
+The Lord saith, heads up!
+
+1168
+01:00:38,880 --> 01:00:44,260
+And the people will feel the lash of the thousand scourges of the tribulations,
+
+1169
+01:00:44,320 --> 01:00:49,500
+even, yea, lo, verily unto the final rapture
+
+1170
+01:00:49,500 --> 01:00:53,080
+of the equilibrium of the scales of time.
+
+1171
+01:00:53,080 --> 01:00:57,720
+Omicron epsilon, the vision beholding itself.
+
+1172
+01:00:58,660 --> 01:01:00,700
+Repent, ye mockers!
+
+1173
+01:01:01,040 --> 01:01:06,240
+Elijah puffeth scornfully on his pipe, though he smileth.
+
+1174
+01:01:06,460 --> 01:01:08,960
+Wake up! Get off your butt!
+
+1175
+01:01:24,560 --> 01:01:29,160
+That is the faith of Jesus Christ.
+
+1176
+01:01:30,080 --> 01:01:32,940
+That is the faith of Jesus.
+
+1177
+01:01:33,660 --> 01:01:45,060
+That is the faith, that is the Rabb
+
+1178
+01:01:49,440 --> 01:01:50,600
+that's theナ
+

@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:02,100
+Test, test, test, let's see here...
+
+2
+00:00:02,100 --> 00:00:08,500
+The viewer about to listen to is specially designed only to be played on radio stations...
+
+3
+00:00:08,500 --> 00:00:09,220
+This radio station?
+
+4
+00:00:09,440 --> 00:00:11,920
+And only in the city of...
+
+5
+00:00:11,920 --> 00:00:12,700
+The city!
+
+6
+00:00:13,180 --> 00:00:13,860
+And...
+
+7
+00:00:13,860 --> 00:00:15,160
+Ah, yes.
+
+8
+00:00:18,760 --> 00:00:21,160
+I hear it coming through.
+
+9
+00:00:21,260 --> 00:00:25,060
+We'll just set all the levels as best we can.
+
+10
+00:00:25,560 --> 00:00:29,020
+As we praise that man...
+
+11
+00:00:29,020 --> 00:00:34,520
+Welcome, dear friends, to the subgenius hour of Slack!
+
